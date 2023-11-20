@@ -61,6 +61,11 @@ Berikut sumber daya proyek yang dibutuhkan dalam pengembangan Website Cultural V
 ### Deploy
 - Netlify
 ### Manajemen Proyek
+
 - Zoom Meeting
 - Github
 - WhatsApp
+
+## Link Figma
+https://www.figma.com/file/WM4cbqaV0zP2QzbAULkDlr/CulturalVoyager?type=design&node-id=0%3A1&mode=design&t=jraYRuTkYFW28IYw-1
+
