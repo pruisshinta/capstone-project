@@ -6,11 +6,11 @@
 ## Team
 Team ID: C523-PS011
 Anggota Tim:
-1. 227XB211 - Pruis Shinta Reza Elbas
-2. F227YB216 - Moch Novan Romadhon
-3. F200YB199 - Alvonso N
-4. F227YB264 - Nando Oktavian Saputra
-5. S296YB470 - Arya Hafidz Alamsyah
+1. F227XB211 - [Pruis Shinta Reza Elbas](https://github.com/pruisshinta)
+2. F227YB216 - [Moch Novan Romadhon](https://github.com/MochNovanRomadhon)
+3. F200YB199 - [Alvonso N](https://github.com/V0NSO)
+4. F227YB264 - [Nando Oktavian Saputra](https://github.com/Saputraa1)
+5. S296YB470 - [Arya Hafidz Alamsyah](https://github.com/aryahafidz)
 
 ## RINGKASAN EKSEKUTIF
 ### Problem Statement
@@ -61,10 +61,18 @@ Berikut sumber daya proyek yang dibutuhkan dalam pengembangan Website Cultural V
 ### Deploy
 - Netlify
 ### Manajemen Proyek
-
 - Zoom Meeting
 - Github
 - WhatsApp
+
+## RENCANA MANAJEMEN RISIKO DAN ISU
+| Isu | Penyebab | Risiko | Solusi |
+|-----|----------|--------|--------|
+|Urgensi website|Urgensi website yang dikembangkan dirasa kurang memberikan dampak.|Segala hal yang telah disusun dan direncanakan dari awal harus disusun lagi dari awal sehingga menimbulkan risiko keterlambatan.|Memastikan dengan baik bahwa ide yang diambil dan fitur-fitur yang akan diberikan nantinya benar-benar dapat memberikan dampak positif.|
+|Kesibukan anggota tim|Perbedaan kegiatan dari masing-masing anggota tim sehingga harus bisa mengatur waktu meeting mingguan dengan tepat.|Tidak adanya waktu yang tepat untuk melakukan meeting mingguan sehingga meeting mingguan tidak terlaksanakan.|Melakukan kesepakatan bersama kapan meeting mingguan akan dilaksanakan jauh hari sebelum meeting dilaksanakn. Agar dapat menyempatkan waktu dan menolak kegiatan-kegiatan lain yang dirasa kurang penting.|
+|Dana|Membutuhkan dana untuk melakukan deployment atau mengakses tools lain yang dibutuhkan dalam pengembangan website.|Website kurang maksimal atau bahkan tidak berjalan dengan sesuai harapan.|Mencari hosting tools dan tools pendukung pengembangan website yang open source namun layak untuk digunakan.|
+|Desain visual website|Ketidaksepakatan dalam kelompok terkait dengan desain visual website.|Proses pengembangan  menjadi terhenti, pengembangan desain menjadi terlambat, atau hasil akhir menjadi tidak konsisten.|Menentukan desain yang jelas dan tetap terbuka ketika ada masukan.|
+|Pemahaman Pengguna|Kurangnya pemahaman tentang kebutuhan pengguna.|Website tidak sesuai dengan harapan pengguna dan minat menjadi berkurang.|Melakukan penelitian pengguna seperti melakukan wawancara untuk mendapatkan masukan dan umpan balik.|
 
 ## Link Figma
 https://www.figma.com/file/WM4cbqaV0zP2QzbAULkDlr/CulturalVoyager?type=design&node-id=0%3A1&mode=design&t=jraYRuTkYFW28IYw-1
