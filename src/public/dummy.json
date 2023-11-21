@@ -1,0 +1,404 @@
+{
+  "cultures": [
+    {
+      "id": "1",
+      "name": "Ujung Kulon",
+      "city": "Banten",
+      "address": "Jl. Perintis Kemerdekaan No.51 Kec. Labuan, Kab. Pandeglang, Provinsi Banten. 42264, Indonesia",
+      "picture": "",
+      "description": "Tempat konservasi dan wisata yang menawarkan kesempatan bertemu badak Jawa dan berbagai kegiatan alam seperti snorkeling dan eksplorasi alam."
+    },
+    {
+      "id": "2",
+      "name": "Kawah Putih",
+      "city": "Bandung",
+      "address": "Jl. Raa Ciwidey Patengan Km 11 Lebakmuncang, Ciwidey, Sugihmukti, Pasir Jambu, Bandung, Jawa Barat",
+      "picture": "",
+      "description": "Terkenal dengan danau kawah berwarna putih kebiruan yang indah, cocok untuk fotografi dan memiliki kandungan belerang yang tinggi."
+    },
+    {
+      "id": "3",
+      "name": "Kebun Raya Bogor",
+      "city": "Bogor",
+      "address": "Jl. Ir. H. Juanda No.13, Paledang, Kec. Bogor Tengah, Kota Bogor.",
+      "picture": "",
+      "description": " Taman botani luas dengan berbagai spesies tumbuhan, museum zoologi, dan Griya Anggrek, menawarkan hawa asri dan kegiatan edukatif."
+    },
+    {
+      "id": "4",
+      "name": "Candi Borobudur",
+      "city": "Magelang",
+      "address": "Jl. Badrawati, Kawasan Candi Borobudur, Borobudur, Kec. Borobudur, Magelang.",
+      "picture": "",
+      "description": "Candi Buddha megah dengan relief historis dan arsitektur yang mengagumkan, menawarkan pengalaman spiritual dan budaya."
+    },
+    {
+      "id": "5",
+      "name": "Candi Prambanan",
+      "city": "Yogyakarta",
+      "address": "Jl. Raya Solo-Yogyakarta No.16, Bokoharjo, Kec. Prambanan, Kab. Sleman.",
+      "picture": "",
+      "description": "Kompleks candi Hindu besar dengan kisah Roro Jonggrang yang terkenal, menampilkan arsitektur dan seni khas Jawa kuno."
+    },
+    {
+      "id": "6",
+      "name": "Taman Wisata Alam Papandayan",
+      "city": "Bandung",
+      "address": "Desa Sirnajaya & Desa Keramat Wangi, Kecamatan Cisurupan, Kabupaten Garut, serta Desa Neglawangi, Kecamatan Kertasari, Kabupaten Bandung.",
+      "picture": "",
+      "description": "TWA Papandayan merupakan taman wisata alam yang menyajikan berbagai objek wisata menarik dan kegiatan outdoor. Gunung Papandayan sendiri adalah gunung api strato yang berlokasi di Kabupaten Garut. Tempat ini ideal untuk berbagai aktivitas wisata keluarga atau bersama teman, menawarkan keindahan alam yang asri dan menyegarkan​."
+    },
+    {
+      "id": "7",
+      "name": "Taman Wisata Alam Gunung Tangkuban Perahu",
+      "city": "Bandung",
+      "address": "Jl. Tangkuban Perahu No. 282, Cikole Lembang, Kab. Bandung Barat 40391, Indonesia.",
+      "picture": "",
+      "description": "Gunung Tangkuban Parahu adalah gunung api berbentuk stratovolcano dengan pusat erupsi yang berpindah dari timur ke barat. Ketinggiannya mencapai 2.084 meter dengan suhu rata-rata harian sekitar 17°C pada siang hari dan 2°C pada malam hari. TWA Gunung Tangkuban Perahu menawarkan pengalaman wisata alam yang unik dengan pemandangan kawah aktif dan lanskap alam yang menawan. Kawasan ini sangat cocok untuk kegiatan seperti hiking, eksplorasi alam, dan fotografi."
+    },
+    {
+      "id": "8",
+      "name": "Kepulauan Raja Ampat",
+      "city": "Vogelkoop",
+      "address": "Barat Bagian Kepala Burung (Vogelkoop) Pulau Papua.",
+      "picture": "",
+      "description": "Dikenal sebagai salah satu lokasi menyelam terbaik di dunia dengan keanekaragaman hayati laut yang luar biasa."
+    },
+    {
+      "id": "9",
+      "name": "Taman Nasional Teluk Cendrawasih",
+      "city": "Teluk Wondama",
+      "address": "Sobei Indah, Duairi, Kabupaten Teluk Wondama, Papua Barat. 98362.",
+      "picture": "",
+      "description": "Taman Nasional dengan kekayaan flora dan fauna, termasuk terumbu karang, moluska, dan ikan, serta memiliki beberapa pulau kecil dan goa air panas."
+    },
+    {
+      "id": "10",
+      "name": "Taman Nasional Lorentz",
+      "city": "Jayawijaya",
+      "address": "Jl. SD Percobaan Potikelek, Kotak Pos 176, Wamena 99511, Kabupaten Jayawijaya, Provinsi Papua.",
+      "picture": "",
+      "description": "Taman nasional terbesar di Asia Tenggara, terkenal dengan keberagaman vegetasi dan spesies langka, terletak di kawasan dengan gletser di daerah tropis."
+    },
+    {
+      "id": "11",
+      "name": "Pulau Rumberpon",
+      "city": "Teluk Wondama",
+      "address": "Pulau RumberponDistrik Rumberpon, Kabupaten Teluk Wondama, Papua Bar.",
+      "picture": "",
+      "description": "Terkenal dengan pasir putih dan kegiatan seperti snorkeling, surfing, scuba diving, serta melihat spesies burung dan rusa."
+    },
+    {
+      "id": "12",
+      "name": "Danau Paniai",
+      "city": "Paniai",
+      "address": "Danau PaniaiMogeya, Distrik Paniai Barat, Kabupaten Paniai, Papua.",
+      "picture": "",
+      "description": "Danau terindah dengan kegiatan seperti memancing, menikmati keindahan alam, dan kebudayaan lokal suku Mee dan Moni."
+    },
+    {
+      "id": "13",
+      "name": "Lembah Baliem",
+      "city": "Jayawijaya",
+      "address": "Pegunungan Jayawijaya, Papua, Indonesia",
+      "picture": "",
+      "description": "Kawasan sejuk dengan festival tahunan yang menampilkan cerita perang antar suku dan kebudayaan masyarakat suku asli Papua."
+    },
+    {
+      "id": "14",
+      "name": "Desa Wisata Sauwandarek",
+      "city": "Raja Ampat",
+      "address": "Sauandarek, Meos Mansar, Kabupaten Raja Ampat, Papua Barat.",
+      "picture": "",
+      "description": "Menawarkan wisata budaya dan alam, dengan kegiatan seperti berenang, snorkeling, dan memancing, serta kerajinan tangan khas Papua."
+    },
+    {
+      "id": "15",
+      "name": "Rumah Budaya Sumba",
+      "city": "Sumba Barat Daya",
+      "address": "Jl. Rumah Budaya No.212, Kalembu Nga, bangga Weetebula, Kabupaten Sumba Barat Daya, Nusa Tenggara Timur.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/rumah-budaya-sumba.jpg",
+      "description": "Rumah Budaya Sumba menjadi salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan. Lokasi tempat wisata yang satu ini berada di Jalan Rumah Budaya Nomor 212, Kabupaten Sumba Barat Daya, Nusa Tenggara Timur. Tempat yang satu ini merupakan sebuah museum yang dikhususkan untuk memperkenalkan budaya Sumba. Ada banyak fungsi dari Rumah Budaya Sumba diantaranya untuk penelitian, memperkenalkan budaya Sumba, tempat wisata, dan juga digunakan untuk pertemuan. Di lokasi rumah budaya Sumba, pengunjung bisa melihat berbagai koleksi benda bersejarah yang dikumpulkan oleh Pater Robert Ramone. Selain menikmati berbagai budaya serta koleksi sejarah, Anda juga bisa menikmati bentuk bangunan yang unik dan instagramable."
+    },
+    {
+      "id": "16",
+      "name": "Museum Daerah Nusa Tenggara Timur",
+      "city": "Lombok Barat",
+      "address": "Jalan Raya Narmada, Lembuak, Kab. Lombok Barat, Nusa Tenggara Barat.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/desa-sade.jpg",
+      "description": "Selain menikmati pemandangan alam yang indah, ada cukup banyak wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan salah satunya adalah Museum Daerah Nusa Tenggara Timur. Musim yang satu ini terletak di Jalan Raya Eltari II, Kota Kupang, Nusa Tenggara Timur. Saat berada di sana, Anda akan dimanjakan dengan berbagai koleksi museum yang sangat menarik. Ada kurang lebih 6199 koleksi yang ada di museum ini. Bentuk koleksi yang ditampilkan pun sangat beragam mulai dari benda benda arkeologi, biologi, geografi, dan lain-lain. Saat berlibur ke kawasan Nusa Tenggara, Museum Daerah yang satu ini bisa menjadi tempat wisata yang sangat menarik untuk didatangi."
+    },
+    {
+      "id": "17",
+      "name": "Taman Narmada",
+      "city": "",
+      "address": "",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/Taman-Narmada.jpg",
+      "description": "Ketika Anda berkesempatan untuk datang ke Lombok, Nusa Tenggara Barat, Anda wajib mengunjungi berbagai tempat wisata indah, mulai dari wisata alam hingga wisata budaya. Salah satu wisata budaya di Nusa Tenggara yang menjadi favorit semua kalangan adalah Taman Narmada. Taman yang satu ini berbeda dengan taman pada umumnya, karena taman ini menyimpan peninggalan sejarah raja Mataram Lombok pada abad ke-18. Wisata budaya yang satu ini sangat sayang untuk Anda lewatkan. Di Taman Narmada, Anda dapat melihat beragam bangunan bersejarah dengan keindahan yang luar biasa. Mulai dari kediaman raja di masa lalu hingga tempat ibadah. Pada zaman dahulu, Balai Toji, Terang, dan Pamerajan merupakan bagian dari kediaman raja, sedangakn bagian dari tempat ibadah meliputi Pura Lingsar dan Pura Kalasa. Untuk mendapatkan pemandangan yang lebih memukau, Anda bisa menikmatinya dari puncak Pura Kalasa."
+    },
+    {
+      "id": "18",
+      "name": "Benteng Marilonga",
+      "city": "Ende",
+      "address": "Jl. Trans Ende, Watunggere, Kec. Detukeli, Kabupaten Ende, Nusa Tenggara Timur.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/benteng-marilonga.jpg",
+      "description": "Salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan adalah Benteng Marilonga. Benteng yang satu ini beralamat di Desa Watunggere, Kecamatan Detukeli, Kabupaten Ende, Nusa Tenggara Timur. Benteng yang satu ini memiliki ciri khas bagian luarnya yang merupakan bentuk lingkaran dengan susunan kayu kayu. Sedangkan di bagian dalam lingkaran terdapat tumpukan batu yang merupakan tempat dimana para pejuang dimakamkan setelah gugur dari peperangan. Hingga saat ini, Benteng Marilonga diakui sebagai salah satu wisata budaya dan bersejarah di Nusa Tenggara."
+    },
+    {
+      "id": "19",
+      "name": "Desa Adat Wologai",
+      "city": "Ende",
+      "address": "Kecamatan Detusoko, Kabupaten Ende, Propinsi Nusa Tenggara Timur.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/kampung-adat-wologai.jpg",
+      "description": "Tidak kalah indah dengan desa adat lainnya, Desa Adat Wologai juga menjadi salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan. Lokasi dari desa adat yang satu ini berada di Kabupaten Ende, Nusa Tenggara Timur. Desa Adat Wologai memiliki cerita yang unik dan sedikit seram yakni dulunya di desa yang satu ini kulit manusia digunakan sebagai gendang. Untuk masuk ke desa adat ini, pengunjung wajib mengisi buku tamu dan membayar biaya masuk sebesar Rp 10.000, -. Banyak peraturan yang harus dipatuhi saat berada di desa yang satu ini. Karena jika tidak mematuhi atau melanggar peraturan, akan berakibat fatal dan membahayakan bagi pengunjung."
+    },
+    {
+      "id": "20",
+      "name": "Museum Negeri Kupang NTT",
+      "city": "Kupang",
+      "address": "JL Eltari 2, Oesapa Selatan, Kelapa Lima, Oesapa Sel, Kec. Klp. Lima, Kota Kupang, Nusa Tenggara Timur.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/museum-negeri-nusa-tenggara-timur.jpg",
+      "description": "Berkunjung ke tempat wisata merupakan kegiatan yang diinginkan oleh banyak orang ketika hari libur tiba. Kupang, Nusa Tenggara Timur dapat menjadi salah satu pilihan tujuan yang tepat untuk Anda. Di sana, Anda akan melihat berbagai tempat wisata. Salah satu tempat wisata yang menjadi favorit banyak orang adalah Museum Negeri Kupang NTT. Museum yang satu ini merupakan salah satu wisata budaya di Nusa Tenggara yang sangat sayang untuk dilewatkan begitu saja. Di Museum Negeri Kupang NTT, Anda dapat melihat Bendera Merah Putih dengan ukuran yang luar biasa yakni 1000 meter diletakkan di dalam kaca yang sangat besar. Anda juga dapat melihat peta suku yang ada di NTT. Selain itu, Anda juga akan dikenalkan dengan 10 jenis koleksi, mulai dari Koleksi Arkeologika hingga Koleksi Etnografika. Tidak perlu khawatir, Anda akan mendapatkan banyak sekali ilmu dan pengetahuan tentang NTT."
+    },
+    {
+      "id": "21",
+      "name": "Pura Mayura",
+      "city": "Mataram",
+      "address": "Jl. Selaparang, Cakranegara Tim., Kec. Cakranegara, Kota Mataram, Nusa Tenggara Barat.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/pura-mayura.jpg",
+      "description": "Pura Mayura menjadi salah satu wisata budaya di Nusa Tenggara yang bisa Anda datangi. Pura sekaligus taman yang satu ini memiliki lokasi yang cukup luas dan sering dikunjungi oleh wisatawan. Mayura yang merupakan nama dari tempat wisata budaya ini ambil dari bahasa Sansekerta yang berarti burung merak. Dulunya, di sekitar kawasan ini banyak terdapat ular liar sehingga penasehat menyarankan untuk ada banyak burung merak di kawasan ini. Hal itu manjur dan membuat banyak ular di kawasan Pura Mayura sudah tidak ada lagi. Selain merasakan suasana sejarah atau budaya, Anda juga akan dimanjakan dengan suasana alam yang luar biasa. Adanya kolam yang luas serta banyaknya lahan hijau membuat suasana di area ini sangat sejuk."
+    },
+    {
+      "id": "22",
+      "name": "Pura Meru Cakranegara",
+      "city": "",
+      "address": "",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/pura-meru-cakranegara.jpg",
+      "description": "Cara Meru Cakranegara menjadi salah satu wisata budaya di Nusa Tenggara yang memiliki bangunan indah dan unik. Salah satu pura terbesar di Pulau Lombok ini memiliki ciri khas atap berundak. Anda akan dengan mudah mengenali ciri khas pura yang satu ini yakni terdiri dari 3 pura yang memiliki atap yang menjulang sangat tinggi. Karena arsitekturnya yang indah, Pura Meru Cakranegara tidak jarang dikunjungi oleh wisatawan baik lokal maupun mancanegara. Atap yang berwarna hitam dan terbuat dari ijuk menjadi sangat unik saat dilihat. Menurut beberapa sumber, pura yang satu ini telah berdiri sejak abad ke-13."
+    },
+    {
+      "id": "23",
+      "name": "Rumah Pengasingan Bung Karno",
+      "city": "Ende",
+      "address": "Jl. Perwira, Kel. Kotaraja, Kec. Ende Utara, Kabupaten Ende, Nusa Tenggara Timur.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/rumah-pengasingan-bung-karno-ende-1.jpg",
+      "description": "Ketika Anda berkesempatan untuk mengunjungu Ende, Nusa Tenggara Timur, Anda wajib mengunjungi Rumah Pengasingan Bung Karno. Rumah pengasingan tersebut menjadi salah satu wisata budaya di Nusa Tenggara yang menyimpan banyak sejarah dalam pergerakan kemerdekaan Indonesia. Pada zaman dahulu, tempat tersebut menjadi tempat dimana Ir Soekarno bersama mertua dan anak angkatnya menghabiskan waktu pengasingan selama 4 tahun 9 bulan. Ketika memasuki halaman Rumah, Anda akan melihat patung Presiden pertama Indonesia yang berdiri kokoh. Selanjutnya, Anda akan melihat berbagai perabot serta ruangan-ruangan yang masih terawat dengan baik. Berbagai benda peninggalan Bung Karno seperti lukisan hingga akta nikah juga masih tersimpan rapi. Di bagian tengah terdapat kamar tidur Bung Karno dan di sisi lainnya terdapat kamar mertua dan anak angkatnya. Di bagian belakang, mulai dari sumur hingga dapur masih terkesan seperti jaman dulu. Bagi Anda yang memiliki hobi membaca, Rumah Pengasingan Bung Karno ini juga menyediakan buku sejarah tentang Ende, Ir. Soekarno serta sejarah tentang kemerdekaan Indonesia."
+    },
+    {
+      "id": "24",
+      "name": "Tana Toraja",
+      "city": "Makassar",
+      "address": "Jl. Sulawesi Selatan, No. 123, Rantepao, Tana Toraja, Sulawesi Selatan",
+      "picture": "https://www.iwarebatik.org/wp-content/uploads/2020…7333dsc04375-c513af47d354fee6ff9024c9bc93abec.jpg",
+      "description": "Tana Toraja dikenal dengan upacara pemakaman uniknya dan rumah adat Tongkonan. Warisan budaya yang kaya dan pemandangan yang menakjubkan membuatnya menjadi destinasi yang wajib dikunjungi."
+    },
+    {
+      "id": "25",
+      "name": "Taman Laut Bunaken",
+      "city": "Manado",
+      "address": "Jl. Sulawesi Utara, No. 456, Bunaken, Sulawesi Utara",
+      "picture": "https://www.iwarebatik.org/wp-content/uploads/2020…7333dsc04375-c513af47d354fee6ff9024c9bc93abec.jpg",
+      "description": "Taman Laut Bunaken adalah surga bagi penyelam, dengan terumbu karang yang berwarna-warni dan kehidupan laut yang beragam. Jelajahi keindahan bawah laut Sulawesi Utara."
+    },
+    {
+      "id": "26",
+      "name": "Taman Nasional Lore Lindu",
+      "city": "Palu",
+      "address": "Jl. Sulawesi Tengah, No. 789, Desa Napu, Taman Nasional Lore Lindu, Sulawesi Tengah",
+      "picture": "https://www.iwarebatik.org/wp-content/uploads/2020…7333dsc04375-c513af47d354fee6ff9024c9bc93abec.jpg",
+      "description": "Taman Nasional Lore Lindu adalah pusat keanekaragaman hayati dengan satwa liar yang unik dan situs megalitikum kuno. Rasakan keindahan alam Sulawesi Tengah."
+    },
+    {
+      "id": "27",
+      "name": "Benteng Rotterdam",
+      "city": "Makassar",
+      "address": "Jl. Sulawesi Selatan, No. 456, Kota Makassar, Sulawesi Selatan",
+      "picture": "https://ik.imagekit.io/tvlk/blog/2022/12/gunung-api-banda_shutterstock_1252541476.jpg?tr=dpr-2,w-675",
+      "description": "Benteng Rotterdam adalah benteng Belanda bersejarah dengan museum yang menampilkan sejarah kolonial Sulawesi Selatan. Jelajahi warisan budaya Makassar."
+    },
+    {
+      "id": "28",
+      "name": "Banda Neira",
+      "city": "Ambon",
+      "address": "Jl. Maluku, No. 101, Banda Neira, Maluku",
+      "picture": "https://ik.imagekit.io/tvlk/blog/2022/12/gunung-api-banda_shutterstock_1252541476.jpg?tr=dpr-2,w-675",
+      "description": "Banda Neira, bagian dari Kepulauan Banda, dipenuhi sejarah. Jelajahi Benteng Belgica dan nikmati pemandangan indah Laut Banda."
+    },
+    {
+      "id": "29",
+      "name": "Pantai Ora",
+      "city": "Seram",
+      "address": "Jl. Maluku Tengah, No. 202, Pantai Ora, Seram, Maluku",
+      "picture": "https://asset.kompas.com/crops/g7yUoblesivUy66G2Sf…7/750x500/data/photo/2022/05/13/627e3c2932a72.jpg",
+      "description": "Pantai Ora menawarkan pasir putih bersih dan air yang jernih. Ini adalah destinasi ideal untuk liburan santai dan aktivitas air."
+    },
+    {
+      "id": "30",
+      "name": "Museum Namlea",
+      "city": "Buru",
+      "address": "Jl. Maluku Tengah, No. 303, Museum Namlea, Buru, Maluku",
+      "picture": "https://jadwaltravel.com/wp-content/uploads/2023/01/New-Project-6.jpg",
+      "description": "Museum Namlea memamerkan warisan budaya dan sejarah Buru. Pelajari tradisi lokal dan artefak Kepulauan Maluku."
+    },
+    {
+      "id": "31",
+      "name": "Pulau Kei Besar",
+      "city": "Kepulauan Kei",
+      "address": "Jl. Maluku Tenggara, No. 404, Pulau Kei Besar, Kepulauan Kei, Maluku",
+      "picture": "https://blog.tiket.com/wp-content/uploads/2021/10/2.-Bair-Island-1.jpg",
+      "description": "Pulau Kei Besar menawarkan pantai yang menakjubkan dan atmosfer yang tenang. Rasakan keindahan Kepulauan Kei dengan air jernih dan terumbu karang."
+    },
+    {
+      "id": "32",
+      "name": "Taman Nasional Bantimurung Bulusaraung",
+      "city": "Maros",
+      "address": "Jl. Sulawesi Selatan, No. 505, Taman Nasional Bantimurung Bulusaraung, Maros, Sulawesi Selatan",
+      "picture": "https://picture.triptrus.com/image/2014/06/taman-nasional-bantimurung-bulusaraung.jpeg",
+      "description": "Taman Nasional Bantimurung Bulusaraung dikenal sebagai 'Kerajaan Kupu-kupu.' Jelajahi pemandangan hijau, air terjun, dan flora dan fauna yang beragam."
+    },
+    {
+      "id": "33",
+      "name": "Pulau Manado Tua",
+      "city": "Manado",
+      "address": "Jl. Sulawesi Utara, No. 606, Pulau Manado Tua, Manado, Sulawesi Utara",
+      "picture": "https://petualang.travelingyuk.com/uploads/2021/10/pulau-manado-tua-sulawesi-utara.jpg",
+      "description": "Pulau Manado Tua adalah pulau vulkanik ikonik dengan keanekaragaman hayati laut yang kaya. Snorkeling atau menyelam untuk menemukan keajaiban bawah laut dekat Manado."
+    },
+   {
+      "id": "34",
+      "name": "Pura Tanah Lot",
+      "city": "Tabanan",
+      "address": "Beraban, Kediri, Tabanan Regency, Bali",
+      "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_1039982569.png",
+      "description": "Ada dua bangunan Pura Tanah Lot yang terpisah lautan. Salah satu bangunan berada di batu besar dan satunya lagi di tebing. Kamu bisa datang ke pura di batu besar saat air laut sedang surut. Menariknya, ada ular yang dipercaya suci di sekitar bebatuan."
+    },
+    {
+      "id": "35",
+      "name": "Pura Besakih",
+      "city": "Karangasem",
+      "address": "Besakih, Rendang, Karangasem Regency, Bali",
+      "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_2340132273.png",
+      "description": "Pura Besakih dikenal paling besar dan sakral bagi penganut Hindu di Bali. Sebagai pura yang besar, di sekitarnya ada 18 pura pendamping. Lokasinya berada di Besakih, Karangasem. Kalau kamu ke sini, kamu dapat melihat keindahan budaya Bali yang terwujud dari desain dan ornamen pura."
+    },
+    {
+      "id": "36",
+      "name": "Pura Tirta Empul",
+      "city": "Gianyar",
+      "address": "Tampaksiring, Gianyar Regency, Bali",
+      "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_2184020621.png",
+      "description": "Pura Tirta Empul menjadi salah satu pura yang unik di Bali, karena di sini ada kolam pemandian untuk mensucikan diri. Sebelum masuk ke pura kamu wajib menggunakan kain adat yang sudah disediakan. Bagi kamu yang ingin melukat di mata air suci ini, maka disarankan untuk mandi di 14 pancuran secara berurutan. Karena masing-masing pancuran mendatangkan kebaikan yang berbeda-beda.  Ada yang untuk membersihkan jiwa dan raga, mencari jalan keluar dari konflik rumah tangga yang dialami, hingga membersihkan diri dari pengaruh ilmu santet. Pura Tirta Empul di Jl Tirta, Manukaya, Tampaksiring, Gianyar tersebut tergolong masih sangat tradisional.  Selain pura, kamu juga dengan gampang bisa langsung melihat Istana Tampaksiring yang menjadi tempat peristirahatan Presiden Soekarno."
+    },
+    {
+      "id": "37",
+      "name": "Pura Luhur Uluwatu",
+      "city": "Badung",
+      "address": "Pecatu, South Kuta, Badung Regency, Bali",
+      "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_2154506169.png",
+      "description": "Pura Luhur Uluwatu merupakan pura yang dibangun di atas tebing yang menjorok ke lautan. Dari atas pura, kamu dapat menikmati panorama Samudra Hindia serta suara deburan ombak besar. "
+    },
+    {
+      "id": "38",
+      "name": "Kerta Gosa",
+      "city": "Klungkung",
+      "address": "Jl. Kenanga No.11, Semarapura Kelod, Kec. Klungkung, Kabupaten Klungkung, Bali",
+      "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_2238606655.png",
+      "description": "Kerta Gosa memiliki nilai sejarah yang sangat kental, mulai dari masa pemerintahan raja Klungkung sampai pada masa penjajahan Jepang di Indonesia khususnya di Bali. Terletak di tengah-tengah kota Kabupaten Klungkung, 40 km dari arah Timur Denpasar, Kerta Gosa dibangun pada saat Kerajaan Klungkung di tahun 1686."
+    },
+    {
+      "id": "39",
+      "name": "Pura Goa Lawah",
+      "city": "",
+      "address": "",
+      "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_1536582743.png",
+      "description": "Pura Goa Lawah merupakan salah satu pura peninggalan Bali kuno. Hingga saat ini kondisinya sangat terawat. Bagi masyarakat lokal Pura Goa Lawah adalah rumah seekor naga raksasa yang menggunakan mahkota bernama Vasuki. Di Goa lawah ada sungai yang dipercaya dapat memberi kesembuhan untuk macam-macam penyakit. Dari sejarahnya, Pura Goa Lawah dibangun pada tahun 1007 Masehi oleh Mpu Kuturan. Goa Lawah sebetulnya artinya goa kelelawar. Karena memang menjadi sarang ribuan kelelawar."
+    },
+    {
+      "id": "40",
+      "name": "Pura Ulun Danu",
+      "city": "Klungkung",
+      "address": "Jl. Raya Goa Lawah, Pesinggahan, Kec. Dawan, Kabupaten Klungkung, Bali",
+      "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-copy-of-shutterstock_1733013296.png",
+      "description": "Pura Ulun Danu berada di Danau Beratan, Desa Candikuning, Kecamatan Baturiti, Kabupaten Tabanan, Bali. Pura ini juga salah satu tempat wisata sejarah di Bali. Pura Ulun Danu pernah menjadi gambar dalam mata uang Rp 50 ribu tahun edisi tahun 2016 lho. Kalau air danau sedang naik, kamu akan melihat seolah pura mengapung di danau."
+    },
+    {
+      "id": "41",
+      "name": "Desa Panglipuran",
+      "city": "Bangli",
+      "address": "Jl. Penglipuran, Kubu, Kec. Bangli, Kabupaten Bangli, Bali",
+      "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_1570964830.png",
+      "description": "Desa Panglipuran berada di Kecamatan Kubu, Kecamatan Bangli. Desa ini masih menjunjung tinggi nilai-nilai luhur nenek moyang. Desa setempat dibangun dengan Konsep Tri Mandala. Dimulai dari Nista Mandala atau jaba sisi sebagai area terluar, Madya Mandala atau jaba tengah sebagai area peralihan atau area tengah, dan Utama Mandala atau jeroan sebagai area paling dalam."
+    },
+    {
+      "id": "42",
+      "name": "Desa Trunyan",
+      "city": "Bangli",
+      "address": "kecamatan Kintamani, Kabupaten Bangli, provinsi Bali",
+      "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_2126657201.png",
+      "description": "Desa Trunyan, Kecamatan Kintamani, Kabupaten Bangli. Di desa setempat ada Pura Pancering Jagat. Nama Pura Pancering Jagat berasal dari nama patung besar setinggi 4 meter yang terdapat di pura ini. Masyarakat menyebut  Arca Datonta atau Ratu gede Pancering Jagat. Arca Datonta merupakan arca bercorak  megalitik, dihias dengan ukiran sederhana dan dengan ekspresi sesosok wajah."
+    },
+    {
+      "id": "43",
+      "name": "Desa Tengganan",
+      "city": "Karangasem",
+      "address": "Kecamatan Manggis, Kabupaten Karangasem, Bali",
+      "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_1770229742.png",
+      "description": "Desa yang berada di kecamatan Manggis, Kabupaten Karang Asem ini masyarakatnya masih mempertahankan nilai budaya tradisional yang mengacu kepada adat dan istiadat dari zaman leluhur nenek moyang dalam aktivitas kesehariannya. Di sini kamu dapat melihat masyarakat yang masih menggunakan kain gringsing atau kain tenun yang diyakini masyarakat setempat sebagai pelindung yang dapat menghalau pengaruh jahat."
+    },
+    {
+      "id": "44",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "45",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "46",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "47",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "48",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "49",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "50",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    }
+  ]
+}
