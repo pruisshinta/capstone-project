@@ -186,83 +186,83 @@
     },
     {
       "id": "24",
-      "name": "",
-      "city": "",
-      "address": "",
-      "picture": "",
-      "description": ""
+      "name": "Tana Toraja",
+      "city": "Makassar",
+      "address": "Jl. Sulawesi Selatan, No. 123, Rantepao, Tana Toraja, Sulawesi Selatan",
+      "picture": "https://example.com/images/tana-toraja.jpg",
+      "description": "Tana Toraja dikenal dengan upacara pemakaman uniknya dan rumah adat Tongkonan. Warisan budaya yang kaya dan pemandangan yang menakjubkan membuatnya menjadi destinasi yang wajib dikunjungi."
     },
     {
       "id": "25",
-      "name": "",
-      "city": "",
-      "address": "",
-      "picture": "",
-      "description": ""
+      "name": "Taman Laut Bunaken",
+      "city": "Manado",
+      "address": "Jl. Sulawesi Utara, No. 456, Bunaken, Sulawesi Utara",
+      "picture": "https://example.com/images/bunaken.jpg",
+      "description": "Taman Laut Bunaken adalah surga bagi penyelam, dengan terumbu karang yang berwarna-warni dan kehidupan laut yang beragam. Jelajahi keindahan bawah laut Sulawesi Utara."
     },
     {
       "id": "26",
-      "name": "",
-      "city": "",
-      "address": "",
-      "picture": "",
-      "description": ""
+      "name": "Taman Nasional Lore Lindu",
+      "city": "Palu",
+      "address": "Jl. Sulawesi Tengah, No. 789, Desa Napu, Taman Nasional Lore Lindu, Sulawesi Tengah",
+      "picture": "https://example.com/images/lore-lindu.jpg",
+      "description": "Taman Nasional Lore Lindu adalah pusat keanekaragaman hayati dengan satwa liar yang unik dan situs megalitikum kuno. Rasakan keindahan alam Sulawesi Tengah."
     },
     {
       "id": "27",
-      "name": "",
-      "city": "",
-      "address": "",
-      "picture": "",
+      "name": "Benteng Rotterdam",
+      "city": "Makassar",
+      "address": "Jl. Sulawesi Selatan, No. 456, Kota Makassar, Sulawesi Selatan",
+      "picture": "https://example.com/images/fort-rotterdam.jpg",
       "description": ""
     },
     {
       "id": "28",
-      "name": "",
-      "city": "",
-      "address": "",
-      "picture": "",
-      "description": ""
+      "name": "Banda Neira",
+      "city": "Ambon",
+      "address": "Jl. Maluku, No. 101, Banda Neira, Maluku",
+      "picture": "https://example.com/images/banda-neira.jpg",
+      "description": "Banda Neira, bagian dari Kepulauan Banda, dipenuhi sejarah. Jelajahi Benteng Belgica dan nikmati pemandangan indah Laut Banda."
     },
     {
       "id": "29",
-      "name": "",
-      "city": "",
-      "address": "",
-      "picture": "",
-      "description": ""
+      "name": "Pantai Ora",
+      "city": "Seram",
+      "address": "Jl. Maluku Tengah, No. 202, Pantai Ora, Seram, Maluku",
+      "picture": "https://example.com/images/ora-beach.jpg",
+      "description": "Pantai Ora menawarkan pasir putih bersih dan air yang jernih. Ini adalah destinasi ideal untuk liburan santai dan aktivitas air."
     },
     {
       "id": "30",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Museum Namlea",
+      "city": "Buru",
+      "address": "Jl. Maluku Tengah, No. 303, Museum Namlea, Buru, Maluku",
       "picture": "",
-      "description": ""
+      "description": "Museum Namlea memamerkan warisan budaya dan sejarah Buru. Pelajari tradisi lokal dan artefak Kepulauan Maluku."
     },
     {
       "id": "31",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Pulau Kei Besar",
+      "city": "Kepulauan Kei",
+      "address": "Jl. Maluku Tenggara, No. 404, Pulau Kei Besar, Kepulauan Kei, Maluku",
       "picture": "",
-      "description": ""
+      "description": "Pulau Kei Besar menawarkan pantai yang menakjubkan dan atmosfer yang tenang. Rasakan keindahan Kepulauan Kei dengan air jernih dan terumbu karang."
     },
     {
       "id": "32",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Taman Nasional Bantimurung Bulusaraung",
+      "city": "Maros",
+      "address": "Jl. Sulawesi Selatan, No. 505, Taman Nasional Bantimurung Bulusaraung, Maros, Sulawesi Selatan",
       "picture": "",
-      "description": ""
+      "description": "Taman Nasional Bantimurung Bulusaraung dikenal sebagai 'Kerajaan Kupu-kupu.' Jelajahi pemandangan hijau, air terjun, dan flora dan fauna yang beragam."
     },
     {
       "id": "33",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Pulau Manado Tua",
+      "city": "Manado",
+      "address": "Jl. Sulawesi Utara, No. 606, Pulau Manado Tua, Manado, Sulawesi Utara",
       "picture": "",
-      "description": ""
+      "description": "Pulau Manado Tua adalah pulau vulkanik ikonik dengan keanekaragaman hayati laut yang kaya. Snorkeling atau menyelam untuk menemukan keajaiban bawah laut dekat Manado."
     },
     {
       "id": "34",
@@ -399,6 +399,6 @@
       "address": "",
       "picture": "",
       "description": ""
-    },
+    }
   ]
 }
