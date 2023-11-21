@@ -1,59 +1,116 @@
-Pulau Jawa 
-
-1. Ujung Kulon, Banten
-Alamat: Jl. Perintis Kemerdekaan No.51 Kec. Labuan, Kab. Pandeglang, Provinsi Banten. 42264, Indonesia.
-Deskripsi: Tempat konservasi dan wisata yang menawarkan kesempatan bertemu badak Jawa dan berbagai kegiatan alam seperti snorkeling dan eksplorasi alam.
-
-2. Kawah Putih, Bandung
-Alamat: Jl. Raa Ciwidey Patengan Km 11 Lebakmuncang, Ciwidey, Sugihmukti, Pasir Jambu, Bandung, Jawa Barat
-Deskripsi: Terkenal dengan danau kawah berwarna putih kebiruan yang indah, cocok untuk fotografi dan memiliki kandungan belerang yang tinggi.
-
-3. Kebun Raya Bogor, Bogor
-Alamat: Jl. Ir. H. Juanda No.13, Paledang, Kec. Bogor Tengah, Kota Bogor.
-Deskripsi: Taman botani luas dengan berbagai spesies tumbuhan, museum zoologi, dan Griya Anggrek, menawarkan hawa asri dan kegiatan edukatif.
-
-4. Candi Borobudur, Magelang
-Alamat: Jl. Badrawati, Kawasan Candi Borobudur, Borobudur, Kec. Borobudur, Magelang.
-Deskripsi: Candi Buddha megah dengan relief historis dan arsitektur yang mengagumkan, menawarkan pengalaman spiritual dan budaya.
-
-5. Candi Prambanan, Yogyakarta
-Alamat: Jl. Raya Solo-Yogyakarta No.16, Bokoharjo, Kec. Prambanan, Kab. Sleman.
-Deskripsi: Kompleks candi Hindu besar dengan kisah Roro Jonggrang yang terkenal, menampilkan arsitektur dan seni khas Jawa kuno.
-
-6. Taman Wisata Alam Papandayan
-Alamat: Desa Sirnajaya & Desa Keramat Wangi, Kecamatan Cisurupan, Kabupaten Garut, serta Desa Neglawangi, Kecamatan Kertasari, Kabupaten Bandung.
-Deskripsi: TWA Papandayan merupakan taman wisata alam yang menyajikan berbagai objek wisata menarik dan kegiatan outdoor. Gunung Papandayan sendiri adalah gunung api strato yang berlokasi di Kabupaten Garut. Tempat ini ideal untuk berbagai aktivitas wisata keluarga atau bersama teman, menawarkan keindahan alam yang asri dan menyegarkan​.
-
-7. Taman Wisata Alam Gunung Tangkuban Perahu
-Alamat: Jl. Tangkuban Perahu No. 282, Cikole Lembang, Kab. Bandung Barat 40391, Indonesia.
-Deskripsi: Gunung Tangkuban Parahu adalah gunung api berbentuk stratovolcano dengan pusat erupsi yang berpindah dari timur ke barat. Ketinggiannya mencapai 2.084 meter dengan suhu rata-rata harian sekitar 17°C pada siang hari dan 2°C pada malam hari. TWA Gunung Tangkuban Perahu menawarkan pengalaman wisata alam yang unik dengan pemandangan kawah aktif dan lanskap alam yang menawan. Kawasan ini sangat cocok untuk kegiatan seperti hiking, eksplorasi alam, dan fotografi.
-
-Pulau Irian 
-
-1. Kepulauan Raja Ampat
-Alamat: Barat Bagian Kepala Burung (Vogelkoop) Pulau Papua.
-Deskripsi: Dikenal sebagai salah satu lokasi menyelam terbaik di dunia dengan keanekaragaman hayati laut yang luar biasa. 
-
-2. Taman Nasional Teluk Cendrawasih
-Alamat: Sobei Indah, Duairi, Kabupaten Teluk Wondama, Papua Barat. 98362.
-Deskripsi: Taman Nasional dengan kekayaan flora dan fauna, termasuk terumbu karang, moluska, dan ikan, serta memiliki beberapa pulau kecil dan goa air panas.
-
-3. Taman Nasional Lorentz
-Alamat: Jl. SD Percobaan Potikelek, Kotak Pos 176, Wamena 99511, Kabupaten Jayawijaya Provinsi Papua.
-Deskripsi: Taman nasional terbesar di Asia Tenggara, terkenal dengan keberagaman vegetasi dan spesies langka, terletak di kawasan dengan gletser di daerah tropis.
-
-4. Pulau Rumberpon
-Alamat: Pulau RumberponDistrik Rumberpon, Kabupaten Teluk Wondama, Papua Bar.
-Deskripsi: Terkenal dengan pasir putih dan kegiatan seperti snorkeling, surfing, scuba diving, serta melihat spesies burung dan rusa.
-
-5. Danau Paniai
-Alamat: Danau PaniaiMogeya, Distrik Paniai Barat, Kabupaten Paniai, Papua.
-Deskripsi: Danau terindah dengan kegiatan seperti memancing, menikmati keindahan alam, dan kebudayaan lokal suku Mee dan Moni.
-
-6. Lembah Baliem
-Alamat: 
-Deskripsi: Kawasan sejuk dengan festival tahunan yang menampilkan cerita perang antar suku dan kebudayaan masyarakat suku asli Papua.
-
-7. Desa Wisata Sauwandarek
-Alamat: Sauandarek, Meos Mansar, Kabupaten Raja Ampat, Papua Bar.
-Deskripsi: Menawarkan wisata budaya dan alam, dengan kegiatan seperti berenang, snorkeling, dan memancing, serta kerajinan tangan khas Papua.
+{
+  "cultures": [
+    {
+      "id": "1",
+      "name": "Ujung Kulon",
+      "city": "Banten",
+      "address": "Jl. Perintis Kemerdekaan No.51 Kec. Labuan, Kab. Pandeglang, Provinsi Banten. 42264, Indonesia",
+      "picture": "",
+      "description": "Tempat konservasi dan wisata yang menawarkan kesempatan bertemu badak Jawa dan berbagai kegiatan alam seperti snorkeling dan eksplorasi alam."
+    },
+    {
+      "id": "2",
+      "name": "Kawah Putih",
+      "city": "Bandung",
+      "address": "Jl. Raa Ciwidey Patengan Km 11 Lebakmuncang, Ciwidey, Sugihmukti, Pasir Jambu, Bandung, Jawa Barat",
+      "picture": "",
+      "description": "Terkenal dengan danau kawah berwarna putih kebiruan yang indah, cocok untuk fotografi dan memiliki kandungan belerang yang tinggi."
+    },
+    {
+      "id": "3",
+      "name": "Kebun Raya Bogor",
+      "city": "Bogor",
+      "address": "Jl. Ir. H. Juanda No.13, Paledang, Kec. Bogor Tengah, Kota Bogor.",
+      "picture": "",
+      "description": " Taman botani luas dengan berbagai spesies tumbuhan, museum zoologi, dan Griya Anggrek, menawarkan hawa asri dan kegiatan edukatif."
+    },
+    {
+      "id": "4",
+      "name": "Candi Borobudur",
+      "city": "Magelang",
+      "address": "Jl. Badrawati, Kawasan Candi Borobudur, Borobudur, Kec. Borobudur, Magelang.",
+      "picture": "",
+      "description": "Candi Buddha megah dengan relief historis dan arsitektur yang mengagumkan, menawarkan pengalaman spiritual dan budaya."
+    },
+    {
+      "id": "5",
+      "name": "Candi Prambanan",
+      "city": "Yogyakarta",
+      "address": "Jl. Raya Solo-Yogyakarta No.16, Bokoharjo, Kec. Prambanan, Kab. Sleman.",
+      "picture": "",
+      "description": "Kompleks candi Hindu besar dengan kisah Roro Jonggrang yang terkenal, menampilkan arsitektur dan seni khas Jawa kuno."
+    },
+    {
+      "id": "6",
+      "name": "Taman Wisata Alam Papandayan",
+      "city": "Bandung",
+      "address": "Desa Sirnajaya & Desa Keramat Wangi, Kecamatan Cisurupan, Kabupaten Garut, serta Desa Neglawangi, Kecamatan Kertasari, Kabupaten Bandung.",
+      "picture": "",
+      "description": "TWA Papandayan merupakan taman wisata alam yang menyajikan berbagai objek wisata menarik dan kegiatan outdoor. Gunung Papandayan sendiri adalah gunung api strato yang berlokasi di Kabupaten Garut. Tempat ini ideal untuk berbagai aktivitas wisata keluarga atau bersama teman, menawarkan keindahan alam yang asri dan menyegarkan​."
+    },
+    {
+      "id": "7",
+      "name": "Taman Wisata Alam Gunung Tangkuban Perahu",
+      "city": "Bandung",
+      "address": "Jl. Tangkuban Perahu No. 282, Cikole Lembang, Kab. Bandung Barat 40391, Indonesia.",
+      "picture": "",
+      "description": "Gunung Tangkuban Parahu adalah gunung api berbentuk stratovolcano dengan pusat erupsi yang berpindah dari timur ke barat. Ketinggiannya mencapai 2.084 meter dengan suhu rata-rata harian sekitar 17°C pada siang hari dan 2°C pada malam hari. TWA Gunung Tangkuban Perahu menawarkan pengalaman wisata alam yang unik dengan pemandangan kawah aktif dan lanskap alam yang menawan. Kawasan ini sangat cocok untuk kegiatan seperti hiking, eksplorasi alam, dan fotografi."
+    },
+    {
+      "id": "8",
+      "name": "Kepulauan Raja Ampat",
+      "city": "Vogelkoop",
+      "address": "Barat Bagian Kepala Burung (Vogelkoop) Pulau Papua.",
+      "picture": "",
+      "description": "Dikenal sebagai salah satu lokasi menyelam terbaik di dunia dengan keanekaragaman hayati laut yang luar biasa."
+    },
+    {
+      "id": "9",
+      "name": "Taman Nasional Teluk Cendrawasih",
+      "city": "Teluk Wondama",
+      "address": "Sobei Indah, Duairi, Kabupaten Teluk Wondama, Papua Barat. 98362.",
+      "picture": "",
+      "description": "Taman Nasional dengan kekayaan flora dan fauna, termasuk terumbu karang, moluska, dan ikan, serta memiliki beberapa pulau kecil dan goa air panas."
+    },
+    {
+      "id": "10",
+      "name": "Taman Nasional Lorentz",
+      "city": "Jayawijaya",
+      "address": "Jl. SD Percobaan Potikelek, Kotak Pos 176, Wamena 99511, Kabupaten Jayawijaya, Provinsi Papua.",
+      "picture": "",
+      "description": "Taman nasional terbesar di Asia Tenggara, terkenal dengan keberagaman vegetasi dan spesies langka, terletak di kawasan dengan gletser di daerah tropis."
+    },
+    {
+      "id": "11",
+      "name": "Pulau Rumberpon",
+      "city": "Teluk Wondama",
+      "address": "Pulau RumberponDistrik Rumberpon, Kabupaten Teluk Wondama, Papua Bar.",
+      "picture": "",
+      "description": "Terkenal dengan pasir putih dan kegiatan seperti snorkeling, surfing, scuba diving, serta melihat spesies burung dan rusa."
+    },
+    {
+      "id": "12",
+      "name": "Danau Paniai",
+      "city": "Paniai",
+      "address": "Danau PaniaiMogeya, Distrik Paniai Barat, Kabupaten Paniai, Papua.",
+      "picture": "",
+      "description": "Danau terindah dengan kegiatan seperti memancing, menikmati keindahan alam, dan kebudayaan lokal suku Mee dan Moni."
+    },
+    {
+      "id": "13",
+      "name": "Lembah Baliem",
+      "city": "Jayawijaya",
+      "address": "Pegunungan Jayawijaya, Papua, Indonesia",
+      "picture": "",
+      "description": "Kawasan sejuk dengan festival tahunan yang menampilkan cerita perang antar suku dan kebudayaan masyarakat suku asli Papua."
+    },
+    {
+      "id": "14",
+      "name": "Desa Wisata Sauwandarek",
+      "city": "Raja Ampat",
+      "address": "Sauandarek, Meos Mansar, Kabupaten Raja Ampat, Papua Barat.",
+      "picture": "",
+      "description": "Menawarkan wisata budaya dan alam, dengan kegiatan seperti berenang, snorkeling, dan memancing, serta kerajinan tangan khas Papua."
+    },
+  ]
+}
