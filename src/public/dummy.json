@@ -112,5 +112,293 @@
       "picture": "",
       "description": "Menawarkan wisata budaya dan alam, dengan kegiatan seperti berenang, snorkeling, dan memancing, serta kerajinan tangan khas Papua."
     },
+    {
+      "id": "15",
+      "name": "Rumah Budaya Sumba",
+      "city": "Sumba Barat Daya",
+      "address": "Jl. Rumah Budaya No.212, Kalembu Nga, bangga Weetebula, Kabupaten Sumba Barat Daya, Nusa Tenggara Timur.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/rumah-budaya-sumba.jpg",
+      "description": "Rumah Budaya Sumba menjadi salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan. Lokasi tempat wisata yang satu ini berada di Jalan Rumah Budaya Nomor 212, Kabupaten Sumba Barat Daya, Nusa Tenggara Timur. Tempat yang satu ini merupakan sebuah museum yang dikhususkan untuk memperkenalkan budaya Sumba. Ada banyak fungsi dari Rumah Budaya Sumba diantaranya untuk penelitian, memperkenalkan budaya Sumba, tempat wisata, dan juga digunakan untuk pertemuan. Di lokasi rumah budaya Sumba, pengunjung bisa melihat berbagai koleksi benda bersejarah yang dikumpulkan oleh Pater Robert Ramone. Selain menikmati berbagai budaya serta koleksi sejarah, Anda juga bisa menikmati bentuk bangunan yang unik dan instagramable."
+    },
+    {
+      "id": "16",
+      "name": "Museum Daerah Nusa Tenggara Timur",
+      "city": "Lombok Barat",
+      "address": "Jalan Raya Narmada, Lembuak, Kab. Lombok Barat, Nusa Tenggara Barat.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/desa-sade.jpg",
+      "description": "Selain menikmati pemandangan alam yang indah, ada cukup banyak wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan salah satunya adalah Museum Daerah Nusa Tenggara Timur. Musim yang satu ini terletak di Jalan Raya Eltari II, Kota Kupang, Nusa Tenggara Timur. Saat berada di sana, Anda akan dimanjakan dengan berbagai koleksi museum yang sangat menarik. Ada kurang lebih 6199 koleksi yang ada di museum ini. Bentuk koleksi yang ditampilkan pun sangat beragam mulai dari benda benda arkeologi, biologi, geografi, dan lain-lain. Saat berlibur ke kawasan Nusa Tenggara, Museum Daerah yang satu ini bisa menjadi tempat wisata yang sangat menarik untuk didatangi."
+    },
+    {
+      "id": "17",
+      "name": "Taman Narmada",
+      "city": "",
+      "address": "",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/Taman-Narmada.jpg",
+      "description": "Ketika Anda berkesempatan untuk datang ke Lombok, Nusa Tenggara Barat, Anda wajib mengunjungi berbagai tempat wisata indah, mulai dari wisata alam hingga wisata budaya. Salah satu wisata budaya di Nusa Tenggara yang menjadi favorit semua kalangan adalah Taman Narmada. Taman yang satu ini berbeda dengan taman pada umumnya, karena taman ini menyimpan peninggalan sejarah raja Mataram Lombok pada abad ke-18. Wisata budaya yang satu ini sangat sayang untuk Anda lewatkan. Di Taman Narmada, Anda dapat melihat beragam bangunan bersejarah dengan keindahan yang luar biasa. Mulai dari kediaman raja di masa lalu hingga tempat ibadah. Pada zaman dahulu, Balai Toji, Terang, dan Pamerajan merupakan bagian dari kediaman raja, sedangakn bagian dari tempat ibadah meliputi Pura Lingsar dan Pura Kalasa. Untuk mendapatkan pemandangan yang lebih memukau, Anda bisa menikmatinya dari puncak Pura Kalasa."
+    },
+    {
+      "id": "18",
+      "name": "Benteng Marilonga",
+      "city": "Ende",
+      "address": "Jl. Trans Ende, Watunggere, Kec. Detukeli, Kabupaten Ende, Nusa Tenggara Timur.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/benteng-marilonga.jpg",
+      "description": "Salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan adalah Benteng Marilonga. Benteng yang satu ini beralamat di Desa Watunggere, Kecamatan Detukeli, Kabupaten Ende, Nusa Tenggara Timur. Benteng yang satu ini memiliki ciri khas bagian luarnya yang merupakan bentuk lingkaran dengan susunan kayu kayu. Sedangkan di bagian dalam lingkaran terdapat tumpukan batu yang merupakan tempat dimana para pejuang dimakamkan setelah gugur dari peperangan. Hingga saat ini, Benteng Marilonga diakui sebagai salah satu wisata budaya dan bersejarah di Nusa Tenggara."
+    },
+    {
+      "id": "19",
+      "name": "Desa Adat Wologai",
+      "city": "Ende",
+      "address": "Kecamatan Detusoko, Kabupaten Ende, Propinsi Nusa Tenggara Timur.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/kampung-adat-wologai.jpg",
+      "description": "Tidak kalah indah dengan desa adat lainnya, Desa Adat Wologai juga menjadi salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan. Lokasi dari desa adat yang satu ini berada di Kabupaten Ende, Nusa Tenggara Timur. Desa Adat Wologai memiliki cerita yang unik dan sedikit seram yakni dulunya di desa yang satu ini kulit manusia digunakan sebagai gendang. Untuk masuk ke desa adat ini, pengunjung wajib mengisi buku tamu dan membayar biaya masuk sebesar Rp 10.000, -. Banyak peraturan yang harus dipatuhi saat berada di desa yang satu ini. Karena jika tidak mematuhi atau melanggar peraturan, akan berakibat fatal dan membahayakan bagi pengunjung."
+    },
+    {
+      "id": "20",
+      "name": "Museum Negeri Kupang NTT",
+      "city": "Kupang",
+      "address": "JL Eltari 2, Oesapa Selatan, Kelapa Lima, Oesapa Sel, Kec. Klp. Lima, Kota Kupang, Nusa Tenggara Timur.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/museum-negeri-nusa-tenggara-timur.jpg",
+      "description": "Berkunjung ke tempat wisata merupakan kegiatan yang diinginkan oleh banyak orang ketika hari libur tiba. Kupang, Nusa Tenggara Timur dapat menjadi salah satu pilihan tujuan yang tepat untuk Anda. Di sana, Anda akan melihat berbagai tempat wisata. Salah satu tempat wisata yang menjadi favorit banyak orang adalah Museum Negeri Kupang NTT. Museum yang satu ini merupakan salah satu wisata budaya di Nusa Tenggara yang sangat sayang untuk dilewatkan begitu saja. Di Museum Negeri Kupang NTT, Anda dapat melihat Bendera Merah Putih dengan ukuran yang luar biasa yakni 1000 meter diletakkan di dalam kaca yang sangat besar. Anda juga dapat melihat peta suku yang ada di NTT. Selain itu, Anda juga akan dikenalkan dengan 10 jenis koleksi, mulai dari Koleksi Arkeologika hingga Koleksi Etnografika. Tidak perlu khawatir, Anda akan mendapatkan banyak sekali ilmu dan pengetahuan tentang NTT."
+    },
+    {
+      "id": "21",
+      "name": "Pura Mayura",
+      "city": "Mataram",
+      "address": "Jl. Selaparang, Cakranegara Tim., Kec. Cakranegara, Kota Mataram, Nusa Tenggara Barat.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/pura-mayura.jpg",
+      "description": "Pura Mayura menjadi salah satu wisata budaya di Nusa Tenggara yang bisa Anda datangi. Pura sekaligus taman yang satu ini memiliki lokasi yang cukup luas dan sering dikunjungi oleh wisatawan. Mayura yang merupakan nama dari tempat wisata budaya ini ambil dari bahasa Sansekerta yang berarti burung merak. Dulunya, di sekitar kawasan ini banyak terdapat ular liar sehingga penasehat menyarankan untuk ada banyak burung merak di kawasan ini. Hal itu manjur dan membuat banyak ular di kawasan Pura Mayura sudah tidak ada lagi. Selain merasakan suasana sejarah atau budaya, Anda juga akan dimanjakan dengan suasana alam yang luar biasa. Adanya kolam yang luas serta banyaknya lahan hijau membuat suasana di area ini sangat sejuk."
+    },
+    {
+      "id": "22",
+      "name": "Pura Meru Cakranegara",
+      "city": "",
+      "address": "",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/pura-meru-cakranegara.jpg",
+      "description": "Cara Meru Cakranegara menjadi salah satu wisata budaya di Nusa Tenggara yang memiliki bangunan indah dan unik. Salah satu pura terbesar di Pulau Lombok ini memiliki ciri khas atap berundak. Anda akan dengan mudah mengenali ciri khas pura yang satu ini yakni terdiri dari 3 pura yang memiliki atap yang menjulang sangat tinggi. Karena arsitekturnya yang indah, Pura Meru Cakranegara tidak jarang dikunjungi oleh wisatawan baik lokal maupun mancanegara. Atap yang berwarna hitam dan terbuat dari ijuk menjadi sangat unik saat dilihat. Menurut beberapa sumber, pura yang satu ini telah berdiri sejak abad ke-13."
+    },
+    {
+      "id": "23",
+      "name": "Rumah Pengasingan Bung Karno",
+      "city": "Ende",
+      "address": "Jl. Perwira, Kel. Kotaraja, Kec. Ende Utara, Kabupaten Ende, Nusa Tenggara Timur.",
+      "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/rumah-pengasingan-bung-karno-ende-1.jpg",
+      "description": "Ketika Anda berkesempatan untuk mengunjungu Ende, Nusa Tenggara Timur, Anda wajib mengunjungi Rumah Pengasingan Bung Karno. Rumah pengasingan tersebut menjadi salah satu wisata budaya di Nusa Tenggara yang menyimpan banyak sejarah dalam pergerakan kemerdekaan Indonesia. Pada zaman dahulu, tempat tersebut menjadi tempat dimana Ir Soekarno bersama mertua dan anak angkatnya menghabiskan waktu pengasingan selama 4 tahun 9 bulan. Ketika memasuki halaman Rumah, Anda akan melihat patung Presiden pertama Indonesia yang berdiri kokoh. Selanjutnya, Anda akan melihat berbagai perabot serta ruangan-ruangan yang masih terawat dengan baik. Berbagai benda peninggalan Bung Karno seperti lukisan hingga akta nikah juga masih tersimpan rapi. Di bagian tengah terdapat kamar tidur Bung Karno dan di sisi lainnya terdapat kamar mertua dan anak angkatnya. Di bagian belakang, mulai dari sumur hingga dapur masih terkesan seperti jaman dulu. Bagi Anda yang memiliki hobi membaca, Rumah Pengasingan Bung Karno ini juga menyediakan buku sejarah tentang Ende, Ir. Soekarno serta sejarah tentang kemerdekaan Indonesia."
+    },
+    {
+      "id": "24",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "25",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "26",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "27",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "28",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "29",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "30",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "31",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "32",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "33",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "34",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "35",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "36",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "37",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "38",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "39",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "40",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "41",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "42",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "43",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "44",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "45",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "46",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "47",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "48",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "49",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
+    {
+      "id": "50",
+      "name": "",
+      "city": "",
+      "address": "",
+      "picture": "",
+      "description": ""
+    },
   ]
 }
