@@ -346,59 +346,99 @@
     },
     {
       "id": "44",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Istana Maimun",
+      "city": "Medan",
+      "address": " Jl. Brigjen Katamso, Medan Maimun, Kota Medan, Sumatera Utara 20156",
       "picture": "",
-      "description": ""
+      "description": "Istana Maimun adalah salah satu ikon kota Medan dan salah satu istana terindah di Indonesia. Istana ini dibangun pada tahun 1888 oleh Sultan Deli, Sultan Mahmud Al Rasyid II. Istana ini memiliki arsitektur yang unik perpaduan antara gaya Melayu, Spanyol, dan Italia. Istana ini memiliki 100 ruangan dan 300 jendela."
     },
     {
       "id": "45",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Danau Toba",
+      "city": "Samosir",
+      "address": "Danau Toba, Samosir, Sumatera Utara",
       "picture": "",
-      "description": ""
+      "description": "Danau Toba adalah danau vulkanik terbesar di dunia. Danau ini terletak di Provinsi Sumatera Utara. Danau ini terbentuk akibat letusan Gunung Toba yang terjadi sekitar 75.000 tahun yang lalu. Danau ini memiliki luas sekitar 1.145 kilometer persegi dan kedalaman sekitar 456 meter."
     },
     {
       "id": "46",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Rumah Adat Melayu",
+      "city": "Medan",
+      "address": " Jl. Sultan Iskandar Muda, Medan, Sumatera Utara",
       "picture": "",
-      "description": ""
+      "description": "Rumah Adat Melayu adalah rumah tradisional masyarakat Melayu. Rumah ini memiliki ciri khas atap yang berbentuk limas. Rumah ini terbuat dari kayu dan beratap sirap. Rumah ini memiliki ruang-ruang yang berfungsi sebagai tempat tinggal, tempat menerima tamu, dan tempat ibadah."
     },
     {
       "id": "47",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Rumah Adat Gayo",
+      "city": "Takengon",
+      "address": " Jl. Soekarno-Hatta No.1, Kampung Pajak, Kec. Lut Tawar, Kab. Aceh Tengah, Aceh 24511",
       "picture": "",
-      "description": ""
+      "description": "Rumah Adat Gayo adalah rumah tradisional masyarakat Gayo. Rumah ini memiliki ciri khas atap yang berbentuk limas. Rumah ini terbuat dari kayu dan beratap ijuk. Rumah ini memiliki ruang-ruang yang berfungsi sebagai tempat tinggal, tempat menerima tamu, dan tempat ibadah."
     },
     {
       "id": "48",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Rumah Adat Dayak",
+      "city": " Palangkaraya",
+      "address": "Jl. Yos Sudarso, Palangkaraya, Kalimantan Tengah",
       "picture": "",
-      "description": ""
+      "description": "Rumah Adat Dayak adalah rumah tradisional masyarakat Dayak. Rumah ini memiliki ciri khas atap yang berbentuk kerucut. Rumah ini terbuat dari kayu dan beratap sirap. Rumah ini memiliki ruang-ruang yang berfungsi sebagai tempat tinggal, tempat menerima tamu, dan tempat ibadah."
     },
     {
       "id": "49",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Istana Pagaruyung Batusangkar ",
+      "city": "Batusangkar",
+      "address": "Jl. Istana Pagaruyung, Nagari Pagaruyung, Kec. Tanjung Emas, Kabupaten Tanah Datar, Sumatera Barat",
       "picture": "",
-      "description": ""
+      "description": "Istana Pagaruyung Batusangkar dibangun pada abad ke-17 dan dulunya menjadi tempat tinggal raja yang ada di Pulau Sumatra. Istana ini memiliki bentuk seperti Rumah Gadang dan sangat populer dikalangan anak muda Sumatera dan traveler Indonesia. Saat berfoto di depan Istana Pagaruyung Batusangkar, hasil foto kalian itu pastinya memberi makna budaya yang melekat."
     },
     {
       "id": "50",
-      "name": "",
-      "city": "",
-      "address": "",
+      "name": "Nagari 1000 Rumah Gadang ",
+      "city": "Bukittinggi",
+      "address": "Jl. A. Yani, Koto Gadang, Agam, Sumatera Barat",
       "picture": "",
-      "description": ""
-    }
+      "description": "Nagari 1000 Rumah Gadang memiliki 1000 rumah gadang yang luas. Bahkan di kawasan Nagari 1000 Rumah Gadang, kalian bisa menginap 1 malam dan biasanya saat siang hari ada pertunjukan tari-tarian tradisional yang menghibur traveler saat berada di Nagari 1000 Rumah Gadang."
+    },
+    {
+      "id": "50",
+      "name": "Jembatan Siti Nurbaya ",
+      "city": "Padang",
+      "address": "Jl. Siti Nurbaya, Padang Utara, Padang, Sumatera Barat",
+      "picture": "",
+      "description": "Jembatan Siti Nurbaya memiliki pemandangan indah dan cantiknya view Sungai Batang Arau ini. Wisatawan yang ada di Jembatan Siti Nurbaya biasanya menunggu sunset, dan view di Jembatan Siti Nurbaya semakin indah karena terdapat rumah-rumah penduduk yang menambah kecantikan pemandangan Jembatan Siti Nurbaya."
+    },
+    {
+      "id": "50",
+      "name": "Desa Tertua Nagari Pariang ",
+      "city": "Padang Pariaman",
+      "address": "Jl. Raya Padang - Bukittinggi, Nagari Pariangan, Kec. Pariangan, Kabupaten Padang Pariaman, Sumatera Barat",
+      "picture": "",
+      "description": "Desa Tertua Nagari Pariang merupakan desa tertua di Sumatera Barat yang masih mempertahankan adat dan budaya Minangkabau. Di sini, kalian bisa melihat rumah-rumah adat yang masih terjaga dengan baik."
+    },
+    {
+      "id": "50",
+      "name": "Museum Negeri Pontianak",
+      "city": "Pontianak",
+      "address": "Jl. Ahmad Yani No. 1, Pontianak Sel., Kota Pontianak, Kalimantan Barat",
+      "picture": "",
+      "description": "Museum Negeri Pontianak adalah museum yang menampilkan sejarah dan kebudayaan Kalimantan Barat. Di sini, kalian bisa melihat koleksi benda-benda peninggalan sejarah, seperti senjata tradisional, pakaian adat, dan alat musik tradisional."
+    },
+    {
+      "id": "50",
+      "name": "Museum Kayu Tua ",
+      "city": "Singkawang",
+      "address": "Jl. Ahmad Yani No. 1, Pontianak Sel., Kota Pontianak, Kalimantan Barat",
+      "picture": "",
+      "description": "Museum Kayu Tua adalah museum yang menampilkan sejarah dan kebudayaan Singkawang. Di sini, kalian bisa melihat koleksi benda-benda peninggalan sejarah, seperti senjata tradisional, pakaian adat, dan alat musik tradisional."
+    },
+    {
+      "id": "50",
+      "name": "Museum Sang Nila Utama ",
+      "city": "Singkawang",
+      "address": "Jl. Ahmad Yani No. 1, Pontianak Sel., Kota Pontianak, Kalimantan Barat",
+      "picture": "",
+      "description": "Museum Sang Nila Utama adalah museum yang menampilkan sejarah dan kebudayaan Singkawang. Di sini, kalian bisa melihat koleksi benda-benda peninggalan sejarah, seperti senjata tradisional, pakaian adat, dan alat musik tradisional."
+    },
   ]
 }
