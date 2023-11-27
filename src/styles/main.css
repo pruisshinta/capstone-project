@@ -1,4 +1,374 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Quicksand:wght@500;700&display=swap');
+
+* {
     padding: 0;
     margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 12px;
+    width: 100%;
+    background-color: #f9f9f9;
+}
+
+header {
+    display: flex;
+    background: none;
+    justify-content: space-between;
+    padding: 8px 18px;
+    top: 0;
+    position: relative;
+    z-index: 1;
+}
+
+.web-name {
+    font-size: 20px;
+    color: #fff;
+}
+
+.signin-button {
+    background-color: none;
+    background: none;
+    border-radius: 10px;
+    border: 1.5px solid #fff;
+    margin: 3px 0;
+    padding: 0 15px 0 15px;
+    color: #fff;
+    font-size: 12px;
+}
+
+.signin-button:hover {
+    background-color: #CE5A18;
+    cursor: pointer;
+}
+
+main {
+    display: block;
+    width: 100%;
+    top: 0;
+    margin-top: -46px;
+}
+
+.hero {
+    height: 210px;
+}
+
+.hero-image {
+    width: 100%;
+    padding-top: -20px;
+    display: block;
+}
+
+.hero-bold {
+    margin-top: -43%;
+    font-size: 16px;
+    color: #fff;
+    font-weight: 400;
+    padding-left: 40px;
+}
+
+.hero-desc {
+    opacity: 0;
+}
+
+.benefits {
+    text-align: center;
+    background-color: #fff;
+    border-radius: 10px;
+    margin: -60px 30px 0 30px;
+    padding: 20px 25px;
+    position: relative;
+    z-index: 5;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+}
+
+.title {
+    text-align: center;
+    font-size: 16px;
+    color: #CE5A18;
+    font-weight: 600;
+}
+
+.benefits-text {
+    font-size: 11px;
+    font-weight: lighter;
+    margin-bottom: 20px;
+}
+
+.benefits-icon {
+    width: 50px;
+    margin-top: 10px;
+}
+
+.benefits-item {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.benefits-desc {
+    font-size: 11px;
+    padding: 0 12px 15px 12px;
+}
+
+.summary {
+    height: 350px;
+    padding: 40px 35px;
+}
+
+.summary-img {
+    margin: 7px 0;
+    width: 100%;
+}
+
+.summary-desc {
+    text-align: justify;
+    font-size: 11px;
+}
+
+.about {
+    height: 340px;
+    text-align: center;
+    margin: 40px 30px 20px 30px;
+    padding: 20px 15px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3);
+    border-radius: 10px;
+}
+
+.about-img {
+    width: 92%;
+    border-radius: 2px;
+    margin: -70px;
+}
+
+.about-title {
+    text-align: center;
+    font-size: 16px;
+    color: #CE5A18;
+    font-weight: 600;
+    margin-top: 75px;
+}
+
+.about-desc {
+    text-align: justify;
+    font-size: 11px;
+    padding: 0 12px;
+}
+
+footer {
+    background-color: #CE5A18;
+    color: #fff;
+    text-align: center;
+    padding: 15px 12px;
+    margin-top: 20px;
+}
+
+.footer-title {
+    font-size: 14px;
+    font-weight: 800;
+}
+
+.footer-credit {
+    padding: 3px 5px;
+    font-size: 10px;
+    font-weight: lighter;
+}
+
+@media screen and (min-width: 321px) and (max-width: 375px){
+    .hero-bold {
+        margin-top: -155px;
+    }
+    .benefits {
+        margin-top: -40px;
+    }
+}
+
+@media screen and (min-width: 376px) and (max-width: 499px) {
+    .benefits {
+        max-width: 80%;
+        margin: 0 auto;
+        margin-top: -20px;
+    }
+    .summary {
+        max-width: 95%;
+        margin: 0 auto;
+    }
+    .about {
+        max-width: 80%;
+        margin: 0 auto;
+        margin-top: 35px;
+    }
+}
+
+@media screen and (min-width: 500px) {
+    .benefits {
+        max-width: 80%;
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+    .summary {
+        height: 400px;
+        max-width: 92%;
+        margin: 0 auto;
+    }
+    .about {
+        max-width: 90%;
+        height: 400px;
+    }
+}
+
+@media screen and (min-width: 630px) {
+    .about {
+        height: 450px;
+    }
+}
+
+@media screen and (min-width: 720px) {
+    header{
+        height: 0;
+        padding: 20px 50px;
+    }
+    .web-name {
+        font-size: 32px;
+    }
+    .signin-button {
+        margin-top: 10px;
+        padding: 0 30px;
+        height: 32px;
+    }
+    .hero-bold {
+        font-size: 32px;
+    }
+    .hero-bold {
+        padding: 0 80px;
+    }
+    .hero-desc {
+        opacity: 100%;
+        color: #fff;
+        padding: 5px 80px;
+        font-size: 13px;
+    }
+    .benefits {
+        max-width: 85%;
+        margin-top: 200px;
+    }
+    .benefits-items {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-column-gap: 16px;
+    }
+    .title {
+        font-size: 24px;
+        text-align: left;
+    }
+    .benefits {
+        padding: 20px 40px;
+        text-align: left;
+    }
+    .benefits-items {
+        padding-right: 5px;
+    }
+    .benefits-text {
+        font-size: 13px;
+    }
+    .benefits-icon {
+        width: 60px;
+    }
+    .benefits-item {
+        font-size: 14px;
+    }
+    .benefits-desc {
+        font-size: 12px;
+        padding-left: 0;
+    }
+    .summary {
+        height: 300px;
+    }
+    #summary-title {
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .summary-items {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 16px;
+    }
+    .summary-desc {
+        font-size: 14px;
+    }
+    .about {
+        width: 85%;
+        height: 250px;
+        padding: 30px 30px;
+        margin: 0 auto;
+    }
+    .about-items {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-column-gap: 16px;
+    }
+    .about-img {
+        margin: 0;
+        padding-top: 8px;
+    }
+    .about-title {
+        margin: 0;
+        text-align: left;
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    .about-desc {
+        padding-left: 0;
+    }
+    footer {
+        margin-top: 60px;
+        height: 90px;
+    }
+    .footer-title {
+        font-size: 16px;
+    }
+    .footer-credit {
+        font-size: 12px;
+    }
+}
+
+@media screen and (min-width: 900px) {
+    .benefits {
+        margin-top: 280px;
+        padding: 30px 50px;
+    }
+    .benefits-desc {
+        font-size: 14px;
+    }
+    .summary-desc {
+        font-size: 14px;
+    }
+    .about-img {
+        max-width: 300px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .hero-bold {
+        padding-left: 250px;
+        font-size: 48px;
+    }
+    .hero-desc {
+        padding-left: 250px;
+        padding-right: 250px;
+        font-size: 20px;
+    }
+    .benefits {
+        margin-top: 40%;
+        padding: 30px 50px;
+        max-width: 1000px;
+    }
+    .summary {
+        max-width: 1000px;
+    }
+    .about {
+        max-width: 1000px;
+    }
 }
