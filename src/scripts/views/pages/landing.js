@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const landingPage = {
   async render() {
     return `
@@ -76,3 +77,18 @@ const landingPage = {
 };
 
 export default landingPage;
+=======
+const Landingpage = {
+  async render() {
+    return `
+      
+      `;
+  },
+
+  async afterRender() {
+    //
+  },
+};
+
+export default Landingpage;
+>>>>>>> 5f79d573a0f7803c2ac27f24f3cef2adbb20a94c
