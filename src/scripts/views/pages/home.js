@@ -2,9 +2,15 @@
 const Homepage = {
   async render() {
     return `
+<<<<<<< HEAD
     
     <section class="home">
     <img class="home-img" src="./images/home.png" alt="">
+=======
+
+    <section class="home">
+    <img src="./images/home.png" alt="">
+>>>>>>> 5f79d573a0f7803c2ac27f24f3cef2adbb20a94c
       <article class="home-inner">
         <h1 class="home-title">Explore Cultural Tourism in Indonesia</h1>
         <p class="home-ket">
@@ -37,6 +43,7 @@ const Homepage = {
       const searchForm = document.getElementById('searchForm');
       searchForm.addEventListener('submit', (event) => {
         event.preventDefault();
+<<<<<<< HEAD
         Homepage.searchCultures(data);
       });
       const landingPageHeader = document.querySelector('.landing-head');
@@ -52,6 +59,10 @@ const Homepage = {
       // Fetch weather data for Jakarta
       const weatherData = await this.fetchWeatherData('Jakarta', 'dbe5889baa9a6b2e6fbb81ec46c1cd96');
       console.log('Weather in Jakarta:', weatherData);
+=======
+        Homepage.searchCultures(data); // Mengirimkan data sebagai argumen
+      });
+>>>>>>> 5f79d573a0f7803c2ac27f24f3cef2adbb20a94c
     } catch (error) {
       console.error('Error fetching data:', error);
     }
@@ -61,11 +72,19 @@ const Homepage = {
     const cultureListElement = document.getElementById('culture-list');
 
     const cultureItemsHTML = cultures.map((culture) => `
+<<<<<<< HEAD
     <section class="culture-card">
     <article class="culture-item">
       <img src="${culture.picture}" alt="${culture.name} Picture" class="culture-picture">
     </article>
     <article class="culture-descript">
+=======
+    <section class="restaurant-card">
+    <article class="restaurant-item">
+      <img src="${culture.picture}" alt="${culture.name} Picture" class="culture-picture">
+    </article>
+    <article class="restaurant-descript">
+>>>>>>> 5f79d573a0f7803c2ac27f24f3cef2adbb20a94c
       <h2>${culture.name}</h2>
       <p>${culture.description}</p>
     </article>
@@ -91,6 +110,7 @@ const Homepage = {
       cultureListElement.appendChild(noResultsMessage);
     }
   },
+<<<<<<< HEAD
   async fetchWeatherData(city, apiKey) {
     const weatherApiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}`;
     const response = await fetch(weatherApiUrl);
@@ -98,4 +118,8 @@ const Homepage = {
     return weatherData;
   },
 };
+=======
+};
+
+>>>>>>> 5f79d573a0f7803c2ac27f24f3cef2adbb20a94c
 export default Homepage;
