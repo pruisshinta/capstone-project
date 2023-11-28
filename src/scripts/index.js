@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* eslint-disable import/no-extraneous-dependencies */
 import '../styles/main.css';
 import 'regenerator-runtime';
@@ -18,3 +19,6 @@ window.addEventListener('load', () => {
   app.renderPage();
   swRegister();
 });
+=======
+import '../styles/main.css';
+>>>>>>> ed65d109a21df8428fedab383578726d2345b5df
