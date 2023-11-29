@@ -10,8 +10,10 @@ const Like = {
   },
 
   async afterRender() {
-    //
-
+    const landingPageHeader = document.querySelector('.landing-head');
+    if (landingPageHeader) {
+      landingPageHeader.style.display = 'none';
+    }
   },
 };
 
