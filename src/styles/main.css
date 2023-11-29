@@ -57,7 +57,7 @@
 
   .nav {
     width: 40%;
-    margin-top: 40px;
+    margin-top: 60px;
     text-align: center;
   }
 
@@ -120,10 +120,9 @@
 }
     .head-title{
     font-weight: bold;
-    font-size: 20px;
+    font-size: 24px;
     color: #ffff;
-    
-    padding: 10px 10px;
+    margin: 15px;
     }
 
     .culture-list{
@@ -468,12 +467,7 @@
   
   .nav{
     width: 50%;
-    margin-top: 15px;
-  }
-
-  .head-title{
-    margin: 10px;
-    font-size: 28px;
+    margin-top: 10px;
   }
 
   .nav-list{
