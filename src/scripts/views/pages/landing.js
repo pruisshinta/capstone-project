@@ -66,7 +66,7 @@ const landingPage = {
       if (loginButton) {
         loginButton.addEventListener("click", () => {
           // Arahkan ke homepage
-          window.location.href = "#/home";
+          window.location.href = "#/signin";
         });
       }
     } catch (error) {

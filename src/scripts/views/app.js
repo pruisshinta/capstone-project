@@ -21,6 +21,7 @@ class App {
   }
 
   async renderPage() {
+    console.log("url");
     const url = UrlParser.parseActiveUrlWithCombiner();
     const page = routes[url];
     
