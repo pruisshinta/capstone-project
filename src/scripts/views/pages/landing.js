@@ -51,26 +51,24 @@ const landingPage = {
 
   async afterRender() {
     try {
-      const landingPageHeader = document.querySelector(".heading");
+      const landingPageHeader = document.querySelector('.heading');
       if (landingPageHeader) {
-        landingPageHeader.style.display = "none";
+        landingPageHeader.style.display = 'none';
       }
 
-      // Tampilkan Homepage Header
-      const homepageHeader = document.querySelector(".landing-head");
+      const homepageHeader = document.querySelector('.landing-head');
       if (homepageHeader) {
-        homepageHeader.style.display = "flex";
+        homepageHeader.style.display = 'flex';
       }
 
-      const loginButton = document.getElementById("loginButton");
+      const loginButton = document.getElementById('loginButton');
       if (loginButton) {
-        loginButton.addEventListener("click", () => {
-          // Arahkan ke homepage
-          window.location.href = "#/signin";
+        loginButton.addEventListener('click', () => {
+          window.location.href = '#/signin';
         });
       }
     } catch (error) {
-      console.error("Error:", error);
+      console.error('Error:', error);
     }
   },
 };
