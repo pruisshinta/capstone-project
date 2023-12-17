@@ -1,0 +1,22 @@
+<!doctype html><html lang="en"><head><meta charset="UTF-8"/><meta name="viewport" content="width=device-width,initial-scale=1"/><title>CultureVoyager</title><script defer="defer" src="app.bundle.js"></script></head><body><header class="heading"><h1 class="head-title" id="head-title">CultureVoyager</h1><button id="menu" class="head-menu">☰</button><nav id="draw" class="nav"><ul class="nav-list"><li class="nav-item"><a href="#/home">Home</a></li><li class="nav-item"><a href="#/like">Favorit</a></li><li class="nav-item" id="logout"><a href="#/signin">Logout</a></li></ul></nav></header><header class="landing-head"><h1 class="web-name">Cultural Voyager</h1><button class="signin-button" id="loginButton">Login</button></header><main id="main-content"></main><footer><section><h2>CultureVoyager</h2><p>Copyright © 2023 | Created by C523-PS011 MSIB x Dicoding Indonesia Batch 5</p></section></footer><script>// Your custom script with logout functionality
+      {% comment %} function logout() {
+        const auth = firebase.auth();
+
+        try {
+          auth.signOut();
+          alert("logout");
+          window.location.href = "/#/signin";
+        } catch (error) {
+          alert(error.message);
+          console.error("Logout error:", error.message);
+        }
+      } {% endcomment %}
+
+      document.addEventListener("DOMContentLoaded", function () {
+        const logoutLink = document.getElementById("logout");
+
+          logoutLink.addEventListener("click", function (event) {
+            event.preventDefault();
+            window.location.href = "#/signin";
+          });
+      });</script></body></html>
