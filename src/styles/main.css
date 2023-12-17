@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
 * {
   padding: 0;
   margin: 0;
@@ -108,14 +109,14 @@ body {
   height: 0;
   top: 0;
   position: relative;
-  z-index: 1;
-  background-color: #ff8c32;
+  z-index: 10;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.038);
 }
+
 .head-title {
   font-weight: bold;
   font-size: 24px;
-  color: #ffff;
+  color: white;
   margin: 15px;
 }
 
@@ -247,7 +248,6 @@ body {
 }
 
 footer {
-  width: 100%;
   text-align: center;
   background-color: #ce5a18;
   padding: 30px;
@@ -578,16 +578,6 @@ input:valid + label {
   .benefits {
     margin-top: -40px;
   }
- 
-
-  .signin{
-    height: 400px;
-  }
-
-  .register{
-    height: 400px;
-  }
-
 }
 
 @media screen and (max-width: 499px) {
@@ -649,6 +639,7 @@ input:valid + label {
   .head-menu {
     display: none;
   }
+  
  
 
   .signin{
@@ -661,6 +652,7 @@ input:valid + label {
     margin-top: 10px;
   }
 
+
   .nav-list {
     width: 100%;
     display: flex;
@@ -668,6 +660,7 @@ input:valid + label {
     align-items: center;
     font-size: 18px;
   }
+
 
   .nav a {
     color: #ffffff;
@@ -677,10 +670,13 @@ input:valid + label {
   .nav li {
     list-style: none;
   }
+  
 
   .nav-item {
     border: none;
   }
+
+
 
   .culture-list {
     display: grid;
@@ -692,14 +688,17 @@ input:valid + label {
     width: 100%;
     height: 450px;
   }
+
   .home-img {
     width: 100%;
     height: 450px;
   }
 
+
   .home-inner {
     top: 75%;
   }
+
 
   .home-title {
     color: #ffffff;
@@ -708,10 +707,12 @@ input:valid + label {
     letter-spacing: 1px;
   }
 
+
   .home-ket {
     color: #ffffff;
     margin-top: 7px;
     font-size: 14px;
+    font-weight: lighter;
     font-weight: lighter;
   }
 
@@ -721,18 +722,26 @@ input:valid + label {
     margin-top: -20px;
   }
   .summary {
+  }
+  .summary {
     max-width: 95%;
     margin: 0 auto;
+  }
+  .about {
   }
   .about {
     max-width: 80%;
     margin: 0 auto;
     margin-top: 35px;
   }
-}
+  }
+
 
 @media screen and (min-width: 500px) {
   .benefits {
+    max-width: 80%;
+    margin: 0 auto;
+    margin-top: 50px;
     max-width: 80%;
     margin: 0 auto;
     margin-top: 50px;
@@ -1049,4 +1058,218 @@ input:valid + label {
   .about {
     max-width: 1000px;
   }
+}
+
+/*DETAIL PAGE*/
+span.judul {
+  font-family: Poppins;
+  font-size: 31px;
+  font-weight: 700;
+  line-height: 47px;
+  letter-spacing: 0.03em;
+  text-align: left;
+  margin-left: 6px;
+  -webkit-text-stroke: 0.1px white;
+  -webkit-text-fill-color: transparent;
+}
+nav.navigasi {
+  text-align: right;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  float: right;
+  margin-right: 150px;
+}
+a:hover {
+  text-decoration: underline;
+  font-weight: 600;
+}
+nav ul a {
+  padding-left: 62px;
+}
+
+.container {
+  padding-left: 95px;
+  padding-top: 122px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.informasi {
+  color: white;
+}
+p.tempatdestinasi {
+  color: #ce5a18;
+  font-family: Poppins;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+p.keterangan {
+  color: #3e3e3e;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: bold;
+  line-height: normal;
+  margin-top: 24px;
+}
+p.keteranganisi {
+  color: #3e3e3e;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+}
+img.big {
+  width: 519px;
+  height: 545px;
+  flex-shrink: 0;
+  border-radius: 10px;
+}
+.deskripsi {
+  color: #3e3e3e;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  padding: 51px 81px 0 81px;
+}
+.route {
+  color: #3e3e3e;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding: 38px 81px;
+}
+
+.review {
+  color: #3e3e3e;
+  font-family: Poppins;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding: 0 81px;
+  height: 292px;
+}
+.isireview {
+  width: 100%;
+  height: 237px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 0px 4px 10.2px 1px rgba(0, 0, 0, 0.25);
+}
+.fotoreview {
+  padding: 20px 28px 0 37px;
+  border-radius: 50px;
+}
+.user {
+  color: #ce5a18;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  display: inline;
+}
+.komenan {
+  color: #3e3e3e;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
+  padding: 11px 81px 0 49px;
+}
+.bagiankiri {
+  width: 100%;
+}
+.bagiankanan {
+  float: right;
+  padding-top: 20px;
+  padding-right: 19px;
+}
+.addkomen {
+  font-family: Poppins;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding: 0 81px;
+  height: 284px;
+}
+.tambahkankomen {
+  border: 1px solid #3e3e3e;
+  border-radius: 5px;
+  width: 74%;
+  height: 233px;
+  font-size: 14px;
+  float: left;
+}
+.addfoto {
+  border-radius: 5px;
+  border: 1px solid #3e3e3e;
+  width: 25%;
+  height: 233px;
+  font-size: 16px;
+  float: right;
+  padding-bottom: 50px;
+}
+
+.button {
+  color: white;
+  font-family: Poppins;
+  box-sizing: border-box;
+  display: inline-flex;
+  white-space: nowrap;
+  vertical-align: baseline;
+  font-size: 20px;
+  font-style: normal;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  line-height: normal;
+  text-align: center;
+  letter-spacing: 0.4px;
+  width: 381px;
+  height: 59.733px;
+  background-color: #ce5a18;
+  margin: 38px 450px 150px 43%;
+}
+
+footer {
+  width: 100%;
+  height: 173px;
+  flex-shrink: 0;
+  background: var(--utama, #ce5a18);
+  box-shadow: 0px 4px 10.2px 1px rgba(0, 0, 0, 0.25);
+}
+.textpertama {
+  padding-top: 43px;
+  text-align: center;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+}
+.textkedua {
+  padding-top: 10px;
+  color: #fff;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: normal;
 }

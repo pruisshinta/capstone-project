@@ -80,26 +80,23 @@ const Homepage = {
   },
 
   updateCultureList(cultures) {
-    const cultureListElement = document.getElementById("culture-list");
-
-    const cultureItemsHTML = cultures
-      .map(
-        (culture) => `
-    <section class="culture-card">
-    <article class="culture-item">
-      <img src="${culture.picture}" alt="${culture.name} Picture" class="culture-picture">
-    </article>
-    <article class="culture-descript">
-      <h2>${culture.name}</h2>
-      <p>${culture.description}</p>
-    </article>
-  </section>
-    `
-      )
-      .join("");
-
+    const cultureListElement = document.getElementById('culture-list');
+  
+    const cultureItemsHTML = cultures.map((culture) => `
+      <section class="culture-card">
+        <article class="culture-item">
+          <img src="${culture.picture}" alt="${culture.name} Picture" class="culture-picture">
+        </article>
+        <article class="culture-descript">
+          <h2><a href="/#/detail/" style="color: #CE5A18; font-family: Poppins; font-size: 20px;font-style: normal;font-weight: 600;line-height: normal;">${culture.name}</a></h2>
+          <p>${culture.description}</p>
+        </article>
+      </section>
+    `).join('');
+  
     cultureListElement.innerHTML = cultureItemsHTML;
   },
+  
 
   searchCultures(data) {
     const searchInput = document.getElementById("searchInput");

@@ -6,7 +6,12 @@
       "city": "Banten",
       "address": "Jl. Perintis Kemerdekaan No.51 Kec. Labuan, Kab. Pandeglang, Provinsi Banten. 42264, Indonesia",
       "picture": "https://cdn0-production-images-kly.akamaized.net/TkI37Y6JN6QUUDJvAqxSuLXHnZQ=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3576065/original/014002700_1631982907-IMG-20210918-WA0078.jpg",
-      "description": "Ujung Kulon dikenal karena keindahan alamnya yang menakjubkan. Kawasan ini memiliki hutan tropis yang lebat, pantai yang indah, serta keanekaragaman hayati yang luar biasa. Wisatawan dapat menikmati pemandangan alam yang belum terjamah dan merasakan ketenangan yang langka. Ujung Kulon merupakan Taman Nasional tertua di Indonesia, didirikan pada tahun 1921. Taman Nasional ini terkenal karena menjadi rumah bagi badak Jawa, yang merupakan spesies langka dan dilindungi. Selain itu, Ujung Kulon juga menjadi tempat bagi berbagai jenis flora dan fauna endemik."
+      "description": "Ujung Kulon dikenal karena keindahan alamnya yang menakjubkan. Kawasan ini memiliki hutan tropis yang lebat, pantai yang indah, serta keanekaragaman hayati yang luar biasa. Wisatawan dapat menikmati pemandangan alam yang belum terjamah dan merasakan ketenangan yang langka. Ujung Kulon merupakan Taman Nasional tertua di Indonesia, didirikan pada tahun 1921. Taman Nasional ini terkenal karena menjadi rumah bagi badak Jawa, yang merupakan spesies langka dan dilindungi. Selain itu, Ujung Kulon juga menjadi tempat bagi berbagai jenis flora dan fauna endemik.",
+      "location": {
+        "latitude": "-6.784694",
+        "longitude": "105.375109"
+      },
+      "review":""
     },
     {
       "id": "2",
@@ -14,7 +19,12 @@
       "city": "Bandung",
       "address": "Jl. Raa Ciwidey Patengan Km 11 Lebakmuncang, Ciwidey, Sugihmukti, Pasir Jambu, Bandung, Jawa Barat",
       "picture": "https://cdn0-production-images-kly.akamaized.net/ACD-xHzaJGxZOQZSmv5LmIzyrh0=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/2784457/original/045292900_1555906786-iStock-1065331334.jpg",
-      "description": "Kawah Putih, terletak di Bandung, Jawa Barat, adalah sebuah keajaiban alam yang menggabungkan keindahan alam dan budaya. Kawah Putih menawarkan pemandangan danau vulkanik dengan air yang berwarna putih kehijauan, menciptakan lanskap yang menakjubkan. Selain keindahan alamnya, kawasan ini juga memiliki nilai budaya tinggi dengan adanya tradisi lokal yang masih dijaga, serta mitos dan cerita rakyat yang melekat pada tempat ini."
+      "description": "Kawah Putih, terletak di Bandung, Jawa Barat, adalah sebuah keajaiban alam yang menggabungkan keindahan alam dan budaya. Kawah Putih menawarkan pemandangan danau vulkanik dengan air yang berwarna putih kehijauan, menciptakan lanskap yang menakjubkan. Selain keindahan alamnya, kawasan ini juga memiliki nilai budaya tinggi dengan adanya tradisi lokal yang masih dijaga, serta mitos dan cerita rakyat yang melekat pada tempat ini.",
+      "location": {
+        "latitude": "-7.143554",
+        "longitude": "107.398140"
+      },
+      "review":""
     },
     {
       "id": "3",
@@ -22,7 +32,12 @@
       "city": "Bogor",
       "address": "Jl. Ir. H. Juanda No.13, Paledang, Kec. Bogor Tengah, Kota Bogor.",
       "picture": "https://kebunraya.id/images/about/side-bogor.jpg",
-      "description": "Kebun Raya Bogor menonjol karena keanekaragaman botani yang luar biasa. Dengan luas lebih dari 87 hektar, kebun ini menjadi rumah bagi ribuan spesies tumbuhan, termasuk pohon-pohon langka, tanaman hias, serta berbagai jenis flora dari berbagai belahan dunia. Pengunjung dapat menjelajahi berbagai sektor yang menampilkan taman-taman tematik dan koleksi tumbuhan yang memukau. Kebun Raya Bogor memiliki peran penting dalam pelestarian keanekaragaman hayati Indonesia. Berbagai koleksi pohon dan tumbuhan khas Indonesia, termasuk tanaman langka dan endemik, ditanam dan dipertahankan di kebun ini. Para pengunjung dapat belajar lebih dalam tentang kekayaan flora Indonesia dan upaya pelestarian yang dilakukan oleh kebun raya."
+      "description": "Kebun Raya Bogor menonjol karena keanekaragaman botani yang luar biasa. Dengan luas lebih dari 87 hektar, kebun ini menjadi rumah bagi ribuan spesies tumbuhan, termasuk pohon-pohon langka, tanaman hias, serta berbagai jenis flora dari berbagai belahan dunia. Pengunjung dapat menjelajahi berbagai sektor yang menampilkan taman-taman tematik dan koleksi tumbuhan yang memukau. Kebun Raya Bogor memiliki peran penting dalam pelestarian keanekaragaman hayati Indonesia. Berbagai koleksi pohon dan tumbuhan khas Indonesia, termasuk tanaman langka dan endemik, ditanam dan dipertahankan di kebun ini. Para pengunjung dapat belajar lebih dalam tentang kekayaan flora Indonesia dan upaya pelestarian yang dilakukan oleh kebun raya.",
+      "location": {
+        "latitude": "-6.597629",
+        "longitude": "106.799568"
+      },
+      "review":""
     },
     {
       "id": "4",
@@ -30,7 +45,12 @@
       "city": "Magelang",
       "address": "Jl. Badrawati, Kawasan Candi Borobudur, Borobudur, Kec. Borobudur, Magelang.",
       "picture": "https://asset.kompas.com/crops/-fql-uumac3wXv5TLwTTekthQM4=/0x100:1430x1053/750x500/data/photo/2022/03/07/6225c0669e6d2.jpg",
-      "description": "Candi Borobudur dibangun pada abad ke-8 dan ke-9 selama masa kejayaan Kerajaan Sailendra. Sebagai candi Buddha terbesar di dunia, Borobudur mencerminkan kekayaan spiritual dan kesejajaran budaya yang menggabungkan unsur-unsur seni dan filosofi Buddha. Candi ini memiliki struktur yang mengesankan dengan tiga tingkat utama: Kamadhatu (dunia nafsu), Rupadhatu (dunia wujud), dan Arupadhatu (dunia tanpa wujud). Desainnya menciptakan piramida terbalik dengan tambahan stupa-stupa yang menonjol dan relief-relief yang menghiasi dindingnya. Dengan total lebih dari 2.600 relief dan 500 stupa, Candi Borobudur menjadi bukti keahlian arsitektur dan seni monumental dari masa lalu."
+      "description": "Candi Borobudur dibangun pada abad ke-8 dan ke-9 selama masa kejayaan Kerajaan Sailendra. Sebagai candi Buddha terbesar di dunia, Borobudur mencerminkan kekayaan spiritual dan kesejajaran budaya yang menggabungkan unsur-unsur seni dan filosofi Buddha. Candi ini memiliki struktur yang mengesankan dengan tiga tingkat utama: Kamadhatu (dunia nafsu), Rupadhatu (dunia wujud), dan Arupadhatu (dunia tanpa wujud). Desainnya menciptakan piramida terbalik dengan tambahan stupa-stupa yang menonjol dan relief-relief yang menghiasi dindingnya. Dengan total lebih dari 2.600 relief dan 500 stupa, Candi Borobudur menjadi bukti keahlian arsitektur dan seni monumental dari masa lalu.",
+      "location": {
+        "latitude": "-7.607355",
+        "longitude": "110.203804"
+      },
+      "review":""
     },
     {
       "id": "5",
@@ -38,7 +58,12 @@
       "city": "Yogyakarta",
       "address": "Jl. Raya Solo-Yogyakarta No.16, Bokoharjo, Kec. Prambanan, Kab. Sleman.",
       "picture": "https://ngepop.id/upload/media/entries/2023-08/19/490-entry-0-1692458165.jpg",
-      "description": "Candi Prambanan, yang terletak di Klaten dan Sleman, Jawa Tengah, Indonesia, memukau pengunjung dengan kemegahan arsitektur klasik Hindu dan keindahan relief yang memaparkan cerita-cerita epik Ramayana dan Mahabharata. Dibangun pada abad ke-9 Masehi oleh Dinasti Mataram, kompleks candi ini mencakup candi utama seperti Candi Shiva, Candi Vishnu, dan Candi Brahma, yang melambangkan Trimurti dalam agama Hindu. Candi Shiva, yang terbesar di antara mereka, didedikasikan untuk pemujaan terhadap Dewa Shiva. Relief-relief yang megah di dinding candi menggambarkan mitologi Hindu dan kehidupan Hindu-Jawa kuno dengan detail halus, menciptakan karya seni monumental yang mempesona. Selain sebagai tempat ibadah, Candi Prambanan juga menjadi latar belakang untuk pertunjukan seni tari drama Ramayana yang spektakuler pada malam hari. Meskipun mengalami kerusakan akibat gempa, upaya pelestarian dan restorasi telah dilakukan untuk memastikan kelangsungan dan keberlanjutan sebagai salah satu situs warisan dunia UNESCO yang paling berharga di Indonesia. Keunikan sejarah, arsitektur, dan nilai spiritual membuat Candi Prambanan menjadi destinasi budaya yang mengagumkan dan mengesankan."
+      "description": "Candi Prambanan, yang terletak di Klaten dan Sleman, Jawa Tengah, Indonesia, memukau pengunjung dengan kemegahan arsitektur klasik Hindu dan keindahan relief yang memaparkan cerita-cerita epik Ramayana dan Mahabharata. Dibangun pada abad ke-9 Masehi oleh Dinasti Mataram, kompleks candi ini mencakup candi utama seperti Candi Shiva, Candi Vishnu, dan Candi Brahma, yang melambangkan Trimurti dalam agama Hindu. Candi Shiva, yang terbesar di antara mereka, didedikasikan untuk pemujaan terhadap Dewa Shiva. Relief-relief yang megah di dinding candi menggambarkan mitologi Hindu dan kehidupan Hindu-Jawa kuno dengan detail halus, menciptakan karya seni monumental yang mempesona. Selain sebagai tempat ibadah, Candi Prambanan juga menjadi latar belakang untuk pertunjukan seni tari drama Ramayana yang spektakuler pada malam hari. Meskipun mengalami kerusakan akibat gempa, upaya pelestarian dan restorasi telah dilakukan untuk memastikan kelangsungan dan keberlanjutan sebagai salah satu situs warisan dunia UNESCO yang paling berharga di Indonesia. Keunikan sejarah, arsitektur, dan nilai spiritual membuat Candi Prambanan menjadi destinasi budaya yang mengagumkan dan mengesankan.",
+      "location": {
+        "latitude": "-7.751887",
+        "longitude": "110.491472"
+      },
+      "review":""
     },
     {
       "id": "6",
@@ -46,7 +71,12 @@
       "city": "Bandung",
       "address": "Desa Sirnajaya & Desa Keramat Wangi, Kecamatan Cisurupan, Kabupaten Garut, serta Desa Neglawangi, Kecamatan Kertasari, Kabupaten Bandung.",
       "picture": "https://ksdae.menlhk.go.id/assets/news/wajah_baru_papandayan.jpg",
-      "description": "Taman Wisata Alam Papandayan, yang terletak di Garut, Jawa Barat, Indonesia, adalah sebuah destinasi alam yang menakjubkan dengan keindahan alam yang beragam dan fenomena geologi yang menarik. Terkenal karena gunung berapi aktifnya, Gunung Papandayan, taman wisata ini menawarkan pengalaman unik melalui pemandangan pegunungan yang indah, sumber air panas alami, dan lautan lumpur panas yang menghampar luas. Pengunjung dapat menikmati trekking melalui jalur-jalur yang menantang, mengelilingi kawah gunung, dan menikmati udara segar serta panorama yang menawan. Selain keindahan alamnya, Taman Wisata Alam Papandayan juga memberikan kesempatan untuk memahami kegiatan vulkanologi dengan fasilitas observatorium vulkanologi di sekitarnya. Dengan kekayaan alam dan aspek ilmiahnya yang unik, Taman Wisata Alam Papandayan menjadi daya tarik utama bagi pencinta alam, pendaki gunung, dan para peneliti yang mencari pengalaman luar biasa di tengah keajaiban alam Jawa Barat."
+      "description": "Taman Wisata Alam Papandayan, yang terletak di Garut, Jawa Barat, Indonesia, adalah sebuah destinasi alam yang menakjubkan dengan keindahan alam yang beragam dan fenomena geologi yang menarik. Terkenal karena gunung berapi aktifnya, Gunung Papandayan, taman wisata ini menawarkan pengalaman unik melalui pemandangan pegunungan yang indah, sumber air panas alami, dan lautan lumpur panas yang menghampar luas. Pengunjung dapat menikmati trekking melalui jalur-jalur yang menantang, mengelilingi kawah gunung, dan menikmati udara segar serta panorama yang menawan. Selain keindahan alamnya, Taman Wisata Alam Papandayan juga memberikan kesempatan untuk memahami kegiatan vulkanologi dengan fasilitas observatorium vulkanologi di sekitarnya. Dengan kekayaan alam dan aspek ilmiahnya yang unik, Taman Wisata Alam Papandayan menjadi daya tarik utama bagi pencinta alam, pendaki gunung, dan para peneliti yang mencari pengalaman luar biasa di tengah keajaiban alam Jawa Barat.",
+      "location": {
+        "latitude": "-7.306224",
+        "longitude": "107.738024"
+      },
+      "review":""
     },
     {
       "id": "7",
@@ -54,7 +84,12 @@
       "city": "Bandung",
       "address": "Jl. Tangkuban Perahu No. 282, Cikole Lembang, Kab. Bandung Barat 40391, Indonesia.",
       "picture": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/02/04/f12b8d46-03f2-42ad-a620-5e7ad748aec8-1612403518383-adf8c9df733bf89681751d3427f993d7.jpg",
-      "description": "Taman Wisata Alam Gunung Tangkuban Perahu, terletak di Bandung, Jawa Barat, Indonesia, merupakan destinasi wisata alam yang memukau dengan lanskap gunung berapi yang megah dan fenomena geologi yang menarik. Gunung Tangkuban Perahu, yang terakhir meletus pada tahun 2013, menawarkan pengalaman unik dengan kawah yang terbuka lebar, memungkinkan pengunjung untuk menikmati pemandangan spektakuler dan mengamati aktivitas vulkanik yang menarik. Taman ini dilengkapi dengan jalur trekking yang memungkinkan pengunjung menjelajahi area sekitar dan merasakan keindahan alam pegunungan. Di sepanjang perjalanan, terdapat titik pandang yang menakjubkan, memungkinkan pengunjung untuk menyaksikan hamparan hijau hutan dan pegunungan yang menawan. Selain itu, Taman Wisata Alam Gunung Tangkuban Perahu juga menawarkan berbagai fasilitas, termasuk pusat informasi, area parkir, dan warung makan, menciptakan pengalaman wisata yang lengkap di dalam lingkungan alam yang menakjubkan. Dengan kombinasi keindahan alamnya dan daya tarik vulkaniknya, Gunung Tangkuban Perahu menjadi destinasi populer bagi wisatawan lokal maupun internasional yang mencari petualangan alam yang mendalam di Indonesia."
+      "description": "Taman Wisata Alam Gunung Tangkuban Perahu, terletak di Bandung, Jawa Barat, Indonesia, merupakan destinasi wisata alam yang memukau dengan lanskap gunung berapi yang megah dan fenomena geologi yang menarik. Gunung Tangkuban Perahu, yang terakhir meletus pada tahun 2013, menawarkan pengalaman unik dengan kawah yang terbuka lebar, memungkinkan pengunjung untuk menikmati pemandangan spektakuler dan mengamati aktivitas vulkanik yang menarik. Taman ini dilengkapi dengan jalur trekking yang memungkinkan pengunjung menjelajahi area sekitar dan merasakan keindahan alam pegunungan. Di sepanjang perjalanan, terdapat titik pandang yang menakjubkan, memungkinkan pengunjung untuk menyaksikan hamparan hijau hutan dan pegunungan yang menawan. Selain itu, Taman Wisata Alam Gunung Tangkuban Perahu juga menawarkan berbagai fasilitas, termasuk pusat informasi, area parkir, dan warung makan, menciptakan pengalaman wisata yang lengkap di dalam lingkungan alam yang menakjubkan. Dengan kombinasi keindahan alamnya dan daya tarik vulkaniknya, Gunung Tangkuban Perahu menjadi destinasi populer bagi wisatawan lokal maupun internasional yang mencari petualangan alam yang mendalam di Indonesia.",
+      "location": {
+        "latitude": "-6.758827",
+        "longitude": "107.609823"
+      },
+      "review":""
     },
     {
       "id": "8",
@@ -62,7 +97,12 @@
       "city": "Vogelkoop",
       "address": "Barat Bagian Kepala Burung (Vogelkoop) Pulau Papua.",
       "picture": "https://asset.kompas.com/crops/0BvAr2C8D3dzwWo93ZlurCkUYJg=/0x0:780x520/750x500/data/photo/2021/03/21/605753630590a.jpg",
-      "description": "Kepulauan Raja Ampat, terletak di ujung barat Papua, Indonesia, adalah surga bawah laut yang menakjubkan dan menjadi salah satu tujuan terbaik bagi penyelam dan pecinta alam. Dengan lebih dari 1.500 pulau kecil yang tersebar di sepanjang Laut Seram dan Laut Raja Ampat, wilayah ini dikenal akan keanekaragaman hayati lautnya yang luar biasa. Airnya yang jernih memungkinkan para penyelam untuk mengeksplorasi terumbu karang yang menakjubkan, hutan karang, dan gua-gua bawah laut yang memukau. Raja Ampat juga menjadi rumah bagi lebih dari 1.500 spesies ikan, termasuk beberapa spesies langka, membuatnya menjadi salah satu destinasi menyelam terbaik di dunia. Selain keindahan bawah lautnya, Kepulauan Raja Ampat juga menawarkan pantai-pantai berpasir putih, laguna biru yang tenang, dan pemandangan karst yang spektakuler. Pulau-pulau terpencil di Kepulauan Raja Ampat memungkinkan pengunjung untuk merasakan ketenangan dan keindahan alam yang belum tersentuh oleh banyak orang. Masyarakat setempat yang ramah juga memberikan pengalaman budaya yang unik, dengan tradisi dan kearifan lokal yang dapat dijelajahi oleh para wisatawan. Upaya pelestarian telah dilakukan untuk menjaga ekosistem yang rapuh di Kepulauan Raja Ampat. Berbagai taman laut dan kawasan konservasi telah dibentuk untuk melindungi keanekaragaman hayati laut yang menakjubkan ini. Kepulauan Raja Ampat, dengan keindahan alamnya yang tak tertandingi, menjadi magnet bagi para penggemar alam dan penyelam yang ingin merasakan keajaiban bawah laut Indonesia dalam segala kemuliaannya."
+      "description": "Kepulauan Raja Ampat, terletak di ujung barat Papua, Indonesia, adalah surga bawah laut yang menakjubkan dan menjadi salah satu tujuan terbaik bagi penyelam dan pecinta alam. Dengan lebih dari 1.500 pulau kecil yang tersebar di sepanjang Laut Seram dan Laut Raja Ampat, wilayah ini dikenal akan keanekaragaman hayati lautnya yang luar biasa. Airnya yang jernih memungkinkan para penyelam untuk mengeksplorasi terumbu karang yang menakjubkan, hutan karang, dan gua-gua bawah laut yang memukau. Raja Ampat juga menjadi rumah bagi lebih dari 1.500 spesies ikan, termasuk beberapa spesies langka, membuatnya menjadi salah satu destinasi menyelam terbaik di dunia. Selain keindahan bawah lautnya, Kepulauan Raja Ampat juga menawarkan pantai-pantai berpasir putih, laguna biru yang tenang, dan pemandangan karst yang spektakuler. Pulau-pulau terpencil di Kepulauan Raja Ampat memungkinkan pengunjung untuk merasakan ketenangan dan keindahan alam yang belum tersentuh oleh banyak orang. Masyarakat setempat yang ramah juga memberikan pengalaman budaya yang unik, dengan tradisi dan kearifan lokal yang dapat dijelajahi oleh para wisatawan. Upaya pelestarian telah dilakukan untuk menjaga ekosistem yang rapuh di Kepulauan Raja Ampat. Berbagai taman laut dan kawasan konservasi telah dibentuk untuk melindungi keanekaragaman hayati laut yang menakjubkan ini. Kepulauan Raja Ampat, dengan keindahan alamnya yang tak tertandingi, menjadi magnet bagi para penggemar alam dan penyelam yang ingin merasakan keajaiban bawah laut Indonesia dalam segala kemuliaannya.",
+      "location": {
+        "latitude": "-0.232603",
+        "longitude": "130.516795"
+      },
+      "review":""
     },
     {
       "id": "9",
@@ -70,7 +110,12 @@
       "city": "Teluk Wondama",
       "address": "Sobei Indah, Duairi, Kabupaten Teluk Wondama, Papua Barat. 98362.",
       "picture": "https://superlive.id/storage/superadventure/2021/07/17/6ae7b2e77cc7.png",
-      "description": "Taman Nasional Teluk Cendrawasih, terletak di Teluk Cenderawasih, Papua Barat, Indonesia, adalah tujuan luar biasa yang dikenal karena keindahan bawah lautnya dan menjadi rumah bagi berbagai spesies unik, terutama hiu paus. Taman nasional ini meliputi wilayah laut yang luas dan pulau-pulau kecil di sekitarnya. Keanekaragaman hayati lautnya menakjubkan, dengan terumbu karang yang indah, ikan warna-warni, dan kehidupan laut lainnya yang melimpah. Daya tarik utama Taman Nasional Teluk Cendrawasih adalah keberadaan hiu paus yang ramah dan berukuran besar. Pengunjung dapat berenang bersama hiu paus di dekat Mioswaar Island, pengalaman luar biasa yang jarang dapat ditemui di tempat lain di dunia. Selain hiu paus, taman nasional ini juga menjadi tempat hidup bagi sejumlah besar spesies ikan, penyu, dan mamalia laut lainnya. Tidak hanya bawah lautnya yang menakjubkan, tetapi keindahan darat Taman Nasional Teluk Cendrawasih juga patut disebut. Pulau-pulau dengan hutan hujan tropis, pantai pasir putih, dan formasi karst yang menakjubkan menambah pesona alamnya. Kondisi alam yang masih alami membuatnya menjadi surga bagi para pencinta alam dan penjelajah. Upaya konservasi telah dilakukan untuk menjaga kelestarian Taman Nasional Teluk Cendrawasih. Langkah-langkah pelestarian ini mencakup pendidikan lingkungan kepada masyarakat setempat dan pengelolaan pariwisata yang berkelanjutan. Taman Nasional Teluk Cendrawasih bukan hanya destinasi untuk mengeksplorasi kekayaan bawah laut, tetapi juga peluang untuk terhubung dengan keindahan alam yang masih murni dan eksotis di ujung timur Indonesia."
+      "description": "Taman Nasional Teluk Cendrawasih, terletak di Teluk Cenderawasih, Papua Barat, Indonesia, adalah tujuan luar biasa yang dikenal karena keindahan bawah lautnya dan menjadi rumah bagi berbagai spesies unik, terutama hiu paus. Taman nasional ini meliputi wilayah laut yang luas dan pulau-pulau kecil di sekitarnya. Keanekaragaman hayati lautnya menakjubkan, dengan terumbu karang yang indah, ikan warna-warni, dan kehidupan laut lainnya yang melimpah. Daya tarik utama Taman Nasional Teluk Cendrawasih adalah keberadaan hiu paus yang ramah dan berukuran besar. Pengunjung dapat berenang bersama hiu paus di dekat Mioswaar Island, pengalaman luar biasa yang jarang dapat ditemui di tempat lain di dunia. Selain hiu paus, taman nasional ini juga menjadi tempat hidup bagi sejumlah besar spesies ikan, penyu, dan mamalia laut lainnya. Tidak hanya bawah lautnya yang menakjubkan, tetapi keindahan darat Taman Nasional Teluk Cendrawasih juga patut disebut. Pulau-pulau dengan hutan hujan tropis, pantai pasir putih, dan formasi karst yang menakjubkan menambah pesona alamnya. Kondisi alam yang masih alami membuatnya menjadi surga bagi para pencinta alam dan penjelajah. Upaya konservasi telah dilakukan untuk menjaga kelestarian Taman Nasional Teluk Cendrawasih. Langkah-langkah pelestarian ini mencakup pendidikan lingkungan kepada masyarakat setempat dan pengelolaan pariwisata yang berkelanjutan. Taman Nasional Teluk Cendrawasih bukan hanya destinasi untuk mengeksplorasi kekayaan bawah laut, tetapi juga peluang untuk terhubung dengan keindahan alam yang masih murni dan eksotis di ujung timur Indonesia.",
+      "location": {
+        "latitude": "-2.548176",
+        "longitude": "134.478387"
+      },
+      "review":""
     },
     {
       "id": "10",
@@ -78,7 +123,12 @@
       "city": "Jayawijaya",
       "address": "Jl. SD Percobaan Potikelek, Kotak Pos 176, Wamena 99511, Kabupaten Jayawijaya, Provinsi Papua.",
       "picture": "https://asset.kompas.com/crops/5PNPoJaKd-2HcF6gzUkoN8nAeSs=/0x0:1046x697/750x500/data/photo/2019/12/04/5de71e2531cf2.jpg",
-      "description": "Taman Nasional Lorentz, terletak di Papua, Indonesia, adalah salah satu taman nasional terbesar dan paling beragam di dunia. Ditetapkan sebagai Situs Warisan Dunia oleh UNESCO, taman nasional ini mencakup wilayah yang sangat luas, dari pegunungan hingga lahan basah pantai. Keanekaragaman hayati di Taman Nasional Lorentz luar biasa, mencakup ekosistem hutan hujan tropis, pegunungan, dan savana. Salah satu fitur paling mencolok adalah keberadaan Pegunungan Jayawijaya, termasuk Puncak Jaya yang merupakan puncak tertinggi di Oceania. Puncak Jaya dikenal karena gletser Carstensz yang unik di ketinggian tropis. Pemandangan ini menawarkan pengalaman mendaki gunung yang menantang dan menakjubkan. Taman Nasional Lorentz juga melibatkan masyarakat setempat dalam pelestarian lingkungan dan budaya. Berbagai suku adat yang tinggal di sekitar taman nasional ini, seperti suku Asmat dan suku Dani, memberikan keanekaragaman budaya yang berharga dan mendalam. Ekosistem unik di Taman Nasional Lorentz menciptakan habitat bagi berbagai spesies langka, termasuk burung Cendrawasih, kanguru pohon, dan mamalia endemik lainnya. Lahan basah pantai di taman nasional ini juga menjadi tempat bersarang untuk kura-kura hijau dan penyu-penyu lainnya. Penting untuk dicatat bahwa Taman Nasional Lorentz tidak hanya melibatkan pelestarian alam tetapi juga memiliki nilai sejarah dan budaya yang besar. Keberadaan artefak-artefak arkeologis prasejarah dan situs-situs bersejarah memberikan pemahaman mendalam tentang perkembangan manusia di wilayah Papua. Taman Nasional Lorentz, dengan kekayaan alam dan budayanya yang luar biasa, menjadi destinasi bagi peneliti, petualang alam, dan mereka yang menghargai keindahan dan keberagaman alam yang masih alami di dunia ini."
+      "description": "Taman Nasional Lorentz, terletak di Papua, Indonesia, adalah salah satu taman nasional terbesar dan paling beragam di dunia. Ditetapkan sebagai Situs Warisan Dunia oleh UNESCO, taman nasional ini mencakup wilayah yang sangat luas, dari pegunungan hingga lahan basah pantai. Keanekaragaman hayati di Taman Nasional Lorentz luar biasa, mencakup ekosistem hutan hujan tropis, pegunungan, dan savana. Salah satu fitur paling mencolok adalah keberadaan Pegunungan Jayawijaya, termasuk Puncak Jaya yang merupakan puncak tertinggi di Oceania. Puncak Jaya dikenal karena gletser Carstensz yang unik di ketinggian tropis. Pemandangan ini menawarkan pengalaman mendaki gunung yang menantang dan menakjubkan. Taman Nasional Lorentz juga melibatkan masyarakat setempat dalam pelestarian lingkungan dan budaya. Berbagai suku adat yang tinggal di sekitar taman nasional ini, seperti suku Asmat dan suku Dani, memberikan keanekaragaman budaya yang berharga dan mendalam. Ekosistem unik di Taman Nasional Lorentz menciptakan habitat bagi berbagai spesies langka, termasuk burung Cendrawasih, kanguru pohon, dan mamalia endemik lainnya. Lahan basah pantai di taman nasional ini juga menjadi tempat bersarang untuk kura-kura hijau dan penyu-penyu lainnya. Penting untuk dicatat bahwa Taman Nasional Lorentz tidak hanya melibatkan pelestarian alam tetapi juga memiliki nilai sejarah dan budaya yang besar. Keberadaan artefak-artefak arkeologis prasejarah dan situs-situs bersejarah memberikan pemahaman mendalam tentang perkembangan manusia di wilayah Papua. Taman Nasional Lorentz, dengan kekayaan alam dan budayanya yang luar biasa, menjadi destinasi bagi peneliti, petualang alam, dan mereka yang menghargai keindahan dan keberagaman alam yang masih alami di dunia ini.",
+      "location": {
+        "latitude": "-4.629704",
+        "longitude": "137.972677"
+      },
+      "review":""
     },
     {
       "id": "11",
@@ -86,7 +136,12 @@
       "city": "Teluk Wondama",
       "address": "Pulau RumberponDistrik Rumberpon, Kabupaten Teluk Wondama, Papua Bar.",
       "picture": "https://www.goodnewsfromindonesia.id/uploads/images/2020/06/20200605-Pulau-Rumberpon,-Papua.jpg",
-      "description": "Pulau Rumberpon, terletak di Kepulauan Raja Ampat, Papua Barat, Indonesia, adalah surga tersembunyi yang menawarkan keindahan alam yang spektakuler di bawah laut dan di permukaan. Pulau ini menjadi bagian integral dari kekayaan biodiversitas Kepulauan Raja Ampat yang luar biasa. Keanekaragaman hayati lautnya meliputi terumbu karang yang masih utuh, ikan-ikan tropis berwarna-warni, dan makhluk laut langka seperti hiu paus dan penyu. Bagi para penyelam, Pulau Rumberpon menjadi destinasi impian dengan terumbu karangnya yang menakjubkan. Berbagai situs penyelaman di sekitar pulau ini memberikan pengalaman yang luar biasa, mulai dari dinding-dinding terumbu yang curam hingga gua-gua bawah laut yang menyajikan pemandangan ajaib. Kondisi bawah laut yang masih alami dan berlimpah biota laut yang eksotis menjadikan pulau ini surganya para penyelam. Di atas permukaan, Pulau Rumberpon menawarkan pantai-pantai berpasir putih yang indah, dikelilingi oleh hutan tropis yang hijau. Kehijauan pepohonan kontras dengan warna air laut yang jernih, menciptakan panorama yang memukau. Pulau ini juga menjadi tempat bersarang untuk berbagai spesies burung laut, menambah keberagaman ekosistemnya."
+      "description": "Pulau Rumberpon, terletak di Kepulauan Raja Ampat, Papua Barat, Indonesia, adalah surga tersembunyi yang menawarkan keindahan alam yang spektakuler di bawah laut dan di permukaan. Pulau ini menjadi bagian integral dari kekayaan biodiversitas Kepulauan Raja Ampat yang luar biasa. Keanekaragaman hayati lautnya meliputi terumbu karang yang masih utuh, ikan-ikan tropis berwarna-warni, dan makhluk laut langka seperti hiu paus dan penyu. Bagi para penyelam, Pulau Rumberpon menjadi destinasi impian dengan terumbu karangnya yang menakjubkan. Berbagai situs penyelaman di sekitar pulau ini memberikan pengalaman yang luar biasa, mulai dari dinding-dinding terumbu yang curam hingga gua-gua bawah laut yang menyajikan pemandangan ajaib. Kondisi bawah laut yang masih alami dan berlimpah biota laut yang eksotis menjadikan pulau ini surganya para penyelam. Di atas permukaan, Pulau Rumberpon menawarkan pantai-pantai berpasir putih yang indah, dikelilingi oleh hutan tropis yang hijau. Kehijauan pepohonan kontras dengan warna air laut yang jernih, menciptakan panorama yang memukau. Pulau ini juga menjadi tempat bersarang untuk berbagai spesies burung laut, menambah keberagaman ekosistemnya.",
+      "location": {
+        "latitude": "-1.847416",
+        "longitude": "134.198295"
+      },
+      "review":""
     },
     {
       "id": "12",
@@ -94,7 +149,12 @@
       "city": "Paniai",
       "address": "Danau PaniaiMogeya, Distrik Paniai Barat, Kabupaten Paniai, Papua.",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Danau_Paniai._Danau_Paniai_adalah_danau_yang_berada_di_kabupaten_Paniai._Danau_ini_memiliki_banyak_keanekaragaman_hayati_yang_sangat_banyak._Salah_satu_spesies_endemiknya_adalah_udang_selingkuh.jpg/800px-thumbnail.jpg",
-      "description": "Danau Paniai, terletak di Pegunungan Paniai, Papua, Indonesia, adalah salah satu danau alami yang memukau dengan pesona keindahan alamnya yang menakjubkan. Terbentuk oleh proses geologis alami, danau ini dikelilingi oleh hutan-hutan lebat dan pegunungan yang menjadikannya sebagai lanskap yang indah dan damai. Air danau yang tenang menciptakan pantulan yang jelas dari langit biru dan pepohonan di sekitarnya, menciptakan pemandangan yang menenangkan. Danau Paniai juga memiliki nilai ekologis yang penting karena menjadi habitat bagi berbagai jenis burung air, ikan, dan flora endemik Papua. Keanekaragaman hayati yang melimpah di sekitar danau ini menarik perhatian para pengamat burung dan peneliti alam. Meskipun mempesona secara alami, keberlanjutan Danau Paniai menjadi perhatian karena tantangan pelestarian lingkungan di Papua. Upaya pelestarian dan pengelolaan yang berkelanjutan diperlukan untuk memastikan bahwa keindahan alam dan ekosistem unik Danau Paniai dapat dinikmati oleh generasi mendatang."
+      "description": "Danau Paniai, terletak di Pegunungan Paniai, Papua, Indonesia, adalah salah satu danau alami yang memukau dengan pesona keindahan alamnya yang menakjubkan. Terbentuk oleh proses geologis alami, danau ini dikelilingi oleh hutan-hutan lebat dan pegunungan yang menjadikannya sebagai lanskap yang indah dan damai. Air danau yang tenang menciptakan pantulan yang jelas dari langit biru dan pepohonan di sekitarnya, menciptakan pemandangan yang menenangkan. Danau Paniai juga memiliki nilai ekologis yang penting karena menjadi habitat bagi berbagai jenis burung air, ikan, dan flora endemik Papua. Keanekaragaman hayati yang melimpah di sekitar danau ini menarik perhatian para pengamat burung dan peneliti alam. Meskipun mempesona secara alami, keberlanjutan Danau Paniai menjadi perhatian karena tantangan pelestarian lingkungan di Papua. Upaya pelestarian dan pengelolaan yang berkelanjutan diperlukan untuk memastikan bahwa keindahan alam dan ekosistem unik Danau Paniai dapat dinikmati oleh generasi mendatang.",
+      "location": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "review":""
     },
     {
       "id": "13",
@@ -102,7 +162,12 @@
       "city": "Jayawijaya",
       "address": "Pegunungan Jayawijaya, Papua, Indonesia",
       "picture": "https://img.inews.co.id/media/822/files/inews_new/2022/12/08/lembah_baliem_wamena.jpg",
-      "description": "Lembah Baliem, terletak di pegunungan tinggi Papua, Indonesia, adalah sebuah oase alam yang menawan dengan keindahan alamnya yang dramatis dan kaya budaya suku Dani yang mendiami wilayah ini. Dikelilingi oleh pegunungan menjulang tinggi, lembah ini menyajikan panorama luar biasa yang mencakup persawahan hijau subur, sungai-sungai yang berbelok-belok, dan hutan-hutan yang lebat. Selain keindahan alamnya yang menakjubkan, Lembah Baliem juga dikenal sebagai tempat tinggal suku Dani, sebuah masyarakat yang masih mempertahankan tradisi dan gaya hidupnya yang khas. Perjalanan ke Lembah Baliem memberikan pengalaman budaya yang mendalam, di mana wisatawan dapat berinteraksi dengan penduduk setempat, menyaksikan upacara adat, dan melihat kerajinan tangan tradisional. Festival Lembah Baliem, yang diadakan setiap tahun, memperkaya pengalaman wisatawan dengan pertunjukan tari, musik, dan olahraga tradisional. Lembah Baliem, dengan keindahan alam dan warisan budayanya yang unik, menjelma menjadi destinasi yang memikat hati bagi mereka yang mencari pengalaman perjalanan yang autentik dan penuh makna di wilayah timur Indonesia."
+      "description": "Lembah Baliem, terletak di pegunungan tinggi Papua, Indonesia, adalah sebuah oase alam yang menawan dengan keindahan alamnya yang dramatis dan kaya budaya suku Dani yang mendiami wilayah ini. Dikelilingi oleh pegunungan menjulang tinggi, lembah ini menyajikan panorama luar biasa yang mencakup persawahan hijau subur, sungai-sungai yang berbelok-belok, dan hutan-hutan yang lebat. Selain keindahan alamnya yang menakjubkan, Lembah Baliem juga dikenal sebagai tempat tinggal suku Dani, sebuah masyarakat yang masih mempertahankan tradisi dan gaya hidupnya yang khas. Perjalanan ke Lembah Baliem memberikan pengalaman budaya yang mendalam, di mana wisatawan dapat berinteraksi dengan penduduk setempat, menyaksikan upacara adat, dan melihat kerajinan tangan tradisional. Festival Lembah Baliem, yang diadakan setiap tahun, memperkaya pengalaman wisatawan dengan pertunjukan tari, musik, dan olahraga tradisional. Lembah Baliem, dengan keindahan alam dan warisan budayanya yang unik, menjelma menjadi destinasi yang memikat hati bagi mereka yang mencari pengalaman perjalanan yang autentik dan penuh makna di wilayah timur Indonesia.",
+      "location": {
+        "latitude": "-3.198992",
+        "longitude": "139.097510"
+      },
+      "review":""
     },
     {
       "id": "14",
@@ -110,7 +175,12 @@
       "city": "Raja Ampat",
       "address": "Sauandarek, Meos Mansar, Kabupaten Raja Ampat, Papua Barat.",
       "picture": "https://www.pesonaindo.com/wp-content/uploads/2016/04/4.-Desa-Wisata-Sauwandarek.jpg",
-      "description": "Desa Wisata Sauwandarek, terletak di Kepulauan Raja Ampat, Papua Barat, Indonesia, adalah destinasi yang menggabungkan keindahan alam, kearifan lokal, dan keberlanjutan lingkungan. Terkenal akan pemandangan lautnya yang spektakuler, dengan air kristal yang meliputi pulau-pulau kecil dan terumbu karang yang indah, Desa Wisata Sauwandarek menawarkan pengalaman luar biasa bagi para wisatawan yang ingin terhubung dengan alam dan budaya setempat. Penduduk desa, yang ramah dan hangat, menyambut pengunjung dengan senyum tulus dan keramahan khas Papua. Wisatawan dapat mencicipi kuliner lokal, menyaksikan pertunjukan tari tradisional, dan berpartisipasi dalam kegiatan sehari-hari desa, merasakan kehidupan masyarakat pesisir yang berkelanjutan. Selain itu, program pelestarian lingkungan di Desa Wisata Sauwandarek, seperti pengelolaan sampah dan prakarsa pelestarian terumbu karang, mencerminkan komitmen terhadap keberlanjutan dan keselarasan antara pariwisata dan pelestarian lingkungan. Dengan pemandangan laut yang menakjubkan dan keterlibatan budaya yang mendalam, Desa Wisata Sauwandarek menjadi destinasi unggulan bagi mereka yang mencari pengalaman berwisata yang bermakna di Kepulauan Raja Ampat."
+      "description": "Desa Wisata Sauwandarek, terletak di Kepulauan Raja Ampat, Papua Barat, Indonesia, adalah destinasi yang menggabungkan keindahan alam, kearifan lokal, dan keberlanjutan lingkungan. Terkenal akan pemandangan lautnya yang spektakuler, dengan air kristal yang meliputi pulau-pulau kecil dan terumbu karang yang indah, Desa Wisata Sauwandarek menawarkan pengalaman luar biasa bagi para wisatawan yang ingin terhubung dengan alam dan budaya setempat. Penduduk desa, yang ramah dan hangat, menyambut pengunjung dengan senyum tulus dan keramahan khas Papua. Wisatawan dapat mencicipi kuliner lokal, menyaksikan pertunjukan tari tradisional, dan berpartisipasi dalam kegiatan sehari-hari desa, merasakan kehidupan masyarakat pesisir yang berkelanjutan. Selain itu, program pelestarian lingkungan di Desa Wisata Sauwandarek, seperti pengelolaan sampah dan prakarsa pelestarian terumbu karang, mencerminkan komitmen terhadap keberlanjutan dan keselarasan antara pariwisata dan pelestarian lingkungan. Dengan pemandangan laut yang menakjubkan dan keterlibatan budaya yang mendalam, Desa Wisata Sauwandarek menjadi destinasi unggulan bagi mereka yang mencari pengalaman berwisata yang bermakna di Kepulauan Raja Ampat.",
+      "location": {
+        "latitude": "-0.590300",
+        "longitude": "130.602336"
+      },
+      "review":""
     },
     {
       "id": "15",
@@ -118,7 +188,12 @@
       "city": "Sumba Barat Daya",
       "address": "Jl. Rumah Budaya No.212, Kalembu Nga, bangga Weetebula, Kabupaten Sumba Barat Daya, Nusa Tenggara Timur.",
       "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/rumah-budaya-sumba.jpg",
-      "description": "Rumah Budaya Sumba menjadi salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan. Lokasi tempat wisata yang satu ini berada di Jalan Rumah Budaya Nomor 212, Kabupaten Sumba Barat Daya, Nusa Tenggara Timur. Tempat yang satu ini merupakan sebuah museum yang dikhususkan untuk memperkenalkan budaya Sumba. Ada banyak fungsi dari Rumah Budaya Sumba diantaranya untuk penelitian, memperkenalkan budaya Sumba, tempat wisata, dan juga digunakan untuk pertemuan. Di lokasi rumah budaya Sumba, pengunjung bisa melihat berbagai koleksi benda bersejarah yang dikumpulkan oleh Pater Robert Ramone. Selain menikmati berbagai budaya serta koleksi sejarah, Anda juga bisa menikmati bentuk bangunan yang unik dan instagramable."
+      "description": "Rumah Budaya Sumba menjadi salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan. Lokasi tempat wisata yang satu ini berada di Jalan Rumah Budaya Nomor 212, Kabupaten Sumba Barat Daya, Nusa Tenggara Timur. Tempat yang satu ini merupakan sebuah museum yang dikhususkan untuk memperkenalkan budaya Sumba. Ada banyak fungsi dari Rumah Budaya Sumba diantaranya untuk penelitian, memperkenalkan budaya Sumba, tempat wisata, dan juga digunakan untuk pertemuan. Di lokasi rumah budaya Sumba, pengunjung bisa melihat berbagai koleksi benda bersejarah yang dikumpulkan oleh Pater Robert Ramone. Selain menikmati berbagai budaya serta koleksi sejarah, Anda juga bisa menikmati bentuk bangunan yang unik dan instagramable.",
+      "location": {
+        "latitude": "-9.433469",
+        "longitude": "119.214737"
+      },
+      "review":""
     },
     {
       "id": "16",
@@ -126,7 +201,12 @@
       "city": "Lombok Barat",
       "address": "Jalan Raya Narmada, Lembuak, Kab. Lombok Barat, Nusa Tenggara Barat.",
       "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/desa-sade.jpg",
-      "description": "Selain menikmati pemandangan alam yang indah, ada cukup banyak wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan salah satunya adalah Museum Daerah Nusa Tenggara Timur. Musim yang satu ini terletak di Jalan Raya Eltari II, Kota Kupang, Nusa Tenggara Timur. Saat berada di sana, Anda akan dimanjakan dengan berbagai koleksi museum yang sangat menarik. Ada kurang lebih 6199 koleksi yang ada di museum ini. Bentuk koleksi yang ditampilkan pun sangat beragam mulai dari benda benda arkeologi, biologi, geografi, dan lain-lain. Saat berlibur ke kawasan Nusa Tenggara, Museum Daerah yang satu ini bisa menjadi tempat wisata yang sangat menarik untuk didatangi."
+      "description": "Selain menikmati pemandangan alam yang indah, ada cukup banyak wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan salah satunya adalah Museum Daerah Nusa Tenggara Timur. Musim yang satu ini terletak di Jalan Raya Eltari II, Kota Kupang, Nusa Tenggara Timur. Saat berada di sana, Anda akan dimanjakan dengan berbagai koleksi museum yang sangat menarik. Ada kurang lebih 6199 koleksi yang ada di museum ini. Bentuk koleksi yang ditampilkan pun sangat beragam mulai dari benda benda arkeologi, biologi, geografi, dan lain-lain. Saat berlibur ke kawasan Nusa Tenggara, Museum Daerah yang satu ini bisa menjadi tempat wisata yang sangat menarik untuk didatangi.",
+      "location": {
+        "latitude": "-10.158794",
+        "longitude": "123.619434"
+      },
+      "review":""
     },
     {
       "id": "17",
@@ -134,7 +214,12 @@
       "city": "Lombok Barat",
       "address": "Jl. Raya Mataram - Labuhan Lombok, Lembuak, Kec. Narmada, Kabupaten Lombok Barat, Nusa Tenggara Barat.",
       "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/Taman-Narmada.jpg",
-      "description": "Ketika Anda berkesempatan untuk datang ke Lombok, Nusa Tenggara Barat, Anda wajib mengunjungi berbagai tempat wisata indah, mulai dari wisata alam hingga wisata budaya. Salah satu wisata budaya di Nusa Tenggara yang menjadi favorit semua kalangan adalah Taman Narmada. Taman yang satu ini berbeda dengan taman pada umumnya, karena taman ini menyimpan peninggalan sejarah raja Mataram Lombok pada abad ke-18. Wisata budaya yang satu ini sangat sayang untuk Anda lewatkan. Di Taman Narmada, Anda dapat melihat beragam bangunan bersejarah dengan keindahan yang luar biasa. Mulai dari kediaman raja di masa lalu hingga tempat ibadah. Pada zaman dahulu, Balai Toji, Terang, dan Pamerajan merupakan bagian dari kediaman raja, sedangakn bagian dari tempat ibadah meliputi Pura Lingsar dan Pura Kalasa. Untuk mendapatkan pemandangan yang lebih memukau, Anda bisa menikmatinya dari puncak Pura Kalasa."
+      "description": "Ketika Anda berkesempatan untuk datang ke Lombok, Nusa Tenggara Barat, Anda wajib mengunjungi berbagai tempat wisata indah, mulai dari wisata alam hingga wisata budaya. Salah satu wisata budaya di Nusa Tenggara yang menjadi favorit semua kalangan adalah Taman Narmada. Taman yang satu ini berbeda dengan taman pada umumnya, karena taman ini menyimpan peninggalan sejarah raja Mataram Lombok pada abad ke-18. Wisata budaya yang satu ini sangat sayang untuk Anda lewatkan. Di Taman Narmada, Anda dapat melihat beragam bangunan bersejarah dengan keindahan yang luar biasa. Mulai dari kediaman raja di masa lalu hingga tempat ibadah. Pada zaman dahulu, Balai Toji, Terang, dan Pamerajan merupakan bagian dari kediaman raja, sedangakn bagian dari tempat ibadah meliputi Pura Lingsar dan Pura Kalasa. Untuk mendapatkan pemandangan yang lebih memukau, Anda bisa menikmatinya dari puncak Pura Kalasa.",
+      "location": {
+        "latitude": "-8.595228",
+        "longitude": "116.204576"
+      },
+      "review":""
     },
     {
       "id": "18",
@@ -142,7 +227,12 @@
       "city": "Ende",
       "address": "Jl. Trans Ende, Watunggere, Kec. Detukeli, Kabupaten Ende, Nusa Tenggara Timur.",
       "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/benteng-marilonga.jpg",
-      "description": "Salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan adalah Benteng Marilonga. Benteng yang satu ini beralamat di Desa Watunggere, Kecamatan Detukeli, Kabupaten Ende, Nusa Tenggara Timur. Benteng yang satu ini memiliki ciri khas bagian luarnya yang merupakan bentuk lingkaran dengan susunan kayu kayu. Sedangkan di bagian dalam lingkaran terdapat tumpukan batu yang merupakan tempat dimana para pejuang dimakamkan setelah gugur dari peperangan. Hingga saat ini, Benteng Marilonga diakui sebagai salah satu wisata budaya dan bersejarah di Nusa Tenggara."
+      "description": "Salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan adalah Benteng Marilonga. Benteng yang satu ini beralamat di Desa Watunggere, Kecamatan Detukeli, Kabupaten Ende, Nusa Tenggara Timur. Benteng yang satu ini memiliki ciri khas bagian luarnya yang merupakan bentuk lingkaran dengan susunan kayu kayu. Sedangkan di bagian dalam lingkaran terdapat tumpukan batu yang merupakan tempat dimana para pejuang dimakamkan setelah gugur dari peperangan. Hingga saat ini, Benteng Marilonga diakui sebagai salah satu wisata budaya dan bersejarah di Nusa Tenggara.",
+      "location": {
+        "latitude": "-8.592965",
+        "longitude": "121.838684"
+      },
+      "review":""
     },
     {
       "id": "19",
@@ -150,7 +240,12 @@
       "city": "Ende",
       "address": "Kecamatan Detusoko, Kabupaten Ende, Propinsi Nusa Tenggara Timur.",
       "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/kampung-adat-wologai.jpg",
-      "description": "Tidak kalah indah dengan desa adat lainnya, Desa Adat Wologai juga menjadi salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan. Lokasi dari desa adat yang satu ini berada di Kabupaten Ende, Nusa Tenggara Timur. Desa Adat Wologai memiliki cerita yang unik dan sedikit seram yakni dulunya di desa yang satu ini kulit manusia digunakan sebagai gendang. Untuk masuk ke desa adat ini, pengunjung wajib mengisi buku tamu dan membayar biaya masuk sebesar Rp 10.000, -. Banyak peraturan yang harus dipatuhi saat berada di desa yang satu ini. Karena jika tidak mematuhi atau melanggar peraturan, akan berakibat fatal dan membahayakan bagi pengunjung."
+      "description": "Tidak kalah indah dengan desa adat lainnya, Desa Adat Wologai juga menjadi salah satu wisata budaya di Nusa Tenggara yang sayang untuk dilewatkan. Lokasi dari desa adat yang satu ini berada di Kabupaten Ende, Nusa Tenggara Timur. Desa Adat Wologai memiliki cerita yang unik dan sedikit seram yakni dulunya di desa yang satu ini kulit manusia digunakan sebagai gendang. Untuk masuk ke desa adat ini, pengunjung wajib mengisi buku tamu dan membayar biaya masuk sebesar Rp 10.000, -. Banyak peraturan yang harus dipatuhi saat berada di desa yang satu ini. Karena jika tidak mematuhi atau melanggar peraturan, akan berakibat fatal dan membahayakan bagi pengunjung.",
+      "location": {
+        "latitude": "-8.694404",
+        "longitude": "121.808523"
+      },
+      "review":""
     },
     {
       "id": "20",
@@ -158,7 +253,12 @@
       "city": "Kupang",
       "address": "JL Eltari 2, Oesapa Selatan, Kelapa Lima, Oesapa Sel, Kec. Klp. Lima, Kota Kupang, Nusa Tenggara Timur.",
       "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/museum-negeri-nusa-tenggara-timur.jpg",
-      "description": "Berkunjung ke tempat wisata merupakan kegiatan yang diinginkan oleh banyak orang ketika hari libur tiba. Kupang, Nusa Tenggara Timur dapat menjadi salah satu pilihan tujuan yang tepat untuk Anda. Di sana, Anda akan melihat berbagai tempat wisata. Salah satu tempat wisata yang menjadi favorit banyak orang adalah Museum Negeri Kupang NTT. Museum yang satu ini merupakan salah satu wisata budaya di Nusa Tenggara yang sangat sayang untuk dilewatkan begitu saja. Di Museum Negeri Kupang NTT, Anda dapat melihat Bendera Merah Putih dengan ukuran yang luar biasa yakni 1000 meter diletakkan di dalam kaca yang sangat besar. Anda juga dapat melihat peta suku yang ada di NTT. Selain itu, Anda juga akan dikenalkan dengan 10 jenis koleksi, mulai dari Koleksi Arkeologika hingga Koleksi Etnografika. Tidak perlu khawatir, Anda akan mendapatkan banyak sekali ilmu dan pengetahuan tentang NTT."
+      "description": "Berkunjung ke tempat wisata merupakan kegiatan yang diinginkan oleh banyak orang ketika hari libur tiba. Kupang, Nusa Tenggara Timur dapat menjadi salah satu pilihan tujuan yang tepat untuk Anda. Di sana, Anda akan melihat berbagai tempat wisata. Salah satu tempat wisata yang menjadi favorit banyak orang adalah Museum Negeri Kupang NTT. Museum yang satu ini merupakan salah satu wisata budaya di Nusa Tenggara yang sangat sayang untuk dilewatkan begitu saja. Di Museum Negeri Kupang NTT, Anda dapat melihat Bendera Merah Putih dengan ukuran yang luar biasa yakni 1000 meter diletakkan di dalam kaca yang sangat besar. Anda juga dapat melihat peta suku yang ada di NTT. Selain itu, Anda juga akan dikenalkan dengan 10 jenis koleksi, mulai dari Koleksi Arkeologika hingga Koleksi Etnografika. Tidak perlu khawatir, Anda akan mendapatkan banyak sekali ilmu dan pengetahuan tentang NTT.",
+      "location": {
+        "latitude": "-10.158681",
+        "longitude": "123.619446"
+      },
+      "review":""
     },
     {
       "id": "21",
@@ -166,7 +266,12 @@
       "city": "Mataram",
       "address": "Jl. Selaparang, Cakranegara Tim., Kec. Cakranegara, Kota Mataram, Nusa Tenggara Barat.",
       "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/pura-mayura.jpg",
-      "description": "Pura Mayura menjadi salah satu wisata budaya di Nusa Tenggara yang bisa Anda datangi. Pura sekaligus taman yang satu ini memiliki lokasi yang cukup luas dan sering dikunjungi oleh wisatawan. Mayura yang merupakan nama dari tempat wisata budaya ini ambil dari bahasa Sansekerta yang berarti burung merak. Dulunya, di sekitar kawasan ini banyak terdapat ular liar sehingga penasehat menyarankan untuk ada banyak burung merak di kawasan ini. Hal itu manjur dan membuat banyak ular di kawasan Pura Mayura sudah tidak ada lagi. Selain merasakan suasana sejarah atau budaya, Anda juga akan dimanjakan dengan suasana alam yang luar biasa. Adanya kolam yang luas serta banyaknya lahan hijau membuat suasana di area ini sangat sejuk."
+      "description": "Pura Mayura menjadi salah satu wisata budaya di Nusa Tenggara yang bisa Anda datangi. Pura sekaligus taman yang satu ini memiliki lokasi yang cukup luas dan sering dikunjungi oleh wisatawan. Mayura yang merupakan nama dari tempat wisata budaya ini ambil dari bahasa Sansekerta yang berarti burung merak. Dulunya, di sekitar kawasan ini banyak terdapat ular liar sehingga penasehat menyarankan untuk ada banyak burung merak di kawasan ini. Hal itu manjur dan membuat banyak ular di kawasan Pura Mayura sudah tidak ada lagi. Selain merasakan suasana sejarah atau budaya, Anda juga akan dimanjakan dengan suasana alam yang luar biasa. Adanya kolam yang luas serta banyaknya lahan hijau membuat suasana di area ini sangat sejuk.",
+      "location": {
+        "latitude": "-8.586153",
+        "longitude": "116.133943"
+      },
+      "review":""
     },
     {
       "id": "22",
@@ -174,7 +279,12 @@
       "city": "Mataram",
       "address": "Jl. Selaparang, Cakranegara Tim., Kec. Cakranegara, Kota Mataram, Nusa Tenggara Barat.",
       "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/pura-meru-cakranegara.jpg",
-      "description": "Cara Meru Cakranegara menjadi salah satu wisata budaya di Nusa Tenggara yang memiliki bangunan indah dan unik. Salah satu pura terbesar di Pulau Lombok ini memiliki ciri khas atap berundak. Anda akan dengan mudah mengenali ciri khas pura yang satu ini yakni terdiri dari 3 pura yang memiliki atap yang menjulang sangat tinggi. Karena arsitekturnya yang indah, Pura Meru Cakranegara tidak jarang dikunjungi oleh wisatawan baik lokal maupun mancanegara. Atap yang berwarna hitam dan terbuat dari ijuk menjadi sangat unik saat dilihat. Menurut beberapa sumber, pura yang satu ini telah berdiri sejak abad ke-13."
+      "description": "Cara Meru Cakranegara menjadi salah satu wisata budaya di Nusa Tenggara yang memiliki bangunan indah dan unik. Salah satu pura terbesar di Pulau Lombok ini memiliki ciri khas atap berundak. Anda akan dengan mudah mengenali ciri khas pura yang satu ini yakni terdiri dari 3 pura yang memiliki atap yang menjulang sangat tinggi. Karena arsitekturnya yang indah, Pura Meru Cakranegara tidak jarang dikunjungi oleh wisatawan baik lokal maupun mancanegara. Atap yang berwarna hitam dan terbuat dari ijuk menjadi sangat unik saat dilihat. Menurut beberapa sumber, pura yang satu ini telah berdiri sejak abad ke-13.",
+      "location": {
+        "latitude": "-8.587609",
+        "longitude": "116.131398"
+      },
+      "review":""
     },
     {
       "id": "23",
@@ -182,15 +292,25 @@
       "city": "Ende",
       "address": "Jl. Perwira, Kel. Kotaraja, Kec. Ende Utara, Kabupaten Ende, Nusa Tenggara Timur.",
       "picture": "https://www.gotravelly.com/blog/wp-content/uploads/2020/07/rumah-pengasingan-bung-karno-ende-1.jpg",
-      "description": "Ketika Anda berkesempatan untuk mengunjungu Ende, Nusa Tenggara Timur, Anda wajib mengunjungi Rumah Pengasingan Bung Karno. Rumah pengasingan tersebut menjadi salah satu wisata budaya di Nusa Tenggara yang menyimpan banyak sejarah dalam pergerakan kemerdekaan Indonesia. Pada zaman dahulu, tempat tersebut menjadi tempat dimana Ir Soekarno bersama mertua dan anak angkatnya menghabiskan waktu pengasingan selama 4 tahun 9 bulan. Ketika memasuki halaman Rumah, Anda akan melihat patung Presiden pertama Indonesia yang berdiri kokoh. Selanjutnya, Anda akan melihat berbagai perabot serta ruangan-ruangan yang masih terawat dengan baik. Berbagai benda peninggalan Bung Karno seperti lukisan hingga akta nikah juga masih tersimpan rapi. Di bagian tengah terdapat kamar tidur Bung Karno dan di sisi lainnya terdapat kamar mertua dan anak angkatnya. Di bagian belakang, mulai dari sumur hingga dapur masih terkesan seperti jaman dulu. Bagi Anda yang memiliki hobi membaca, Rumah Pengasingan Bung Karno ini juga menyediakan buku sejarah tentang Ende, Ir. Soekarno serta sejarah tentang kemerdekaan Indonesia."
+      "description": "Ketika Anda berkesempatan untuk mengunjungu Ende, Nusa Tenggara Timur, Anda wajib mengunjungi Rumah Pengasingan Bung Karno. Rumah pengasingan tersebut menjadi salah satu wisata budaya di Nusa Tenggara yang menyimpan banyak sejarah dalam pergerakan kemerdekaan Indonesia. Pada zaman dahulu, tempat tersebut menjadi tempat dimana Ir Soekarno bersama mertua dan anak angkatnya menghabiskan waktu pengasingan selama 4 tahun 9 bulan. Ketika memasuki halaman Rumah, Anda akan melihat patung Presiden pertama Indonesia yang berdiri kokoh. Selanjutnya, Anda akan melihat berbagai perabot serta ruangan-ruangan yang masih terawat dengan baik. Berbagai benda peninggalan Bung Karno seperti lukisan hingga akta nikah juga masih tersimpan rapi. Di bagian tengah terdapat kamar tidur Bung Karno dan di sisi lainnya terdapat kamar mertua dan anak angkatnya. Di bagian belakang, mulai dari sumur hingga dapur masih terkesan seperti jaman dulu. Bagi Anda yang memiliki hobi membaca, Rumah Pengasingan Bung Karno ini juga menyediakan buku sejarah tentang Ende, Ir. Soekarno serta sejarah tentang kemerdekaan Indonesia.",
+      "location": {
+        "latitude": "-8.840666",
+        "longitude": "121.644613"
+      },
+      "review":""
     },
     {
       "id": "24",
       "name": "Tana Toraja",
       "city": "Makassar",
-      "address": "Jl. Sulawesi Selatan, No. 123, Rantepao, Tana Toraja, Sulawesi Selatan",
+      "address": "Basokan, Nanggala, Tana Toraja, Sulawesi Selatan",
       "picture": "https://assets-a1.kompasiana.com/items/album/2022/07/28/tana-toraja-62e1f2d43555e42efe096776.jpg",
-      "description": "Tana Toraja, yang terletak di pegunungan Sulawesi Selatan, Indonesia, adalah destinasi budaya yang kaya dengan tradisi dan keunikan yang menciptakan pengalaman wisata yang mendalam. Terkenal karena upacara pemakaman adat yang megah dan rumah adat yang khas, Tana Toraja mempertahankan kearifan lokalnya yang telah diwariskan secara turun temurun. Desa-desa tradisional dengan rumah-rumah tongkonan, bangunan adat setempat, memberikan pandangan unik tentang arsitektur tradisional Toraja. Selain itu, lanskap pegunungan yang menakjubkan dan sawah-sawah terasering menambah pesona alam yang memukau. Selama festival budaya, seperti Rambu Solo, pengunjung dapat menyaksikan tarian dan upacara tradisional yang merayakan kehidupan dan kematian. Tana Toraja menjadi destinasi yang sangat menarik bagi mereka yang ingin menggali kekayaan budaya dan alam yang masih terjaga di tengah Sulawesi."
+      "description": "Tana Toraja, yang terletak di pegunungan Sulawesi Selatan, Indonesia, adalah destinasi budaya yang kaya dengan tradisi dan keunikan yang menciptakan pengalaman wisata yang mendalam. Terkenal karena upacara pemakaman adat yang megah dan rumah adat yang khas, Tana Toraja mempertahankan kearifan lokalnya yang telah diwariskan secara turun temurun. Desa-desa tradisional dengan rumah-rumah tongkonan, bangunan adat setempat, memberikan pandangan unik tentang arsitektur tradisional Toraja. Selain itu, lanskap pegunungan yang menakjubkan dan sawah-sawah terasering menambah pesona alam yang memukau. Selama festival budaya, seperti Rambu Solo, pengunjung dapat menyaksikan tarian dan upacara tradisional yang merayakan kehidupan dan kematian. Tana Toraja menjadi destinasi yang sangat menarik bagi mereka yang ingin menggali kekayaan budaya dan alam yang masih terjaga di tengah Sulawesi.",
+      "location": {
+        "latitude": "-2.978010",
+        "longitude": "119.997036"
+      },
+      "review":""
     },
     {
       "id": "25",
@@ -198,7 +318,12 @@
       "city": "Manado",
       "address": "Jl. Sulawesi Utara, No. 456, Bunaken, Sulawesi Utara",
       "picture": "https://ik.imagekit.io/tvlk/blog/2020/01/keindahan-alam-indonesia-5-Super-Adventure.jpg",
-      "description": "Taman Laut Bunaken, terletak di Sulawesi Utara, Indonesia, adalah perwakilan gemilang dari keanekaragaman bawah laut yang mengagumkan. Dikenal sebagai salah satu taman laut terbaik di dunia, Bunaken menawarkan pengalaman menyelam yang luar biasa dengan terumbu karang spektakuler, dinding-dinding terumbu yang curam, dan kehidupan laut yang sangat beragam. Para penyelam dapat menyaksikan aneka ragam ikan karang, seperti clownfish, surgeonfish, dan barracuda, sambil merasakan kehangatan air laut yang jernih. Puncak keindahan Taman Laut Bunaken adalah dinding-dinding terumbu yang turun vertikal, menciptakan pemandangan yang memukau dan menakjubkan. Selain kehidupan laut yang melimpah, Bunaken juga menjadi rumah bagi penyu-penyu yang bersarang di pantai-pantai pasir putihnya. Upaya pelestarian dan pengelolaan yang berkelanjutan telah diterapkan untuk menjaga keberlanjutan Taman Laut Bunaken, menjadikannya destinasi yang tak hanya memikat para penyelam berpengalaman tetapi juga memberikan pengalaman yang tak terlupakan bagi pencinta alam yang mencari keindahan bawah laut yang belum terjamah di Indonesia."
+      "description": "Taman Laut Bunaken, terletak di Sulawesi Utara, Indonesia, adalah perwakilan gemilang dari keanekaragaman bawah laut yang mengagumkan. Dikenal sebagai salah satu taman laut terbaik di dunia, Bunaken menawarkan pengalaman menyelam yang luar biasa dengan terumbu karang spektakuler, dinding-dinding terumbu yang curam, dan kehidupan laut yang sangat beragam. Para penyelam dapat menyaksikan aneka ragam ikan karang, seperti clownfish, surgeonfish, dan barracuda, sambil merasakan kehangatan air laut yang jernih. Puncak keindahan Taman Laut Bunaken adalah dinding-dinding terumbu yang turun vertikal, menciptakan pemandangan yang memukau dan menakjubkan. Selain kehidupan laut yang melimpah, Bunaken juga menjadi rumah bagi penyu-penyu yang bersarang di pantai-pantai pasir putihnya. Upaya pelestarian dan pengelolaan yang berkelanjutan telah diterapkan untuk menjaga keberlanjutan Taman Laut Bunaken, menjadikannya destinasi yang tak hanya memikat para penyelam berpengalaman tetapi juga memberikan pengalaman yang tak terlupakan bagi pencinta alam yang mencari keindahan bawah laut yang belum terjamah di Indonesia.",
+      "location": {
+        "latitude": "1.677473",
+        "longitude": "124.755555"
+      },
+      "review":""
     },
     {
       "id": "26",
@@ -206,7 +331,12 @@
       "city": "Palu",
       "address": "Jl. Sulawesi Tengah, No. 789, Desa Napu, Taman Nasional Lore Lindu, Sulawesi Tengah",
       "picture": "https://superlive.id/storage/superadventure/2019/04/01/fc81fa4cd1e6.jpg",
-      "description": "Taman Nasional Lore Lindu, terletak di Sulawesi Tengah, Indonesia, adalah harta karun keanekaragaman hayati dan keindahan alam yang mencakup area seluas lebih dari 2.000 kilometer persegi. Ditetapkan sebagai Situs Warisan Dunia oleh UNESCO, taman nasional ini menawarkan lanskap yang mengagumkan, mulai dari hutan hujan tropis yang lebat hingga danau-danau indah dan pegunungan yang menakjubkan. Salah satu daya tarik utamanya adalah populasi tarsius, primata malam hari yang langka dan endemik di Sulawesi, serta berbagai spesies flora dan fauna langka lainnya. Taman Nasional Lore Lindu juga dikenal karena situs-situs megalitiknya, seperti Bada Valley, yang menampilkan batu-batu besar dan pahatan kuno, menciptakan keseimbangan antara keanekaragaman alam dan warisan budaya yang luar biasa. Upaya konservasi dan ekowisata yang berkelanjutan di Taman Nasional Lore Lindu bertujuan untuk melindungi kekayaan alam dan budaya yang unik, sambil memberikan pengalaman mendalam kepada para pengunjung yang ingin mengeksplorasi keindahan Sulawesi Tengah."
+      "description": "Taman Nasional Lore Lindu, terletak di Sulawesi Tengah, Indonesia, adalah harta karun keanekaragaman hayati dan keindahan alam yang mencakup area seluas lebih dari 2.000 kilometer persegi. Ditetapkan sebagai Situs Warisan Dunia oleh UNESCO, taman nasional ini menawarkan lanskap yang mengagumkan, mulai dari hutan hujan tropis yang lebat hingga danau-danau indah dan pegunungan yang menakjubkan. Salah satu daya tarik utamanya adalah populasi tarsius, primata malam hari yang langka dan endemik di Sulawesi, serta berbagai spesies flora dan fauna langka lainnya. Taman Nasional Lore Lindu juga dikenal karena situs-situs megalitiknya, seperti Bada Valley, yang menampilkan batu-batu besar dan pahatan kuno, menciptakan keseimbangan antara keanekaragaman alam dan warisan budaya yang luar biasa. Upaya konservasi dan ekowisata yang berkelanjutan di Taman Nasional Lore Lindu bertujuan untuk melindungi kekayaan alam dan budaya yang unik, sambil memberikan pengalaman mendalam kepada para pengunjung yang ingin mengeksplorasi keindahan Sulawesi Tengah.",
+      "location": {
+        "latitude": "-1.474946",
+        "longitude": "120.188941"
+      },
+      "review":""
     },
     {
       "id": "27",
@@ -214,7 +344,12 @@
       "city": "Makassar",
       "address": "Jl. Sulawesi Selatan, No. 456, Kota Makassar, Sulawesi Selatan",
       "picture": "https://cdn0-production-images-kly.akamaized.net/Ir74lLsUPF3734Y4Kfar47iJojQ=/1280x720/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/1142458/original/063343300_1455530186-16-53-26-Benteng-Rotterdam-Makassar-652x330.jpg",
-      "description": "Benteng Rotterdam, yang terletak di Makassar, Sulawesi Selatan, Indonesia, adalah sebuah kompleks benteng bersejarah yang mencerminkan warisan kolonial Belanda di wilayah ini. Dibangun pada abad ke-17 oleh Verenigde Oost-Indische Compagnie (VOC), benteng ini awalnya berfungsi sebagai pertahanan terhadap serangan musuh dan pusat perdagangan rempah. Dengan arsitektur yang mencirikan gaya arsitektur Eropa pada masa itu, Benteng Rotterdam memiliki dinding-dinding batu kuat, mercusuar, dan kompleks bangunan yang mencakup kantor-kantor administratif, gudang, dan rumah-rumah panglima. Selain menjadi saksi bisu dari masa lalu yang bersejarah, Benteng Rotterdam kini telah menjadi situs wisata yang populer, menarik pengunjung dengan keindahan arsitektur kolonialnya yang megah dan memberikan wawasan tentang periode penting dalam sejarah Makassar dan Indonesia pada umumnya."
+      "description": "Benteng Rotterdam, yang terletak di Makassar, Sulawesi Selatan, Indonesia, adalah sebuah kompleks benteng bersejarah yang mencerminkan warisan kolonial Belanda di wilayah ini. Dibangun pada abad ke-17 oleh Verenigde Oost-Indische Compagnie (VOC), benteng ini awalnya berfungsi sebagai pertahanan terhadap serangan musuh dan pusat perdagangan rempah. Dengan arsitektur yang mencirikan gaya arsitektur Eropa pada masa itu, Benteng Rotterdam memiliki dinding-dinding batu kuat, mercusuar, dan kompleks bangunan yang mencakup kantor-kantor administratif, gudang, dan rumah-rumah panglima. Selain menjadi saksi bisu dari masa lalu yang bersejarah, Benteng Rotterdam kini telah menjadi situs wisata yang populer, menarik pengunjung dengan keindahan arsitektur kolonialnya yang megah dan memberikan wawasan tentang periode penting dalam sejarah Makassar dan Indonesia pada umumnya.",
+      "location": {
+        "latitude": "-5.133937",
+        "longitude": "119.405545"
+      },
+      "review":""
     },
     {
       "id": "28",
@@ -222,7 +357,12 @@
       "city": "Ambon",
       "address": "Jl. Maluku, No. 101, Banda Neira, Maluku",
       "picture": "https://ik.imagekit.io/tvlk/blog/2022/12/gunung-api-banda_shutterstock_1252541476.jpg?tr=dpr-2,w-675",
-      "description": "Banda Neira, sebuah pulau di Kepulauan Banda, Maluku, Indonesia, adalah destinasi bersejarah yang sarat dengan kekayaan budaya dan alam. Pulau ini menjadi pusat perdagangan rempah-rempah pada abad ke-16 dan 17, terutama cengkih dan pala yang sangat berharga, menjadikannya tujuan strategis dan kontroversial selama masa kolonialisme. Banda Neira dipenuhi dengan peninggalan sejarah, termasuk Benteng Belgica yang kuat yang dibangun oleh Belanda pada abad ke-17. Selain kebersejarahan yang mencolok, pulau ini menawarkan pesona alam dengan pantai-pantai berpasir putih dan air laut yang jernih. Pada masa kini, Banda Neira tetap menjadi magnet bagi para wisatawan yang mencari petualangan sejarah dan keindahan alam yang autentik di jantung Kepulauan Banda yang indah. Usaha pelestarian dan upaya pengelolaan pariwisata yang berkelanjutan semakin menambah daya tarik pulau ini sebagai destinasi yang merangkul warisan sejarahnya sambil memelihara keindahan alamnya yang unik."
+      "description": "Banda Neira, sebuah pulau di Kepulauan Banda, Maluku, Indonesia, adalah destinasi bersejarah yang sarat dengan kekayaan budaya dan alam. Pulau ini menjadi pusat perdagangan rempah-rempah pada abad ke-16 dan 17, terutama cengkih dan pala yang sangat berharga, menjadikannya tujuan strategis dan kontroversial selama masa kolonialisme. Banda Neira dipenuhi dengan peninggalan sejarah, termasuk Benteng Belgica yang kuat yang dibangun oleh Belanda pada abad ke-17. Selain kebersejarahan yang mencolok, pulau ini menawarkan pesona alam dengan pantai-pantai berpasir putih dan air laut yang jernih. Pada masa kini, Banda Neira tetap menjadi magnet bagi para wisatawan yang mencari petualangan sejarah dan keindahan alam yang autentik di jantung Kepulauan Banda yang indah. Usaha pelestarian dan upaya pengelolaan pariwisata yang berkelanjutan semakin menambah daya tarik pulau ini sebagai destinasi yang merangkul warisan sejarahnya sambil memelihara keindahan alamnya yang unik.",
+      "location": {
+        "latitude": "-4.514136",
+        "longitude": "129.904125"
+      },
+      "review":""
     },
     {
       "id": "29",
@@ -230,7 +370,12 @@
       "city": "Seram",
       "address": "Jl. Maluku Tengah, No. 202, Pantai Ora, Seram, Maluku",
       "picture": "https://cdn.wisata.app/diary/ded32177-a0a8-44ec-850b-1d20e71a6839_xs.jpg",
-      "description": "Pantai Ora, terletak di Pulau Seram, Maluku, Indonesia, adalah sebuah persembunyian tropis yang menakjubkan dengan keindahan alam yang memukau. Pantai ini menawarkan pasir putih yang lembut, air laut yang jernih bergradasi biru hingga hijau, dan hutan hijau yang menyelimuti pesisir. Dikelilingi oleh hutan bakau yang menambah pesona alamnya, Pantai Ora menjadi tempat yang ideal untuk bersantai, berenang, dan menikmati keindahan panorama laut yang damai. Kekayaan biota laut di sekitar pantai ini juga menawarkan pengalaman snorkeling yang luar biasa, memungkinkan para pengunjung untuk menyaksikan keindahan terumbu karang dan kehidupan laut yang beraneka ragam. Daya tarik ekologis dan keindahan alam yang masih alami menjadikan Pantai Ora sebagai destinasi eksotis yang menawan, cocok untuk mereka yang mencari ketenangan dan keindahan alam yang autentik di kepulauan Indonesia."
+      "description": "Pantai Ora, terletak di Pulau Seram, Maluku, Indonesia, adalah sebuah persembunyian tropis yang menakjubkan dengan keindahan alam yang memukau. Pantai ini menawarkan pasir putih yang lembut, air laut yang jernih bergradasi biru hingga hijau, dan hutan hijau yang menyelimuti pesisir. Dikelilingi oleh hutan bakau yang menambah pesona alamnya, Pantai Ora menjadi tempat yang ideal untuk bersantai, berenang, dan menikmati keindahan panorama laut yang damai. Kekayaan biota laut di sekitar pantai ini juga menawarkan pengalaman snorkeling yang luar biasa, memungkinkan para pengunjung untuk menyaksikan keindahan terumbu karang dan kehidupan laut yang beraneka ragam. Daya tarik ekologis dan keindahan alam yang masih alami menjadikan Pantai Ora sebagai destinasi eksotis yang menawan, cocok untuk mereka yang mencari ketenangan dan keindahan alam yang autentik di kepulauan Indonesia.",
+      "location": {
+        "latitude": "-2.958465",
+        "longitude": "129.139658"
+      },
+      "review":""
     },
     {
       "id": "30",
@@ -238,7 +383,12 @@
       "city": "Buru",
       "address": "Jl. Maluku Tengah, No. 303, Museum Namlea, Buru, Maluku",
       "picture": "https://jadwaltravel.com/wp-content/uploads/2023/01/New-Project-6.jpg",
-      "description": "Museum Namlea, terletak di Kota Namlea, Maluku, Indonesia, adalah institusi budaya yang kaya dengan sejarah dan warisan lokal. Museum ini memainkan peran penting dalam memperkenalkan pengunjung pada kekayaan budaya dan sejarah Maluku. Dengan koleksi artefak dan benda-benda bersejarah, Museum Namlea memberikan gambaran mendalam tentang perjalanan sejarah wilayah ini, dari periode kolonial hingga perkembangan modern. Artefak-artefak tersebut meliputi benda seni tradisional, peralatan rumah tangga kuno, serta dokumentasi visual yang menceritakan kehidupan sehari-hari dan peristiwa bersejarah di Maluku. Selain itu, museum ini juga berfungsi sebagai pusat edukasi yang memberikan pemahaman mendalam tentang budaya, kearifan lokal, dan perkembangan masyarakat Maluku. Dengan atmosfer yang tenang dan penuh makna, Museum Namlea menjadi tempat penting bagi mereka yang ingin menyelami sejarah dan kekayaan budaya yang membanggakan di wilayah Maluku."
+      "description": "Museum Namlea, terletak di Kota Namlea, Maluku, Indonesia, adalah institusi budaya yang kaya dengan sejarah dan warisan lokal. Museum ini memainkan peran penting dalam memperkenalkan pengunjung pada kekayaan budaya dan sejarah Maluku. Dengan koleksi artefak dan benda-benda bersejarah, Museum Namlea memberikan gambaran mendalam tentang perjalanan sejarah wilayah ini, dari periode kolonial hingga perkembangan modern. Artefak-artefak tersebut meliputi benda seni tradisional, peralatan rumah tangga kuno, serta dokumentasi visual yang menceritakan kehidupan sehari-hari dan peristiwa bersejarah di Maluku. Selain itu, museum ini juga berfungsi sebagai pusat edukasi yang memberikan pemahaman mendalam tentang budaya, kearifan lokal, dan perkembangan masyarakat Maluku. Dengan atmosfer yang tenang dan penuh makna, Museum Namlea menjadi tempat penting bagi mereka yang ingin menyelami sejarah dan kekayaan budaya yang membanggakan di wilayah Maluku.",
+      "location": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "review":""
     },
     {
       "id": "31",
@@ -246,7 +396,12 @@
       "city": "Kepulauan Kei",
       "address": "Jl. Maluku Tenggara, No. 404, Pulau Kei Besar, Kepulauan Kei, Maluku",
       "picture": "https://blog.tiket.com/wp-content/uploads/2021/10/2.-Bair-Island-1.jpg",
-      "description": "Pulau Kei Besar memanjakan pengunjung dengan pemandangan pantai yang menakjubkan. Pasir putih halus yang membentang sepanjang pantai dipadukan dengan air laut berwarna biru kehijauan yang tenang, menciptakan suasana yang menenangkan dan memikat hati para wisatawan. Pulau ini juga dikelilingi oleh terumbu karang yang kaya, menjadikannya tempat ideal untuk kegiatan snorkeling dan menyelam. Pulau Kei Besar tidak hanya menawarkan kecantikan alam, tetapi juga memperkenalkan pengunjung pada budaya lokal yang kaya. Masyarakat setempat yang ramah dan hangat menyambut wisatawan dengan senyum dan keramahan khas Maluku. Pengunjung dapat berinteraksi dengan penduduk setempat, belajar tentang tradisi lokal, dan menyaksikan pertunjukan tarian dan musik tradisional yang mencerminkan kekayaan warisan budaya mereka."
+      "description": "Pulau Kei Besar memanjakan pengunjung dengan pemandangan pantai yang menakjubkan. Pasir putih halus yang membentang sepanjang pantai dipadukan dengan air laut berwarna biru kehijauan yang tenang, menciptakan suasana yang menenangkan dan memikat hati para wisatawan. Pulau ini juga dikelilingi oleh terumbu karang yang kaya, menjadikannya tempat ideal untuk kegiatan snorkeling dan menyelam. Pulau Kei Besar tidak hanya menawarkan kecantikan alam, tetapi juga memperkenalkan pengunjung pada budaya lokal yang kaya. Masyarakat setempat yang ramah dan hangat menyambut wisatawan dengan senyum dan keramahan khas Maluku. Pengunjung dapat berinteraksi dengan penduduk setempat, belajar tentang tradisi lokal, dan menyaksikan pertunjukan tarian dan musik tradisional yang mencerminkan kekayaan warisan budaya mereka.",
+      "location": {
+        "latitude": "-5.556959",
+        "longitude": "133.076604"
+      },
+      "review":""
     },
     {
       "id": "32",
@@ -254,7 +409,12 @@
       "city": "Maros",
       "address": "Jl. Sulawesi Selatan, No. 505, Taman Nasional Bantimurung Bulusaraung, Maros, Sulawesi Selatan",
       "picture": "https://static.cdntap.com/tap-assets-prod/wp-content/uploads/sites/24/2022/09/Taman-Nasional-Bantimurung-Bulusaraung-Foto-Article-3.2.jpg",
-      "description": "Taman Nasional Bantimurung Bulusaraung, terletak di Sulawesi Selatan, adalah destinasi yang menggabungkan keindahan alam dan keanekaragaman hayati. Dikenal sebagai Taman Kupu-Kupu, taman nasional ini menjadi rumah bagi berbagai spesies kupu-kupu yang memukau. Selain itu, pemandangan gua-gua karst di sekitar area ini menambah pesona alam yang unik."
+      "description": "Taman Nasional Bantimurung Bulusaraung, terletak di Sulawesi Selatan, adalah destinasi yang menggabungkan keindahan alam dan keanekaragaman hayati. Dikenal sebagai Taman Kupu-Kupu, taman nasional ini menjadi rumah bagi berbagai spesies kupu-kupu yang memukau. Selain itu, pemandangan gua-gua karst di sekitar area ini menambah pesona alam yang unik.",
+      "location": {
+        "latitude": "-5.015915",
+        "longitude": "119.681634"
+      },
+      "review":""
     },
     {
       "id": "33",
@@ -262,15 +422,25 @@
       "city": "Manado",
       "address": "Jl. Sulawesi Utara, No. 606, Pulau Manado Tua, Manado, Sulawesi Utara",
       "picture": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/02/04/f12b8d46-03f2-42ad-a620-5e7ad748aec8-1612403518383-adf8c9df733bf89681751d3427f993d7.jpg",
-      "description": "Pulau Manado Tua, di Sulawesi Utara, adalah pulau vulkanik yang menawarkan keindahan bawah laut yang luar biasa. Dikelilingi terumbu karang yang indah, pulau ini menjadi tempat populer bagi penyelam dan pecinta alam bawah laut."
+      "description": "Pulau Manado Tua, di Sulawesi Utara, adalah pulau vulkanik yang menawarkan keindahan bawah laut yang luar biasa. Dikelilingi terumbu karang yang indah, pulau ini menjadi tempat populer bagi penyelam dan pecinta alam bawah laut.",
+      "location": {
+        "latitude": "1.631041",
+        "longitude": "124.701918"
+      },
+      "review":""
     },
-   {
+    {
       "id": "34",
       "name": "Pura Tanah Lot",
       "city": "Tabanan",
       "address": "Beraban, Kediri, Tabanan Regency, Bali",
       "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_1039982569.png",
-      "description": "Ada dua bangunan Pura Tanah Lot yang terpisah lautan. Salah satu bangunan berada di batu besar dan satunya lagi di tebing. Kamu bisa datang ke pura di batu besar saat air laut sedang surut. Menariknya, ada ular yang dipercaya suci di sekitar bebatuan."
+      "description": "Ada dua bangunan Pura Tanah Lot yang terpisah lautan. Salah satu bangunan berada di batu besar dan satunya lagi di tebing. Kamu bisa datang ke pura di batu besar saat air laut sedang surut. Menariknya, ada ular yang dipercaya suci di sekitar bebatuan.",
+      "location": {
+        "latitude": "-8.621189",
+        "longitude": "115.086814"
+      },
+      "review":"" 
     },
     {
       "id": "35",
@@ -278,7 +448,12 @@
       "city": "Karangasem",
       "address": "Besakih, Rendang, Karangasem Regency, Bali",
       "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_2340132273.png",
-      "description": "Pura Besakih dikenal paling besar dan sakral bagi penganut Hindu di Bali. Sebagai pura yang besar, di sekitarnya ada 18 pura pendamping. Lokasinya berada di Besakih, Karangasem. Kalau kamu ke sini, kamu dapat melihat keindahan budaya Bali yang terwujud dari desain dan ornamen pura."
+      "description": "Pura Besakih dikenal paling besar dan sakral bagi penganut Hindu di Bali. Sebagai pura yang besar, di sekitarnya ada 18 pura pendamping. Lokasinya berada di Besakih, Karangasem. Kalau kamu ke sini, kamu dapat melihat keindahan budaya Bali yang terwujud dari desain dan ornamen pura.",
+      "location": {
+        "latitude": "-8.374000",
+        "longitude": "115.452558"
+      },
+      "review":""
     },
     {
       "id": "36",
@@ -286,7 +461,12 @@
       "city": "Gianyar",
       "address": "Tampaksiring, Gianyar Regency, Bali",
       "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_2184020621.png",
-      "description": "Pura Tirta Empul menjadi salah satu pura yang unik di Bali, karena di sini ada kolam pemandian untuk mensucikan diri. Sebelum masuk ke pura kamu wajib menggunakan kain adat yang sudah disediakan. Bagi kamu yang ingin melukat di mata air suci ini, maka disarankan untuk mandi di 14 pancuran secara berurutan. Karena masing-masing pancuran mendatangkan kebaikan yang berbeda-beda.  Ada yang untuk membersihkan jiwa dan raga, mencari jalan keluar dari konflik rumah tangga yang dialami, hingga membersihkan diri dari pengaruh ilmu santet. Pura Tirta Empul di Jl Tirta, Manukaya, Tampaksiring, Gianyar tersebut tergolong masih sangat tradisional.  Selain pura, kamu juga dengan gampang bisa langsung melihat Istana Tampaksiring yang menjadi tempat peristirahatan Presiden Soekarno."
+      "description": "Pura Tirta Empul menjadi salah satu pura yang unik di Bali, karena di sini ada kolam pemandian untuk mensucikan diri. Sebelum masuk ke pura kamu wajib menggunakan kain adat yang sudah disediakan. Bagi kamu yang ingin melukat di mata air suci ini, maka disarankan untuk mandi di 14 pancuran secara berurutan. Karena masing-masing pancuran mendatangkan kebaikan yang berbeda-beda.  Ada yang untuk membersihkan jiwa dan raga, mencari jalan keluar dari konflik rumah tangga yang dialami, hingga membersihkan diri dari pengaruh ilmu santet. Pura Tirta Empul di Jl Tirta, Manukaya, Tampaksiring, Gianyar tersebut tergolong masih sangat tradisional.  Selain pura, kamu juga dengan gampang bisa langsung melihat Istana Tampaksiring yang menjadi tempat peristirahatan Presiden Soekarno.",
+      "location": {
+        "latitude": "-8.415605",
+        "longitude": "115.315327"
+      },
+      "review":""
     },
     {
       "id": "37",
@@ -294,7 +474,12 @@
       "city": "Badung",
       "address": "Pecatu, South Kuta, Badung Regency, Bali",
       "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_2154506169.png",
-      "description": "Pura Luhur Uluwatu, terletak di ujung selatan Bali, Indonesia, adalah salah satu pura paling ikonik yang menawarkan pemandangan laut yang dramatis dan keindahan arsitektur Hindu-Bali. Terletak di tebing karang setinggi sekitar 70 meter di atas permukaan laut, pura ini menawarkan panorama Samudra Hindia yang luas, terutama saat matahari terbenam yang spektakuler. Arsitektur khas Bali-nya mencakup gerbang candi yang indah, meru-meru multi-tangga, dan patung-patung suci yang dihiasi dengan ornamen tradisional. Pura Luhur Uluwatu juga dikenal karena pertunjukan kecak yang mengagumkan yang diadakan di atas tebing, menciptakan pengalaman budaya yang tak terlupakan. Selain sebagai situs keagamaan, pura ini juga menjadi tempat tujuan wisata yang populer untuk wisatawan yang mencari pengalaman spiritual dan keindahan alam yang luar biasa di pulau Bali. Meskipun merupakan situs keagamaan, para pengunjung juga diharapkan untuk menghormati norma-norma keagamaan dan adat istiadat Bali selama kunjungan mereka."
+      "description": "Pura Luhur Uluwatu, terletak di ujung selatan Bali, Indonesia, adalah salah satu pura paling ikonik yang menawarkan pemandangan laut yang dramatis dan keindahan arsitektur Hindu-Bali. Terletak di tebing karang setinggi sekitar 70 meter di atas permukaan laut, pura ini menawarkan panorama Samudra Hindia yang luas, terutama saat matahari terbenam yang spektakuler. Arsitektur khas Bali-nya mencakup gerbang candi yang indah, meru-meru multi-tangga, dan patung-patung suci yang dihiasi dengan ornamen tradisional. Pura Luhur Uluwatu juga dikenal karena pertunjukan kecak yang mengagumkan yang diadakan di atas tebing, menciptakan pengalaman budaya yang tak terlupakan. Selain sebagai situs keagamaan, pura ini juga menjadi tempat tujuan wisata yang populer untuk wisatawan yang mencari pengalaman spiritual dan keindahan alam yang luar biasa di pulau Bali. Meskipun merupakan situs keagamaan, para pengunjung juga diharapkan untuk menghormati norma-norma keagamaan dan adat istiadat Bali selama kunjungan mereka.",
+      "location": {
+        "latitude": "-8.829146",
+        "longitude": "115.084901"
+      },
+      "review":""
     },
     {
       "id": "38",
@@ -302,7 +487,12 @@
       "city": "Klungkung",
       "address": "Jl. Kenanga No.11, Semarapura Kelod, Kec. Klungkung, Kabupaten Klungkung, Bali",
       "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_2238606655.png",
-      "description": "Kerta Gosa memiliki nilai sejarah yang sangat kental, mulai dari masa pemerintahan raja Klungkung sampai pada masa penjajahan Jepang di Indonesia khususnya di Bali. Terletak di tengah-tengah kota Kabupaten Klungkung, 40 km dari arah Timur Denpasar, Kerta Gosa dibangun pada saat Kerajaan Klungkung di tahun 1686."
+      "description": "Kerta Gosa memiliki nilai sejarah yang sangat kental, mulai dari masa pemerintahan raja Klungkung sampai pada masa penjajahan Jepang di Indonesia khususnya di Bali. Terletak di tengah-tengah kota Kabupaten Klungkung, 40 km dari arah Timur Denpasar, Kerta Gosa dibangun pada saat Kerajaan Klungkung di tahun 1686.",
+      "location": {
+        "latitude": "-8.535357",
+        "longitude": "115.403336"
+      },
+      "review":""
     },
     {
       "id": "39",
@@ -310,7 +500,12 @@
       "city": "Klungkung",
       "address": "Jl. Raya Goa Lawah, Pesinggahan, Kec. Dawan, Kabupaten Klungkung, Bali",
       "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_1536582743.png",
-      "description": "Pura Goa Lawah merupakan salah satu pura peninggalan Bali kuno. Hingga saat ini kondisinya sangat terawat. Bagi masyarakat lokal Pura Goa Lawah adalah rumah seekor naga raksasa yang menggunakan mahkota bernama Vasuki. Di Goa lawah ada sungai yang dipercaya dapat memberi kesembuhan untuk macam-macam penyakit. Dari sejarahnya, Pura Goa Lawah dibangun pada tahun 1007 Masehi oleh Mpu Kuturan. Goa Lawah sebetulnya artinya goa kelelawar. Karena memang menjadi sarang ribuan kelelawar."
+      "description": "Pura Goa Lawah merupakan salah satu pura peninggalan Bali kuno. Hingga saat ini kondisinya sangat terawat. Bagi masyarakat lokal Pura Goa Lawah adalah rumah seekor naga raksasa yang menggunakan mahkota bernama Vasuki. Di Goa lawah ada sungai yang dipercaya dapat memberi kesembuhan untuk macam-macam penyakit. Dari sejarahnya, Pura Goa Lawah dibangun pada tahun 1007 Masehi oleh Mpu Kuturan. Goa Lawah sebetulnya artinya goa kelelawar. Karena memang menjadi sarang ribuan kelelawar.",
+      "location": {
+        "latitude": "-8.551331",
+        "longitude": "115.468859"
+      },
+      "review":""
     },
     {
       "id": "40",
@@ -318,7 +513,12 @@
       "city": "Klungkung",
       "address": "Jl. Raya Goa Lawah, Pesinggahan, Kec. Dawan, Kabupaten Klungkung, Bali",
       "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-copy-of-shutterstock_1733013296.png",
-      "description": "Pura Ulun Danu berada di Danau Beratan, Desa Candikuning, Kecamatan Baturiti, Kabupaten Tabanan, Bali. Pura ini juga salah satu tempat wisata sejarah di Bali. Pura Ulun Danu pernah menjadi gambar dalam mata uang Rp 50 ribu tahun edisi tahun 2016 lho. Kalau air danau sedang naik, kamu akan melihat seolah pura mengapung di danau."
+      "description": "Pura Ulun Danu berada di Danau Beratan, Desa Candikuning, Kecamatan Baturiti, Kabupaten Tabanan, Bali. Pura ini juga salah satu tempat wisata sejarah di Bali. Pura Ulun Danu pernah menjadi gambar dalam mata uang Rp 50 ribu tahun edisi tahun 2016 lho. Kalau air danau sedang naik, kamu akan melihat seolah pura mengapung di danau.",
+      "location": {
+        "latitude": "-8.275186",
+        "longitude": "115.166808"
+      },
+      "review":""
     },
     {
       "id": "41",
@@ -326,7 +526,12 @@
       "city": "Bangli",
       "address": "Jl. Penglipuran, Kubu, Kec. Bangli, Kabupaten Bangli, Bali",
       "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_1570964830.png",
-      "description": "Desa Panglipuran berada di Kecamatan Kubu, Kecamatan Bangli. Desa ini masih menjunjung tinggi nilai-nilai luhur nenek moyang. Desa setempat dibangun dengan Konsep Tri Mandala. Dimulai dari Nista Mandala atau jaba sisi sebagai area terluar, Madya Mandala atau jaba tengah sebagai area peralihan atau area tengah, dan Utama Mandala atau jeroan sebagai area paling dalam."
+      "description": "Desa Panglipuran berada di Kecamatan Kubu, Kecamatan Bangli. Desa ini masih menjunjung tinggi nilai-nilai luhur nenek moyang. Desa setempat dibangun dengan Konsep Tri Mandala. Dimulai dari Nista Mandala atau jaba sisi sebagai area terluar, Madya Mandala atau jaba tengah sebagai area peralihan atau area tengah, dan Utama Mandala atau jeroan sebagai area paling dalam.",
+      "location": {
+        "latitude": "-8.422241",
+        "longitude": "115.359312"
+      },
+      "review":""
     },
     {
       "id": "42",
@@ -334,7 +539,12 @@
       "city": "Bangli",
       "address": "kecamatan Kintamani, Kabupaten Bangli, provinsi Bali",
       "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_2126657201.png",
-      "description": "Desa Trunyan, Kecamatan Kintamani, Kabupaten Bangli. Di desa setempat ada Pura Pancering Jagat. Nama Pura Pancering Jagat berasal dari nama patung besar setinggi 4 meter yang terdapat di pura ini. Masyarakat menyebut  Arca Datonta atau Ratu gede Pancering Jagat. Arca Datonta merupakan arca bercorak  megalitik, dihias dengan ukiran sederhana dan dengan ekspresi sesosok wajah."
+      "description": "Desa Trunyan, Kecamatan Kintamani, Kabupaten Bangli. Di desa setempat ada Pura Pancering Jagat. Nama Pura Pancering Jagat berasal dari nama patung besar setinggi 4 meter yang terdapat di pura ini. Masyarakat menyebut  Arca Datonta atau Ratu gede Pancering Jagat. Arca Datonta merupakan arca bercorak  megalitik, dihias dengan ukiran sederhana dan dengan ekspresi sesosok wajah.",
+      "location": {
+        "latitude": "-8.251121",
+        "longitude": "115.442531"
+      },
+      "review":""
     },
     {
       "id": "43",
@@ -342,7 +552,12 @@
       "city": "Karangasem",
       "address": "Kecamatan Manggis, Kabupaten Karangasem, Bali",
       "picture": "https://www.indonesia.travel/content/dam/indtravelrevamp/id-id/ide-liburan/image-artikel-shutterstock_1770229742.png",
-      "description": "Desa yang berada di kecamatan Manggis, Kabupaten Karang Asem ini masyarakatnya masih mempertahankan nilai budaya tradisional yang mengacu kepada adat dan istiadat dari zaman leluhur nenek moyang dalam aktivitas kesehariannya. Di sini kamu dapat melihat masyarakat yang masih menggunakan kain gringsing atau kain tenun yang diyakini masyarakat setempat sebagai pelindung yang dapat menghalau pengaruh jahat."
+      "description": "Desa yang berada di kecamatan Manggis, Kabupaten Karang Asem ini masyarakatnya masih mempertahankan nilai budaya tradisional yang mengacu kepada adat dan istiadat dari zaman leluhur nenek moyang dalam aktivitas kesehariannya. Di sini kamu dapat melihat masyarakat yang masih menggunakan kain gringsing atau kain tenun yang diyakini masyarakat setempat sebagai pelindung yang dapat menghalau pengaruh jahat.",
+      "location": {
+        "latitude": "-8.476080",
+        "longitude": "115.565997"
+      },
+      "review":""
     },
     {
       "id": "44",
@@ -350,7 +565,12 @@
       "city": "Medan",
       "address": " Jl. Brigjen Katamso, Medan Maimun, Kota Medan, Sumatera Utara 20156",
       "picture": "https://blogpictures.99.co/fakta-istana-maimun.png",
-      "description": "Istana Maimun adalah salah satu ikon kota Medan dan salah satu istana terindah di Indonesia. Istana ini dibangun pada tahun 1888 oleh Sultan Deli, Sultan Mahmud Al Rasyid II. Istana ini memiliki arsitektur yang unik perpaduan antara gaya Melayu, Spanyol, dan Italia. Istana ini memiliki 100 ruangan dan 300 jendela."
+      "description": "Istana Maimun adalah salah satu ikon kota Medan dan salah satu istana terindah di Indonesia. Istana ini dibangun pada tahun 1888 oleh Sultan Deli, Sultan Mahmud Al Rasyid II. Istana ini memiliki arsitektur yang unik perpaduan antara gaya Melayu, Spanyol, dan Italia. Istana ini memiliki 100 ruangan dan 300 jendela.",
+      "location": {
+        "latitude": "3.57524",
+        "longitude": "98.68383"
+      },
+      "review":""
     },
     {
       "id": "45",
@@ -358,23 +578,38 @@
       "city": "Samosir",
       "address": "Danau Toba, Samosir, Sumatera Utara",
       "picture": "https://umsu.ac.id/wp-content/uploads/2022/11/objek-wisata-danau-toba.jpg",
-      "description": "Danau Toba adalah danau vulkanik terbesar di dunia. Danau ini terletak di Provinsi Sumatera Utara. Danau ini terbentuk akibat letusan Gunung Toba yang terjadi sekitar 75.000 tahun yang lalu. Danau ini memiliki luas sekitar 1.145 kilometer persegi dan kedalaman sekitar 456 meter."
+      "description": "Danau Toba adalah danau vulkanik terbesar di dunia. Danau ini terletak di Provinsi Sumatera Utara. Danau ini terbentuk akibat letusan Gunung Toba yang terjadi sekitar 75.000 tahun yang lalu. Danau ini memiliki luas sekitar 1.145 kilometer persegi dan kedalaman sekitar 456 meter.",
+      "location": {
+        "latitude": "2.427984",
+        "longitude": "98.980842"
+      },
+      "review":""
     },
     {
       "id": "46",
       "name": "Rumah Adat Melayu",
       "city": "Medan",
-      "address": " Jl. Sultan Iskandar Muda, Medan, Sumatera Utara",
+      "address": "Jl. Sultan Iskandar Muda, Medan, Sumatera Utara",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rumah_Adat_Balai_Selasar_Jatuh_Tunggal%2C_Rumah_Adat_Riau_di_Taman_Mini_Indonesia_Indah.jpg/800px-Rumah_Adat_Balai_Selasar_Jatuh_Tunggal%2C_Rumah_Adat_Riau_di_Taman_Mini_Indonesia_Indah.jpg",
-      "description": "Rumah Adat Melayu adalah rumah tradisional masyarakat Melayu. Rumah ini memiliki ciri khas atap yang berbentuk limas. Rumah ini terbuat dari kayu dan beratap sirap. Rumah ini memiliki ruang-ruang yang berfungsi sebagai tempat tinggal, tempat menerima tamu, dan tempat ibadah."
+      "description": "Rumah Adat Melayu adalah rumah tradisional masyarakat Melayu. Rumah ini memiliki ciri khas atap yang berbentuk limas. Rumah ini terbuat dari kayu dan beratap sirap. Rumah ini memiliki ruang-ruang yang berfungsi sebagai tempat tinggal, tempat menerima tamu, dan tempat ibadah.",
+      "location": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "review":""
     },
     {
       "id": "47",
       "name": "Rumah Adat Gayo",
       "city": "Takengon",
-      "address": " Jl. Soekarno-Hatta No.1, Kampung Pajak, Kec. Lut Tawar, Kab. Aceh Tengah, Aceh 24511",
+      "address": "Jl. Soekarno-Hatta No.1, Kampung Pajak, Kec. Lut Tawar, Kab. Aceh Tengah, Aceh 24511",
       "picture": "https://1.bp.blogspot.com/-Kkl6qW2u_ik/XhnmIRGMYzI/AAAAAAAAARM/NCyfTEtCrvERBAFw33z3UzJL7GTNHW67wCLcBGAsYHQ/s1600/Rumah%2Badata%2Bsuku%2Bgayo.jpg",
-      "description": "Rumah Adat Gayo adalah rumah tradisional masyarakat Gayo. Rumah ini memiliki ciri khas atap yang berbentuk limas. Rumah ini terbuat dari kayu dan beratap ijuk. Rumah ini memiliki ruang-ruang yang berfungsi sebagai tempat tinggal, tempat menerima tamu, dan tempat ibadah."
+      "description": "Rumah Adat Gayo adalah rumah tradisional masyarakat Gayo. Rumah ini memiliki ciri khas atap yang berbentuk limas. Rumah ini terbuat dari kayu dan beratap ijuk. Rumah ini memiliki ruang-ruang yang berfungsi sebagai tempat tinggal, tempat menerima tamu, dan tempat ibadah.",
+      "location": {
+        "latitude": "",
+        "longitude": ""
+      },
+      "review":""
     },
     {
       "id": "48",
@@ -382,7 +617,12 @@
       "city": " Palangkaraya",
       "address": "Jl. Yos Sudarso, Palangkaraya, Kalimantan Tengah",
       "picture": "https://img.okezone.com/content/2023/09/23/406/2888228/mengenal-5-rumah-adat-suku-dayak-kalimantan-intip-segala-keunikannya-4ISi08hKz2.jpg",
-      "description": "Rumah Adat Dayak adalah rumah tradisional masyarakat Dayak. Rumah ini memiliki ciri khas atap yang berbentuk kerucut. Rumah ini terbuat dari kayu dan beratap sirap. Rumah ini memiliki ruang-ruang yang berfungsi sebagai tempat tinggal, tempat menerima tamu, dan tempat ibadah."
+      "description": "Rumah Adat Dayak adalah rumah tradisional masyarakat Dayak. Rumah ini memiliki ciri khas atap yang berbentuk kerucut. Rumah ini terbuat dari kayu dan beratap sirap. Rumah ini memiliki ruang-ruang yang berfungsi sebagai tempat tinggal, tempat menerima tamu, dan tempat ibadah.",
+      "location": {
+        "latitude": "-2.216780",
+        "longitude": "113.899948"
+      },
+      "review":""
     },
     {
       "id": "49",
@@ -390,7 +630,12 @@
       "city": "Batusangkar",
       "address": "Jl. Istana Pagaruyung, Nagari Pagaruyung, Kec. Tanjung Emas, Kabupaten Tanah Datar, Sumatera Barat",
       "picture": "https://asset.kompas.com/crops/-o__--WLuEoOE55iHH6zVqZbxQE=/0x0:996x664/750x500/data/photo/2021/08/06/610cff0494252.jpg",
-      "description": "Istana Pagaruyung Batusangkar dibangun pada abad ke-17 dan dulunya menjadi tempat tinggal raja yang ada di Pulau Sumatra. Istana ini memiliki bentuk seperti Rumah Gadang dan sangat populer dikalangan anak muda Sumatera dan traveler Indonesia. Saat berfoto di depan Istana Pagaruyung Batusangkar, hasil foto kalian itu pastinya memberi makna budaya yang melekat."
+      "description": "Istana Pagaruyung Batusangkar dibangun pada abad ke-17 dan dulunya menjadi tempat tinggal raja yang ada di Pulau Sumatra. Istana ini memiliki bentuk seperti Rumah Gadang dan sangat populer dikalangan anak muda Sumatera dan traveler Indonesia. Saat berfoto di depan Istana Pagaruyung Batusangkar, hasil foto kalian itu pastinya memberi makna budaya yang melekat.",
+      "location": {
+        "latitude": "-0.471406",
+        "longitude": "100.621424"
+      },
+      "review":""
     },
     {
       "id": "50",
@@ -398,7 +643,12 @@
       "city": "Bukittinggi",
       "address": "Jl. A. Yani, Koto Gadang, Agam, Sumatera Barat",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Seribu_Rumah_Gadang.jpg/800px-Seribu_Rumah_Gadang.jpg",
-      "description": "Nagari 1000 Rumah Gadang memiliki 1000 rumah gadang yang luas. Bahkan di kawasan Nagari 1000 Rumah Gadang, kalian bisa menginap 1 malam dan biasanya saat siang hari ada pertunjukan tari-tarian tradisional yang menghibur traveler saat berada di Nagari 1000 Rumah Gadang."
+      "description": "Nagari 1000 Rumah Gadang memiliki 1000 rumah gadang yang luas. Bahkan di kawasan Nagari 1000 Rumah Gadang, kalian bisa menginap 1 malam dan biasanya saat siang hari ada pertunjukan tari-tarian tradisional yang menghibur traveler saat berada di Nagari 1000 Rumah Gadang.",
+      "location": {
+        "latitude": "-1.481153",
+        "longitude": "101.060200"
+      },
+      "review":""
     },
     {
       "id": "51",
@@ -406,39 +656,51 @@
       "city": "Padang",
       "address": "Jl. Siti Nurbaya, Padang Utara, Padang, Sumatera Barat",
       "picture": "https://padang.go.id/uploads/images/image_default_621cdac243335.jpg",
-      "description": "Jembatan Siti Nurbaya memiliki pemandangan indah dan cantiknya view Sungai Batang Arau ini. Wisatawan yang ada di Jembatan Siti Nurbaya biasanya menunggu sunset, dan view di Jembatan Siti Nurbaya semakin indah karena terdapat rumah-rumah penduduk yang menambah kecantikan pemandangan Jembatan Siti Nurbaya."
+      "description": "Jembatan Siti Nurbaya memiliki pemandangan indah dan cantiknya view Sungai Batang Arau ini. Wisatawan yang ada di Jembatan Siti Nurbaya biasanya menunggu sunset, dan view di Jembatan Siti Nurbaya semakin indah karena terdapat rumah-rumah penduduk yang menambah kecantikan pemandangan Jembatan Siti Nurbaya.",
+      "location": {
+        "latitude": "-0.903309",
+        "longitude": "100.350727"
+      },
+      "review":""
     },
     {
       "id": "52",
-      "name": "Desa Tertua Nagari Pariang",
+      "name": "Nagari Pariangan",
       "city": "Padang Pariaman",
       "address": "Jl. Raya Padang - Bukittinggi, Nagari Pariangan, Kec. Pariangan, Kabupaten Padang Pariaman, Sumatera Barat",
       "picture": "https://jonnywongso.files.wordpress.com/2014/04/dsc08816-copy-1024x680.jpg",
-      "description": "Desa Tertua Nagari Pariang, di Sumatra Barat, adalah desa yang mempertahankan tradisi dan budaya Minangkabau. Arsitektur rumah tradisional dengan atap bercorak tanduk kerbau dan kegiatan keseharian masyarakat menciptakan pengalaman budaya yang otentik."
+      "description": "Desa Tertua Nagari Pariang, di Sumatra Barat, adalah desa yang mempertahankan tradisi dan budaya Minangkabau. Arsitektur rumah tradisional dengan atap bercorak tanduk kerbau dan kegiatan keseharian masyarakat menciptakan pengalaman budaya yang otentik.",
+      "location": {
+        "latitude": "-0.660630",
+        "longitude": "100.283790"
+      },
+      "review":""
     },
     {
-      "id": "50",
+      "id": "53",
       "name": "Museum Negeri Pontianak",
       "city": "Pontianak",
       "address": "Jl. Ahmad Yani No. 1, Pontianak Sel., Kota Pontianak, Kalimantan Barat",
       "picture": "https://museum.kalbarprov.go.id/assets/img/slide-1.jpg",
-      "description": "Museum Negeri Pontianak, di Kalimantan Barat, adalah tempat yang menyajikan sejarah dan budaya daerah. Koleksi museum mencakup artefak, lukisan, dan benda bersejarah yang memberikan wawasan tentang perkembangan kota Pontianak."
-    },
-    {
-      "id": "53",
-      "name": "Museum Kayu Tua",
-      "city": "Singkawang",
-      "address": "Jl. Ahmad Yani No. 1, Pontianak Sel., Kota Pontianak, Kalimantan Barat",
-      "picture": "https://bombasticborneo.com/wp-content/uploads/2017/09/Museum-Kayu-Tuah-Himba-Kutai-Kartanegara-Tenggarong.jpg",
-      "description": "Museum Kayu Tua, terletak di Jakarta, adalah museum yang menampilkan arsitektur dan benda-benda dari zaman kolonial Belanda. Pengunjung dapat melihat bangunan-bangunan tua yang dipindahkan ke museum untuk mempertahankan warisan sejarah kota Jakarta."
+      "description": "Museum Negeri Pontianak, di Kalimantan Barat, adalah tempat yang menyajikan sejarah dan budaya daerah. Koleksi museum mencakup artefak, lukisan, dan benda bersejarah yang memberikan wawasan tentang perkembangan kota Pontianak.",
+      "location": {
+        "latitude": "-0.060819",
+        "longitude": "109.351055"
+      },
+      "review":""
     },
     {
       "id": "54",
       "name": "Museum Sang Nila Utama",
       "city": "Singkawang",
-      "address": "Jl. Ahmad Yani No. 1, Pontianak Sel., Kota Pontianak, Kalimantan Barat",
+      "address": "Jl. Jend. Sudirman No.194, Tengkerang Tengah, Marpoyan Damai, Pekanbaru City, Riau",
       "picture": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Museum_Sang_Nila_Utama.jpg/800px-Museum_Sang_Nila_Utama.jpg",
-      "description": "Museum Sang Nila Utama, di Sumatra Utara, adalah museum yang menyoroti sejarah dan budaya daerah. Dengan koleksi yang beragam, museum ini memberikan pemahaman mendalam tentang perjalanan sejarah dan warisan budaya masyarakat Sumatra Utara."
+      "description": "Museum Sang Nila Utama, di Sumatra Utara, adalah museum yang menyoroti sejarah dan budaya daerah. Dengan koleksi yang beragam, museum ini memberikan pemahaman mendalam tentang perjalanan sejarah dan warisan budaya masyarakat Sumatra Utara.",
+      "location": {
+        "latitude": "0.507800",
+        "longitude": "101.449340"
+      },
+      "review":""
     }
   ]
 }

@@ -8,7 +8,7 @@ import Register from "../views/pages/register";
 const routes = {
   "/": Landingpage,
   "/home": Homepage,
-  "/detail/:id": Detail,
+  "/detail": Detail,
   "/like": Like,
   "/signin": SignIn,
   "/register": Register,
