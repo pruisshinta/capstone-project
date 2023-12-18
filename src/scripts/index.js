@@ -1,4 +1,3 @@
-/* eslint-disable import/no-extraneous-dependencies */
 import '../styles/main.css';
 import 'regenerator-runtime';
 import App from './views/app';
@@ -9,8 +8,6 @@ const app = new App({
   drawer: document.querySelector('#draw'),
   content: document.querySelector('#main-content'),
 });
-
-console.log(app);
 
 window.addEventListener('hashchange', () => {
   app.renderPage();

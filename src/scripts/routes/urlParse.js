@@ -11,6 +11,11 @@ const UrlParser = {
     return this._urlSplitter(url);
   },
 
+  parseActiveUrlWithoutCombinerWithoutLower() {
+    const url = window.location.hash.slice(1);
+    return this._urlSplitter(url);
+  },
+
   _urlSplitter(url) {
     const urlsSplits = url.split('/');
     return {
@@ -22,7 +27,7 @@ const UrlParser = {
 
   _urlCombiner(splitedUrl) {
     return (splitedUrl.resource ? `/${splitedUrl.resource}` : '/')
-      + (splitedUrl.id ? '/id' : '')
+      + (splitedUrl.id ? '/:id' : '')
       + (splitedUrl.verb ? `/${splitedUrl.verb}` : '');
   },
 };

@@ -1,109 +1,161 @@
+/* eslint-disable no-alert */
+/* eslint-disable no-console */
 import UrlParser from '../../routes/urlParse';
-import dummy from '../../../public/data/dummy.json';
-import ThecultureDbSource from '../../../public/data/cultureDb';
+import { getCultureDataById, addReview } from '../../globals/db';
+import Map from '../../globals/map';
+import 'lazysizes';
+import 'lazysizes/plugins/parent-fit/ls.parent-fit';
 
 const Detail = {
   async render() {
     return `
-    <main>
-      <div class="container">
-      <img class="home-img" src="./images/signup.png" alt="">
-        <div class="informasi">
-          <p class="tempatdestinasi">Prambanan Temple</p>
-          <p class="keterangan">City</p>
-          <p class="keteranganisi">Daerah Istimewah Yogyakarta</p>
-          <p class="keterangan">Address</p>
-          <p class="keteranganisi">
-            Jl. Raya Solo - Yogyakarta No.16, Kranggan, Bokoharjo, Kec.
-            Prambanan, Kabupaten Sleman, DIY.
-          </p>
-        </div>
-      </div>
-      <div class="deskripsi">
-        <p style="font-weight: bold">Description</p>
-        <p>
-          Prambanan Temple, also known as Rara Jonggrang, is a 9th-century Hindu
-          temple compound in Central Java, Indonesia. This UNESCO World Heritage
-          site is renowned for its stunning architecture and intricate stone
-          carvings, showcasing the grandeur of ancient Javanese art and culture.
-          Dedicated to the Trimurti, the three main Hindu deities—Brahma,
-          Vishnu, and Shiva—the temple complex includes towering shrines, each
-          adorned with detailed reliefs depicting epic Hindu legends and
-          mythological stories. The main Shiva temple stands at 47 meters high,
-          surrounded by smaller temples, pavilions, and numerous shrines.
-          Prambanan is a testament to Indonesia's rich cultural heritage and a
-          must-visit for those interested in exploring the historical and
-          artistic wonders of the region.
-        </p>
-      </div>
-      <div class="route">
-        <p style="font-weight: bold">Get the route!</p>
-
-      </div>
-      <div style="max-width:100%;list-style:none; transition: none;overflow:hidden;width:700px;height:250px;"><div id="gmap-canvas" style="height:100%; width:100%;max-width:100%;"><iframe style="height:100%;width:100%;border:0;" frameborder="0" src="https://www.google.com/maps/embed/v1/search?q=Prambanan+Temple,+Jalan+Raya+Solo+-+Yogyakarta,+Kranggan,+Bokoharjo,+Sleman+Regency,+Special+Region+of+Yogyakarta,+Indonesia&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe></div><a class="code-for-google-map" href="https://www.bootstrapskins.com/themes" id="get-data-for-map">premium bootstrap themes</a><style>#gmap-canvas img{max-width:none!important;background:none!important;font-size: inherit;font-weight:inherit;}</style></div>
-
-      <div class="review">
-        <p style="font-weight: bold">Review</p>
-        <div class="isireview">
-          <div>
-            <img
-              class="bagiankanan"
-              src="./images/landing2.png"
-              alt=""/>
-          </div>
-          <div class="bagiankiri">
-            <img class="fotoreview" src="./images/Ellipse.jpg" alt="" />
-            <p class="user">applupy</p>
-            <div>
-              <p class="komenan">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-                enim ad minim veniam, quis nostrud exercitation ullamco laboris
-                nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-                in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-                nulla pariatur.
-              </p>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="addkomen">
-        <p style="font-weight: bold">Add Reviews</p>
-        <div class="tambahkankomen">
-          <p>type here....</p>
-        </div>
-        <div class="addfoto">
-          <img src="./images/material-symbols_add-a-photo.png" alt="" />
-          Add photos
-        </div>
-      </div>
-      <div class="button">Submit</div>
-    </main>
-        `;
+    <section id="detail-culture" class="detail-culture">
+      <h2>Loading...</h2>
+    </section>
+    <section id="reviewForm" class="review-form">
+      <h2>Add Review</h2>
+      <form id="reviewForm">
+        <input type="text" id="reviewerName" placeholder="Name">
+        <textarea id="reviewContent" placeholder="Your Review"></textarea>
+        <label for="reviewImage" class="custom-file-input"><img class="home-img" src="./images/upphoto.png" alt="">
+        <p>Choose Image</p></label>
+        <input type="file" id="reviewImage" accept="image/*" />
+        <img id="uploadedImage" src="" alt="Uploaded Image" style="display: none;" />
+        
+       
+        <button id="submitReview">Submit Review</button>
+      </form>
+    </section>
+      `;
   },
 
   async afterRender() {
+    const url = UrlParser.parseActiveUrlWithoutCombinerWithoutLower();
+    const cultureId = url.id;
+
     try {
-      const response = await fetch('./data/dummy.json');
-      const data = await response.json();
-      this.updateCultureList(data.cultures);
+      const detailCultureSection = document.getElementById('detail-culture');
 
-     
-      const landingPageHeader = document.querySelector('.landing-head');
-      if (landingPageHeader) {
-        landingPageHeader.style.display = 'none';
-      }
+      const cultureData = await getCultureDataById(cultureId);
 
-      // Tampilkan Homepage Header
-      const homepageHeader = document.querySelector('.heading');
-      if (homepageHeader) {
-        homepageHeader.style.display = 'flex';
+      if (cultureData) {
+        detailCultureSection.innerHTML = `
+        <section class="detail">
+      <article class="detail-head">
+        <h2 class="detai-title">${cultureData.name}</h2>
+        <img class="lazyload" data-src="${cultureData.picture}" alt="${cultureData.name}" />
+      </article>
+      <article class="detail-info">
+        <h4>Address</h4>
+        <p>${cultureData.address}</p>
+        <h4>City</h4>
+        <p>${cultureData.city}</p>
+      </article>
+    </section>
+
+    <section class="detail-desc">
+      <h4>Description</h4>
+      <p>${cultureData.description}</p>
+      <h4 class="location">Location</h4>
+      <div id="map"></div>
+    </section>
+    
+
+    <section id="reviews-section">
+        <h2>Reviews</h2>
+        <ul id="reviews-list"></ul>
+      </section>
+    `;
+
+        const mapElement = document.getElementById('map');
+
+        try {
+          const googleMaps = await Map.loadGoogleMapsApi();
+          Map.createMap(googleMaps, mapElement, cultureData.location);
+        } catch (error) {
+          console.error('Error loading Google Maps API:', error.message);
+        }
+
+        const reviewsSection = document.getElementById('reviews-section');
+        const reviewsList = document.getElementById('reviews-list');
+
+        const reviews = cultureData.review;
+        if (reviews) {
+          Object.values(reviews).forEach((review) => {
+            const reviewItem = document.createElement('li');
+            reviewItem.innerHTML = `
+          
+          <h3>${review.name}</h3>
+          <p>${review.comment}</p>
+          <img src="${review.addPicture}" class="review-img">
+          
+        `;
+
+            reviewsList.appendChild(reviewItem);
+          });
+        } else {
+          reviewsSection.innerHTML = '';
+        }
+      } else {
+        console.warn('culture data not found for ID:', cultureId);
+        detailCultureSection.innerHTML = '<p>Data not found</p>';
       }
     } catch (error) {
-      console.error('Error fetching data:', error);
+      console.error('Error fetching culture data:', error.message);
     }
-  }
 
-}
+    const submitReviewButton = document.getElementById('submitReview');
+    submitReviewButton.addEventListener('click', async (event) => {
+      event.preventDefault();
+
+      const reviewerName = document.getElementById('reviewerName').value;
+      const reviewContent = document.getElementById('reviewContent').value;
+      const reviewImage = document.getElementById('reviewImage').files[0];
+
+      if (reviewerName && reviewContent) {
+        try {
+          await addReview(cultureId, {
+            name: reviewerName,
+            comment: reviewContent,
+            reviewImageFile: reviewImage,
+          });
+
+          document.getElementById('reviewerName').value = '';
+          document.getElementById('reviewContent').value = '';
+          document.getElementById('reviewImage').value = '';
+          document.getElementById('uploadedImage').src = '';
+
+          window.location.reload();
+        } catch (error) {
+          console.error('Error submitting review:', error.message);
+        }
+      } else {
+        alert('Please fill in all required fields.');
+      }
+    });
+
+    const reviewImage = document.getElementById('reviewImage');
+
+    reviewImage.addEventListener('change', () => {
+      const uploadedImage = document.getElementById('uploadedImage');
+      const reader = new FileReader();
+      reader.onload = () => {
+        uploadedImage.src = reader.result;
+        uploadedImage.style.display = 'block';
+      };
+      reader.readAsDataURL(reviewImage.files[0]);
+    });
+
+    const landingPageHeader = document.querySelector('.landing-head');
+    if (landingPageHeader) {
+      landingPageHeader.style.display = 'none';
+    }
+
+    const homepageHeader = document.querySelector('.heading');
+    if (homepageHeader) {
+      homepageHeader.style.display = 'flex';
+    }
+  },
+};
 
 export default Detail;

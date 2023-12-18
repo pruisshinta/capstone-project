@@ -1,7 +1,6 @@
-/* eslint-disable no-underscore-dangle */
-import DrawerInitiator from "../utils/drawer";
-import UrlParser from "../routes/urlParse";
-import routes from "../routes/routes";
+import DrawerInitiator from '../utils/drawer';
+import UrlParser from '../routes/urlParse';
+import routes from '../routes/routes';
 
 class App {
   constructor({ button, drawer, content }) {
@@ -21,23 +20,17 @@ class App {
   }
 
   async renderPage() {
-    console.log("url");
     const url = UrlParser.parseActiveUrlWithCombiner();
     const page = routes[url];
-    
-    if (page) {
-      this._content.innerHTML = await page.render();
-      await page.afterRender();
-    } else {
-    
-    }
-    // const skipLinkElem = document.querySelector('.skip');
-    // skipLinkElem.addEventListener('click', (event) => {
-    //   event.preventDefault();
-    //   document.querySelector('#main-content').focus();
-    // });
+    this._content.innerHTML = await page.render();
+    await page.afterRender();
+
+    const skipLinkElem = document.querySelector('.skip');
+    skipLinkElem.addEventListener('click', (event) => {
+      event.preventDefault();
+      document.querySelector('#search').focus();
+    });
   }
-  
 }
 
 export default App;

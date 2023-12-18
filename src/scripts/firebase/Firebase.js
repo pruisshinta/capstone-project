@@ -1,18 +1,17 @@
-// Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
+import { initializeApp } from 'firebase/app';
 
-// Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDb3IFwaW6dL_uNpS8ZLZySDbEELFVc1YE",
-  authDomain: "capstone-project-de553.firebaseapp.com",
-  projectId: "capstone-project-de553",
-  storageBucket: "capstone-project-de553.appspot.com",
-  messagingSenderId: "597929631188",
-  appId: "1:597929631188:web:cc695f2972ad4a40a1ca41"
+  apiKey: 'AIzaSyArmyBM0BSjKEe9_v_9DUjpxv4fb6w7uZM',
+  authDomain: 'culture-api-83eae.firebaseapp.com',
+  databaseURL: 'https://culture-api-83eae-default-rtdb.firebaseio.com',
+  projectId: 'culture-api-83eae',
+  storageBucket: 'culture-api-83eae.appspot.com',
+  messagingSenderId: '336822166213',
+  appId: '1:336822166213:web:e777f47b586261b55646ac',
+  measurementId: 'G-Y98YQ776CQ',
 };
 
-// Initialize Firebase
+
 const app = initializeApp(firebaseConfig);
 
-// Export the initialized Firebase app
 export default app;
