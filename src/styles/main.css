@@ -406,7 +406,9 @@
       font-weight: lighter;
     }
   
-    
+    .detail-desc .location{
+      margin-top: 20px;
+    }
     
     .detail-menu{
       display: grid;
@@ -617,9 +619,9 @@ font-weight: lighter;
   
   .signin-button {
       margin: 20px; 
-      height: 30px;
+      height: 44px;
       font-size: 14px;
-      width: 70px;
+      width: 75px;
       color: #fff;
       border-radius: 5px;
       border: 1px solid #fff;
@@ -750,35 +752,38 @@ font-weight: lighter;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 528px;
-    margin-top: 20px;
-    background-color: #f4f4f4; /* Add a background color for the body */
+    margin-top: 70px;
+    background-color: #f4f4f4; 
   }
   
   .container {
     display: flex;
-    overflow: hidden;
     border-radius: 20px;
-    max-width: 50%;
-    max-height: 528px;
-    margin: auto;
-    width: 50%;
-    height: 528px;
+    width: 85%;
+    height: 500px;
+    background-color: #fff;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow for card-like appearance */
   }
   
   .signin-image {
     flex: 1;
     background-image: url("/src/public/images/login.png");
-    background-size: cover;
     background-position: center;
+    border-radius: 20px 0 0 20px;
     height: 100%;
   }
   
   .signin-header {
-    margin-top: 40px;
-    margin-bottom: 20px;
+    margin: 24px;
     text-align: center;
+  }
+
+  .signin-header h1{
+    font-size: 25px;
+    color: #CE5A18;
+  }
+  .signin-header p{
+    color: #3E3E3E;
   }
   
   .form {
@@ -791,23 +796,35 @@ font-weight: lighter;
     flex-direction: column;
   }
   
-  .signin-button {
+  .signin-btn {
     background-color: #ce5a18;
     border-radius: 5px;
     border: 1.5px solid #fff;
     margin-top: 10px;
     padding: 0 15px 0 15px;
     color: #fff;
-    font-size: 12px;
-    height: 40px;
+    height: 44px;
   }
   
-  .signin-button:hover {
+  .signin-btn:hover {
     background-color: white;
     color: black;
     cursor: pointer;
     border: 1px solid gray;
   }
+
+  .akun{
+    text-align: center;
+    margin: 20px;
+    font-size: 12px;
+    color: #3E3E3E;
+  }
+
+  .akun a{
+    text-decoration: none;
+    color: #CE5A18;
+  }
+  
   
   
   
@@ -818,24 +835,15 @@ font-weight: lighter;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 528px;
-    margin-top: 20px;
+    margin-top: 70px;
     background-color: #f4f4f4; /* Add a background color for the body */
-  }
-  
-  .container {
-    display: flex;
-    margin: auto;
-    width: 50%;
-    height: 528px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add box shadow for card-like appearance */
   }
   
   .register-image {
     flex: 1;
     background-image: url("/src/public/images/signup.png");
-    background-size: cover;
     background-position: center;
+    border-radius: 20px 0 0 20px;
     height: 100%;
   }
   
@@ -863,7 +871,7 @@ font-weight: lighter;
     padding: 0 15px 0 15px;
     color: #fff;
     font-size: 12px;
-    height: 40px;
+    height: 44px;
   }
   
   .register-button:hover {
@@ -884,40 +892,38 @@ font-weight: lighter;
     height: 100%;
   }
   
-  .label-title {
-    color: black;
-  }
-  
   .input-container {
     position: relative;
     margin-bottom: 10px;
   }
   
   .input-container input {
-    padding: 10px;
-    width: 100%;
+    padding: 17px;
+    width: 300px;
     box-sizing: border-box;
     border: 1px solid #ccc;
     border-radius: 5px;
-    font-size: 16px;
+    font-size: 14px;
     outline: none;
+    margin-top: 5px;
     transition: border-color 0.3s;
   }
   
   .input-container label {
     position: absolute;
-    bottom: 20px;
+    margin-top: 20px;
     left: 10px;
-    font-size: 16px;
-    color: #333;
+    font-size: 14px;
+    color: #939393;
+    font-weight: lighter;
     pointer-events: none;
     transition: top 0.3s, font-size 0.3s;
   }
   
   input:focus + label,
   input:valid + label {
-    top: -6px;
-    font-size: 12px;
+    top: -10px;
+  font-size: 12px;
     color: #ce5a18;
   }
   
@@ -934,29 +940,10 @@ font-weight: lighter;
 }
 
   @media screen and (max-width: 499px) {
-
-    .signin{
-      width: 500px ;
-      
-      padding: 0px;
-      margin-top: 40px;
-      height: 400px;
-    }
-  
-    .register{
-      width: 500px ;
-      
-      padding: 0px;
-      margin-top: 40px;
-      height: 400px;
-    }
   
     .register-image{
       display: none;
     }
-  
-   
-  
     .signin-image{
       display: none;
     }
@@ -987,9 +974,11 @@ font-weight: lighter;
 
   @media screen and (min-width: 499px) {
 
-
-    .signin{
-      height: 400px;
+    .register-image{
+      display: none;
+    }
+    .signin-image{
+      display: none;
     }
 
   .head-menu{
@@ -1091,9 +1080,6 @@ font-weight: lighter;
 }
 
 @media screen and (min-width: 500px) {
-  .signin{
-    height: 400px;
-  }
   
   .hero-desc{
     display: block;
@@ -1162,13 +1148,17 @@ font-weight: lighter;
  
 
 @media screen and (min-width: 600px) {
+
+      .register-image{
+      display: block;
+    }
+    .signin-image{
+      display: block;
+    }
   .nav{
     width: 50%;
   }
   
-  .signin{
-    height: 400px;
-  }
 
   .culture-list{
     display: grid;
@@ -1312,10 +1302,6 @@ font-weight: lighter;
 
 @media screen and (min-width: 720px) {
 
-  .signin-button {
-      margin: 25px;
-      height: 32px;
-  }
   .hero-bold {
       font-size: 32px;
   }
