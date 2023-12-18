@@ -80,6 +80,7 @@ const Homepage = {
   },
 
   updateCultureList(cultures) {
+    console.log(cultures);
     const cultureListElement = document.getElementById('culture-list');
   
     const cultureItemsHTML = cultures.map((culture) => `
