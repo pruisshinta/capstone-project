@@ -25,21 +25,21 @@ Build Production: <br>
 `npm run build`
 
 ### PROJECT RESOURCES
-#### Programming Languages
+Programming Languages
 - HTML
 - CSS
 - JavaScript
-#### APIs
+APIs
 - Open APIs: OpenWeatherMap, Google Maps
 - Private APIs:
 - API Testing: Postman
-#### Cloud Backend
+Cloud Backend
 - phpMyAdmin
 - Firebase
-#### Libraries
+Libraries
 - Node Package Manager
 - ESLint
-#### Deployment
+Deployment
 - Netlify
 
 ### Design
