@@ -19,7 +19,7 @@ Install dependencies: <br>
 `npm install`
 
 Run server in development mode: <br>
-`npm run start`
+`npm run start-dev`
 
 Build Production: <br>
 `npm run build`
@@ -29,16 +29,20 @@ Programming Languages
 - HTML
 - CSS
 - JavaScript
+
 APIs
 - Open APIs: OpenWeatherMap, Google Maps
 - Private APIs:
 - API Testing: Postman
+
 Cloud Backend
 - phpMyAdmin
 - Firebase
+
 Libraries
 - Node Package Manager
 - ESLint
+
 Deployment
 - Netlify
 
