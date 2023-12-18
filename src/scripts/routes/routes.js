@@ -6,6 +6,7 @@ import Register from '../views/pages/register';
 
 const routes = {
   '/': Landingpage,
+  '/landing': Landingpage,
   '/home': Homepage,
   '/detail/:id': Detail,
   '/signin': SignIn,
